@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.b1505052.chunk.css",
-    "main.js": "/static/js/main.c0acc15e.chunk.js",
-    "main.js.map": "/static/js/main.c0acc15e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.93cc38b7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.93cc38b7.js.map",
+    "main.js": "/static/js/main.abba0263.chunk.js",
+    "main.js.map": "/static/js/main.abba0263.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ad36e6b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ad36e6b5.js.map",
     "static/css/2.b73a3385.chunk.css": "/static/css/2.b73a3385.chunk.css",
-    "static/js/2.447daa53.chunk.js": "/static/js/2.447daa53.chunk.js",
-    "static/js/2.447daa53.chunk.js.map": "/static/js/2.447daa53.chunk.js.map",
-    "static/js/3.a3cb2481.chunk.js": "/static/js/3.a3cb2481.chunk.js",
-    "static/js/3.a3cb2481.chunk.js.map": "/static/js/3.a3cb2481.chunk.js.map",
+    "static/js/2.c476a3c9.chunk.js": "/static/js/2.c476a3c9.chunk.js",
+    "static/js/2.c476a3c9.chunk.js.map": "/static/js/2.c476a3c9.chunk.js.map",
+    "static/js/3.93e62fa0.chunk.js": "/static/js/3.93e62fa0.chunk.js",
+    "static/js/3.93e62fa0.chunk.js.map": "/static/js/3.93e62fa0.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.b73a3385.chunk.css.map": "/static/css/2.b73a3385.chunk.css.map",
     "static/css/main.b1505052.chunk.css.map": "/static/css/main.b1505052.chunk.css.map",
-    "static/js/2.447daa53.chunk.js.LICENSE.txt": "/static/js/2.447daa53.chunk.js.LICENSE.txt",
+    "static/js/2.c476a3c9.chunk.js.LICENSE.txt": "/static/js/2.c476a3c9.chunk.js.LICENSE.txt",
     "static/media/style.css": "/static/media/ElegantIcons.941bf29b.woff",
     "static/media/Icono-Consulting.png": "/static/media/Icono-Consulting.13922174.png",
     "static/media/Icono-Database-Services.png": "/static/media/Icono-Database-Services.388865f2.png",
@@ -24,7 +24,6 @@
     "static/media/action_img.jpg": "/static/media/action_img.b17d9132.jpg",
     "static/media/banner.jpg": "/static/media/banner.461cc099.jpg",
     "static/media/casos-de-estudio.jpg": "/static/media/casos-de-estudio.2761c49d.jpg",
-    "static/media/error.png": "/static/media/error.a3ae3d98.png",
     "static/media/all.css": "/static/media/fa-solid-900.f06e568e.eot",
     "static/media/francisco.jpg": "/static/media/francisco.6b8abb9c.jpg",
     "static/media/icono-about.jpg": "/static/media/icono-about.29a5144e.jpg",
@@ -49,10 +48,10 @@
     "static/media/themify-icons.css": "/static/media/themify.f0fc8c79.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.93cc38b7.js",
+    "static/js/runtime-main.ad36e6b5.js",
     "static/css/2.b73a3385.chunk.css",
-    "static/js/2.447daa53.chunk.js",
+    "static/js/2.c476a3c9.chunk.js",
     "static/css/main.b1505052.chunk.css",
-    "static/js/main.c0acc15e.chunk.js"
+    "static/js/main.abba0263.chunk.js"
   ]
 }
