@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.e0c3984a.chunk.css",
-    "main.js": "/static/js/main.430ce22f.chunk.js",
-    "main.js.map": "/static/js/main.430ce22f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8a248f00.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8a248f00.js.map",
+    "main.css": "/static/css/main.b321bcf9.chunk.css",
+    "main.js": "/static/js/main.f96c033c.chunk.js",
+    "main.js.map": "/static/js/main.f96c033c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a0499388.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a0499388.js.map",
     "static/css/2.b73a3385.chunk.css": "/static/css/2.b73a3385.chunk.css",
-    "static/js/2.ec62459e.chunk.js": "/static/js/2.ec62459e.chunk.js",
-    "static/js/2.ec62459e.chunk.js.map": "/static/js/2.ec62459e.chunk.js.map",
-    "static/js/3.32f00a09.chunk.js": "/static/js/3.32f00a09.chunk.js",
-    "static/js/3.32f00a09.chunk.js.map": "/static/js/3.32f00a09.chunk.js.map",
+    "static/js/2.47e04f22.chunk.js": "/static/js/2.47e04f22.chunk.js",
+    "static/js/2.47e04f22.chunk.js.map": "/static/js/2.47e04f22.chunk.js.map",
+    "static/js/3.d13848e9.chunk.js": "/static/js/3.d13848e9.chunk.js",
+    "static/js/3.d13848e9.chunk.js.map": "/static/js/3.d13848e9.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.b73a3385.chunk.css.map": "/static/css/2.b73a3385.chunk.css.map",
-    "static/css/main.e0c3984a.chunk.css.map": "/static/css/main.e0c3984a.chunk.css.map",
-    "static/js/2.ec62459e.chunk.js.LICENSE.txt": "/static/js/2.ec62459e.chunk.js.LICENSE.txt",
+    "static/css/main.b321bcf9.chunk.css.map": "/static/css/main.b321bcf9.chunk.css.map",
+    "static/js/2.47e04f22.chunk.js.LICENSE.txt": "/static/js/2.47e04f22.chunk.js.LICENSE.txt",
     "static/media/style.css": "/static/media/ElegantIcons.941bf29b.woff",
     "static/media/Icono-Consulting.png": "/static/media/Icono-Consulting.13922174.png",
     "static/media/Icono-Database-Services.png": "/static/media/Icono-Database-Services.388865f2.png",
@@ -57,10 +57,10 @@
     "static/media/themify-icons.css": "/static/media/themify.f0fc8c79.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a248f00.js",
+    "static/js/runtime-main.a0499388.js",
     "static/css/2.b73a3385.chunk.css",
-    "static/js/2.ec62459e.chunk.js",
-    "static/css/main.e0c3984a.chunk.css",
-    "static/js/main.430ce22f.chunk.js"
+    "static/js/2.47e04f22.chunk.js",
+    "static/css/main.b321bcf9.chunk.css",
+    "static/js/main.f96c033c.chunk.js"
   ]
 }
