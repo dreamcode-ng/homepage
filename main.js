@@ -2,9 +2,8 @@ const path = require("path")
 const fs = require("fs")
 
 const dirPath = path.join(__dirname, "../src/content")
-const dirPathPages = path.join(__dirname, "../src/pages/content")
 let postlist = []
-let pagelist = []
+
 
 const getPosts = () => {
     fs.readdir(dirPath, (err, files) => {
@@ -44,10 +43,12 @@ const getPosts = () => {
                 const timestamp = date.getTime() / 1000
                 console.log(postlist.length)
                 post = {
-                    id: timestamp,
+                    id: metadata.url,
                     title: metadata.title ? metadata.title : "No title given",
                     author: metadata.author ? metadata.author : "No author given",
                     date: metadata.date ? metadata.date : "No date given",
+                    url: metadata.url ? metadata.url : "No url given",
+                    imglink: metadata.imglink ? metadata.imglink : "No imglink given",
                     content: content ? content : "No content given",
                 }
                 postlist.push(post)
