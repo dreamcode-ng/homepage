@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6e92ab42.chunk.css",
-    "main.js": "/static/js/main.b2bb49a5.chunk.js",
-    "main.js.map": "/static/js/main.b2bb49a5.chunk.js.map",
+    "main.js": "/static/js/main.29a7032d.chunk.js",
+    "main.js.map": "/static/js/main.29a7032d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.81390489.js",
     "runtime-main.js.map": "/static/js/runtime-main.81390489.js.map",
     "static/css/2.b73a3385.chunk.css": "/static/css/2.b73a3385.chunk.css",
@@ -33,14 +33,14 @@
     "static/media/all.css": "/static/media/fa-solid-900.f06e568e.eot",
     "static/media/francisco.jpg": "/static/media/francisco.6b8abb9c.jpg",
     "static/media/icono-about.jpg": "/static/media/icono-about.f75c038d.jpg",
-    "static/media/img-devops-int.png": "/static/media/img-devops-int.569efea8.png",
-    "static/media/img-devops.png": "/static/media/img-devops.c7bbb102.png",
-    "static/media/img-scrum-int.png": "/static/media/img-scrum-int.a2dbbd7e.png",
-    "static/media/img-scrum.png": "/static/media/img-scrum.85efbc69.png",
+    "static/media/img-devops-int.png": "/static/media/img-devops-int.c404ebda.png",
+    "static/media/img-devops.png": "/static/media/img-devops.71c5cef3.png",
+    "static/media/img-scrum-int.png": "/static/media/img-scrum-int.aef39a6a.png",
+    "static/media/img-scrum.png": "/static/media/img-scrum.dbbcfb5a.png",
     "static/media/jonathan.jpg": "/static/media/jonathan.0028db36.jpg",
     "static/media/logo-miraclon.png": "/static/media/logo-miraclon.2b8ae4e7.png",
     "static/media/logo-target.png": "/static/media/logo-target.8d176a4e.png",
-    "static/media/planing.png": "/static/media/planing.b794f344.png",
+    "static/media/planing.png": "/static/media/planing.a94b6d4a.png",
     "static/media/post_img_1.png": "/static/media/post_img_1.7e65aa5a.png",
     "static/media/post_img_2.png": "/static/media/post_img_2.64da827f.png",
     "static/media/post_img_3.png": "/static/media/post_img_3.36752d6d.png",
@@ -51,9 +51,9 @@
     "static/media/slider-database.png": "/static/media/slider-database.84e59b9f.png",
     "static/media/slider-software.png": "/static/media/slider-software.945e6d1d.png",
     "static/media/slider-web-app.png": "/static/media/slider-web-app.73c8ca72.png",
-    "static/media/sprint_planning.jpg": "/static/media/sprint_planning.c8598a93.jpg",
-    "static/media/sprint_retrospectiva.jpg": "/static/media/sprint_retrospectiva.f4be117d.jpg",
-    "static/media/sprint_review.jpg": "/static/media/sprint_review.d07f7885.jpg",
+    "static/media/sprint_planning.jpg": "/static/media/sprint_planning.508639c7.jpg",
+    "static/media/sprint_retrospectiva.jpg": "/static/media/sprint_retrospectiva.8a9b2937.jpg",
+    "static/media/sprint_review.jpg": "/static/media/sprint_review.d11cb728.jpg",
     "static/media/themify-icons.css": "/static/media/themify.f0fc8c79.svg"
   },
   "entrypoints": [
@@ -61,6 +61,6 @@
     "static/css/2.b73a3385.chunk.css",
     "static/js/2.10110ea6.chunk.js",
     "static/css/main.6e92ab42.chunk.css",
-    "static/js/main.b2bb49a5.chunk.js"
+    "static/js/main.29a7032d.chunk.js"
   ]
 }
