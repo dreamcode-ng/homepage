@@ -11,6 +11,7 @@ const getPosts = () => {
             return console.log("Failed to list contents of directory: " + err)
         }
         files.forEach((file, i) => {
+            console.log("name: " + file)
             let obj = {}
             let post
             fs.readFile(`${dirPath}/${file}`, "utf8", (err, contents) => {
@@ -41,9 +42,9 @@ const getPosts = () => {
                 const content = parseContent({lines, metadataIndices})
                 const date = new Date(metadata.date)
                 const timestamp = date.getTime() / 1000
-                console.log(postlist.length)
+//console.log(postlist.length)
                 post = {
-                    id: metadata.url,
+                    id: i + 1,
                     title: metadata.title ? metadata.title : "No title given",
                     author: metadata.author ? metadata.author : "No author given",
                     date: metadata.date ? metadata.date : "No date given",
@@ -51,6 +52,9 @@ const getPosts = () => {
                     imglink: metadata.imglink ? metadata.imglink : "No imglink given",
                     content: content ? content : "No content given",
                 }
+
+console.log("id: " + post.id + " name: " + post.title + " url: " + post.url + " Fecha: " + post.date)
+
                 postlist.push(post)
                 if (i === files.length - 1) {
                     //Orden de los post segun la fecha de creación
