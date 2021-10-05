@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e2c2143.chunk.css",
-    "main.js": "/static/js/main.a8416d28.chunk.js",
-    "main.js.map": "/static/js/main.a8416d28.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4236c153.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4236c153.js.map",
-    "static/css/2.b73a3385.chunk.css": "/static/css/2.b73a3385.chunk.css",
-    "static/js/2.15aae978.chunk.js": "/static/js/2.15aae978.chunk.js",
-    "static/js/2.15aae978.chunk.js.map": "/static/js/2.15aae978.chunk.js.map",
-    "static/js/3.1b4cea92.chunk.js": "/static/js/3.1b4cea92.chunk.js",
-    "static/js/3.1b4cea92.chunk.js.map": "/static/js/3.1b4cea92.chunk.js.map",
+    "main.css": "/static/css/main.d26a9b48.chunk.css",
+    "main.js": "/static/js/main.d0777e00.chunk.js",
+    "main.js.map": "/static/js/main.d0777e00.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.96a91e1e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.96a91e1e.js.map",
+    "static/css/2.74937a21.chunk.css": "/static/css/2.74937a21.chunk.css",
+    "static/js/2.45d29969.chunk.js": "/static/js/2.45d29969.chunk.js",
+    "static/js/2.45d29969.chunk.js.map": "/static/js/2.45d29969.chunk.js.map",
+    "static/js/3.27f4f23e.chunk.js": "/static/js/3.27f4f23e.chunk.js",
+    "static/js/3.27f4f23e.chunk.js.map": "/static/js/3.27f4f23e.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.b73a3385.chunk.css.map": "/static/css/2.b73a3385.chunk.css.map",
-    "static/css/main.9e2c2143.chunk.css.map": "/static/css/main.9e2c2143.chunk.css.map",
-    "static/js/2.15aae978.chunk.js.LICENSE.txt": "/static/js/2.15aae978.chunk.js.LICENSE.txt",
+    "static/css/2.74937a21.chunk.css.map": "/static/css/2.74937a21.chunk.css.map",
+    "static/css/main.d26a9b48.chunk.css.map": "/static/css/main.d26a9b48.chunk.css.map",
+    "static/js/2.45d29969.chunk.js.LICENSE.txt": "/static/js/2.45d29969.chunk.js.LICENSE.txt",
+    "static/media/bannerHome.css": "/static/media/bannerMobile900.6df13a2b.png",
     "static/media/style.css": "/static/media/ElegantIcons.941bf29b.woff",
     "static/media/Icono-Consulting.png": "/static/media/Icono-Consulting.0121f3c6.png",
     "static/media/Icono-Database-Services.png": "/static/media/Icono-Database-Services.463a7404.png",
@@ -21,7 +22,7 @@
     "static/media/Icono-Web-and-Mobile-App.png": "/static/media/Icono-Web-and-Mobile-App.e45091e2.png",
     "static/media/simple-line-icons.css": "/static/media/Simple-Line-Icons.d25156c9.woff",
     "static/media/about_history.jpg": "/static/media/about_history.e0ebbc23.jpg",
-    "static/media/main.css": "/static/media/process_scrum_bg.4bca942d.png",
+    "static/media/main.css": "/static/media/testimonial_img.29c15fce.png",
     "static/media/blog_single.png": "/static/media/blog_single.2404c10f.png",
     "static/media/ejercicio.jpg": "/static/media/ejercicio.970f5319.jpg",
     "static/media/all.css": "/static/media/fa-solid-900.f06e568e.eot",
@@ -47,10 +48,10 @@
     "static/media/themify-icons.css": "/static/media/themify.f0fc8c79.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4236c153.js",
-    "static/css/2.b73a3385.chunk.css",
-    "static/js/2.15aae978.chunk.js",
-    "static/css/main.9e2c2143.chunk.css",
-    "static/js/main.a8416d28.chunk.js"
+    "static/js/runtime-main.96a91e1e.js",
+    "static/css/2.74937a21.chunk.css",
+    "static/js/2.45d29969.chunk.js",
+    "static/css/main.d26a9b48.chunk.css",
+    "static/js/main.d0777e00.chunk.js"
   ]
 }
