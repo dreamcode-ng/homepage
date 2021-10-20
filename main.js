@@ -13,7 +13,9 @@ const getPosts = () => {
             return console.log("Failed to list contents of directory: " + err)
         }
         files.forEach((file, i) => {
-            console.log("name: " + file)
+
+console.log("name: " + file)
+
             let obj = {}
             let post
             fs.readFile(`${dirPath}/${file}`, "utf8", (err, contents) => {
@@ -48,7 +50,9 @@ const getPosts = () => {
                 post = {
                     id: i + 1,
                     title: metadata.title ? metadata.title : "No title given",
-                    author: metadata.author ? metadata.author : "No author given",
+                    metaTitle: metadata.metaTitle ? metadata.metaTitle : "No metaTitle given",
+                    metaDescription: metadata.metaDescription ? metadata.metaDescription : "No metaDescription given",
+                    read: metadata.read ? metadata.read : "No read given",
                     date: metadata.date ? metadata.date : "No date given",
                     url: metadata.url ? metadata.url : "No url given",
                     imglink: metadata.imglink ? metadata.imglink : "No imglink given",
@@ -56,7 +60,8 @@ const getPosts = () => {
                     content: content ? content : "No content given",
                 }
 
-console.log("id: " + post.id + " name: " + post.title + " url: " + post.url + " Fecha: " + post.date + " category: " + post.category )
+//console.log("id: " + post.id + " name: " + post.title + " url: " + post.url + " Fecha: " + post.date + " category: " + post.category )
+console.log("id: " + post.id + " name: " + post.title + " meta Title: " + post.metaTitle )
 
                 postlist.push(post)
                 if (i === files.length - 1) {
@@ -77,7 +82,7 @@ console.log("id: " + post.id + " name: " + post.title + " url: " + post.url + " 
 
     return 
 }
-
+/* 
 const getPostsEn = () => {
     fs.readdir(dirPathEn, (err, files) => {
         if (err) {
@@ -148,7 +153,7 @@ console.log("id: " + post.id + " name: " + post.title + " url: " + post.url + " 
 
     return 
 }
-
-
-getPosts()
 getPostsEn()
+*/
+getPosts()
+
