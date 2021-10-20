@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.9663b5a8.chunk.css",
-    "main.js": "/static/js/main.023d11af.chunk.js",
-    "main.js.map": "/static/js/main.023d11af.chunk.js.map",
+    "main.css": "/static/css/main.1e2ecb62.chunk.css",
+    "main.js": "/static/js/main.35c14806.chunk.js",
+    "main.js.map": "/static/js/main.35c14806.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.596631f9.js",
     "runtime-main.js.map": "/static/js/runtime-main.596631f9.js.map",
     "static/css/2.74937a21.chunk.css": "/static/css/2.74937a21.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.8e228348.chunk.js.map": "/static/js/3.8e228348.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.74937a21.chunk.css.map": "/static/css/2.74937a21.chunk.css.map",
-    "static/css/main.9663b5a8.chunk.css.map": "/static/css/main.9663b5a8.chunk.css.map",
+    "static/css/main.1e2ecb62.chunk.css.map": "/static/css/main.1e2ecb62.chunk.css.map",
     "static/js/2.1499db4b.chunk.js.LICENSE.txt": "/static/js/2.1499db4b.chunk.js.LICENSE.txt",
     "static/media/bannerHome.css": "/static/media/bannerMobile900.6d06fe49.png",
     "static/media/DevIcon.png": "/static/media/DevIcon.2ee4b3df.png",
@@ -55,26 +55,26 @@
     "static/media/performance.png": "/static/media/performance.3c09ae48.png",
     "static/media/planing.png": "/static/media/planing.47a5d1f8.png",
     "static/media/relibility.png": "/static/media/relibility.52491647.png",
-    "static/media/retencion-de-talento.jpg": "/static/media/retencion-de-talento.ec3695c2.jpg",
+    "static/media/retencion-de-talento.jpg": "/static/media/retencion-de-talento.4ab10f36.jpg",
     "static/media/scale.png": "/static/media/scale.5a41ea14.png",
     "static/media/security.png": "/static/media/security.31f48e28.png",
-    "static/media/sistemas-en-la-nube.jpg": "/static/media/sistemas-en-la-nube.e963233a.jpg",
+    "static/media/sistemas-en-la-nube.jpg": "/static/media/sistemas-en-la-nube.035bf9d7.jpg",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
     "static/media/speed.png": "/static/media/speed.db989a90.png",
     "static/media/sprint_planning.jpg": "/static/media/sprint_planning.508639c7.jpg",
     "static/media/sprint_retrospectiva.jpg": "/static/media/sprint_retrospectiva.8a9b2937.jpg",
     "static/media/sprint_review.jpg": "/static/media/sprint_review.d11cb728.jpg",
-    "static/media/talento-tecnologico.png": "/static/media/talento-tecnologico.b09a9b72.png",
+    "static/media/talento-tecnologico.jpg": "/static/media/talento-tecnologico.9309f343.jpg",
     "static/media/team.png": "/static/media/team.80b8155e.png",
     "static/media/testimonial.css": "/static/media/testimonial_img.29c15fce.png",
     "static/media/themify-icons.css": "/static/media/themify.f0fc8c79.svg",
-    "static/media/trabajo-remoto.png": "/static/media/trabajo-remoto.f09f8d26.png"
+    "static/media/trabajo-remoto.jpg": "/static/media/trabajo-remoto.4618da2b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.596631f9.js",
     "static/css/2.74937a21.chunk.css",
     "static/js/2.1499db4b.chunk.js",
-    "static/css/main.9663b5a8.chunk.css",
-    "static/js/main.023d11af.chunk.js"
+    "static/css/main.1e2ecb62.chunk.css",
+    "static/js/main.35c14806.chunk.js"
   ]
 }
