@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e2ecb62.chunk.css",
-    "main.js": "/static/js/main.24f58e7a.chunk.js",
-    "main.js.map": "/static/js/main.24f58e7a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.596631f9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.596631f9.js.map",
+    "main.css": "/static/css/main.6701b204.chunk.css",
+    "main.js": "/static/js/main.e8d3c7b6.chunk.js",
+    "main.js.map": "/static/js/main.e8d3c7b6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6b2adf09.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6b2adf09.js.map",
     "static/css/2.74937a21.chunk.css": "/static/css/2.74937a21.chunk.css",
-    "static/js/2.1499db4b.chunk.js": "/static/js/2.1499db4b.chunk.js",
-    "static/js/2.1499db4b.chunk.js.map": "/static/js/2.1499db4b.chunk.js.map",
-    "static/js/3.8e228348.chunk.js": "/static/js/3.8e228348.chunk.js",
-    "static/js/3.8e228348.chunk.js.map": "/static/js/3.8e228348.chunk.js.map",
+    "static/js/2.f245bddb.chunk.js": "/static/js/2.f245bddb.chunk.js",
+    "static/js/2.f245bddb.chunk.js.map": "/static/js/2.f245bddb.chunk.js.map",
+    "static/js/3.f27f7005.chunk.js": "/static/js/3.f27f7005.chunk.js",
+    "static/js/3.f27f7005.chunk.js.map": "/static/js/3.f27f7005.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.74937a21.chunk.css.map": "/static/css/2.74937a21.chunk.css.map",
-    "static/css/main.1e2ecb62.chunk.css.map": "/static/css/main.1e2ecb62.chunk.css.map",
-    "static/js/2.1499db4b.chunk.js.LICENSE.txt": "/static/js/2.1499db4b.chunk.js.LICENSE.txt",
+    "static/css/main.6701b204.chunk.css.map": "/static/css/main.6701b204.chunk.css.map",
+    "static/js/2.f245bddb.chunk.js.LICENSE.txt": "/static/js/2.f245bddb.chunk.js.LICENSE.txt",
     "static/media/bannerHome.css": "/static/media/bannerMobile900.6d06fe49.png",
     "static/media/DevIcon.png": "/static/media/DevIcon.2ee4b3df.png",
     "static/media/Dreamcode_IlustraciónZigZag.png": "/static/media/Dreamcode_IlustraciónZigZag.e9fab4c8.png",
@@ -28,10 +28,6 @@
     "static/media/blog.css": "/static/media/blog-banner.34fc788f.jpg",
     "static/media/delivery.png": "/static/media/delivery.7b5a18bd.png",
     "static/media/all.css": "/static/media/fa-solid-900.f06e568e.eot",
-    "static/media/fondo-app.png": "/static/media/fondo-app.e9d3e9a0.png",
-    "static/media/fondo-base.png": "/static/media/fondo-base.9e9c3a14.png",
-    "static/media/fondo-consultoria.png": "/static/media/fondo-consultoria.a958920f.png",
-    "static/media/fondo-desarrollo.png": "/static/media/fondo-desarrollo.28f22e81.png",
     "static/media/main.css": "/static/media/fondo-home.e42ccc50.png",
     "static/media/fondo-home2.png": "/static/media/fondo-home2.d600f460.png",
     "static/media/fondo-home3.png": "/static/media/fondo-home3.96e61a30.png",
@@ -71,10 +67,10 @@
     "static/media/trabajo-remoto.jpg": "/static/media/trabajo-remoto.4618da2b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.596631f9.js",
+    "static/js/runtime-main.6b2adf09.js",
     "static/css/2.74937a21.chunk.css",
-    "static/js/2.1499db4b.chunk.js",
-    "static/css/main.1e2ecb62.chunk.css",
-    "static/js/main.24f58e7a.chunk.js"
+    "static/js/2.f245bddb.chunk.js",
+    "static/css/main.6701b204.chunk.css",
+    "static/js/main.e8d3c7b6.chunk.js"
   ]
 }
