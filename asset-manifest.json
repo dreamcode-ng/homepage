@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.6701b204.chunk.css",
-    "main.js": "/static/js/main.e8d3c7b6.chunk.js",
-    "main.js.map": "/static/js/main.e8d3c7b6.chunk.js.map",
+    "main.css": "/static/css/main.02a99e6f.chunk.css",
+    "main.js": "/static/js/main.eac76e00.chunk.js",
+    "main.js.map": "/static/js/main.eac76e00.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6b2adf09.js",
     "runtime-main.js.map": "/static/js/runtime-main.6b2adf09.js.map",
     "static/css/2.74937a21.chunk.css": "/static/css/2.74937a21.chunk.css",
@@ -12,17 +12,17 @@
     "static/js/3.f27f7005.chunk.js.map": "/static/js/3.f27f7005.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.74937a21.chunk.css.map": "/static/css/2.74937a21.chunk.css.map",
-    "static/css/main.6701b204.chunk.css.map": "/static/css/main.6701b204.chunk.css.map",
+    "static/css/main.02a99e6f.chunk.css.map": "/static/css/main.02a99e6f.chunk.css.map",
     "static/js/2.f245bddb.chunk.js.LICENSE.txt": "/static/js/2.f245bddb.chunk.js.LICENSE.txt",
     "static/media/bannerHome.css": "/static/media/bannerMobile900.6d06fe49.png",
-    "static/media/DevIcon.png": "/static/media/DevIcon.2ee4b3df.png",
+    "static/media/DevIcon.png": "/static/media/DevIcon.4b9f9833.png",
     "static/media/Dreamcode_IlustraciónZigZag.png": "/static/media/Dreamcode_IlustraciónZigZag.e9fab4c8.png",
     "static/media/style.css": "/static/media/ElegantIcons.941bf29b.woff",
     "static/media/Icono-Consulting.png": "/static/media/Icono-Consulting.f077308f.png",
     "static/media/Icono-Database-Services.png": "/static/media/Icono-Database-Services.ce0484fd.png",
     "static/media/Icono-Software.png": "/static/media/Icono-Software.f1b9de0d.png",
     "static/media/Icono-Web-and-Mobile-App.png": "/static/media/Icono-Web-and-Mobile-App.a005e5f7.png",
-    "static/media/OpsIcon.png": "/static/media/OpsIcon.1b9e1a22.png",
+    "static/media/OpsIcon.png": "/static/media/OpsIcon.a32ccfe5.png",
     "static/media/simple-line-icons.css": "/static/media/Simple-Line-Icons.d25156c9.woff",
     "static/media/bannerJob.png": "/static/media/bannerJob.9bd45759.png",
     "static/media/blog.css": "/static/media/blog-banner.34fc788f.jpg",
@@ -70,7 +70,7 @@
     "static/js/runtime-main.6b2adf09.js",
     "static/css/2.74937a21.chunk.css",
     "static/js/2.f245bddb.chunk.js",
-    "static/css/main.6701b204.chunk.css",
-    "static/js/main.e8d3c7b6.chunk.js"
+    "static/css/main.02a99e6f.chunk.css",
+    "static/js/main.eac76e00.chunk.js"
   ]
 }
