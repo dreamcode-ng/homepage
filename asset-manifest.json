@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.65bd5d20.chunk.css",
-    "main.js": "/static/js/main.7643a456.chunk.js",
-    "main.js.map": "/static/js/main.7643a456.chunk.js.map",
+    "main.js": "/static/js/main.4b1236bf.chunk.js",
+    "main.js.map": "/static/js/main.4b1236bf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.596631f9.js",
     "runtime-main.js.map": "/static/js/runtime-main.596631f9.js.map",
     "static/css/2.74937a21.chunk.css": "/static/css/2.74937a21.chunk.css",
@@ -16,7 +16,7 @@
     "static/js/2.87e40f3e.chunk.js.LICENSE.txt": "/static/js/2.87e40f3e.chunk.js.LICENSE.txt",
     "static/media/Agile-SCRUM-TI.jpg": "/static/media/Agile-SCRUM-TI.1b52b4c6.jpg",
     "static/media/bannerHome.css": "/static/media/bannerMobile900.6d06fe49.png",
-    "static/media/CIO-director-de-tecnología-el-futuro-de-las-empresas.jpg": "/static/media/CIO-director-de-tecnología-el-futuro-de-las-empresas.5567074c.jpg",
+    "static/media/CIO-director-de-tecnologia-el-futuro-de-las-empresas.jpg": "/static/media/CIO-director-de-tecnologia-el-futuro-de-las-empresas.5567074c.jpg",
     "static/media/DevIcon.png": "/static/media/DevIcon.4b9f9833.png",
     "static/media/Dreamcode_IlustraciónZigZag.png": "/static/media/Dreamcode_IlustraciónZigZag.e9fab4c8.png",
     "static/media/style.css": "/static/media/ElegantIcons.941bf29b.woff",
@@ -53,7 +53,7 @@
     "static/media/owner.png": "/static/media/owner.3c34181b.png",
     "static/media/performance.png": "/static/media/performance.3c09ae48.png",
     "static/media/planing.png": "/static/media/planing.47a5d1f8.png",
-    "static/media/que-hacer-ante-la-poca-oferta-de-talento-tecnológico.jpg": "/static/media/que-hacer-ante-la-poca-oferta-de-talento-tecnológico.178ecab6.jpg",
+    "static/media/que-hacer-ante-la-poca-oferta-de-talento-tecnologico.jpg": "/static/media/que-hacer-ante-la-poca-oferta-de-talento-tecnologico.178ecab6.jpg",
     "static/media/relibility.png": "/static/media/relibility.52491647.png",
     "static/media/retencion-de-talento.jpg": "/static/media/retencion-de-talento.4ab10f36.jpg",
     "static/media/scale.png": "/static/media/scale.5a41ea14.png",
@@ -75,6 +75,6 @@
     "static/css/2.74937a21.chunk.css",
     "static/js/2.87e40f3e.chunk.js",
     "static/css/main.65bd5d20.chunk.css",
-    "static/js/main.7643a456.chunk.js"
+    "static/js/main.4b1236bf.chunk.js"
   ]
 }
