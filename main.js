@@ -14,7 +14,7 @@ const getPosts = () => {
         }
         files.forEach((file, i) => {
 
-console.log("name: " + file)
+
 
             let obj = {}
             let post
@@ -46,7 +46,7 @@ console.log("name: " + file)
                 const content = parseContent({lines, metadataIndices})
                 const date = new Date(metadata.date)
                 const timestamp = date.getTime() / 1000
-//console.log(postlist.length)
+console.log(timestamp + " " + date)
                 post = {
                     id: i + 1,
                     title: metadata.title ? metadata.title : "No title given",
@@ -60,15 +60,13 @@ console.log("name: " + file)
                     content: content ? content : "No content given",
                 }
 
-//console.log("id: " + post.id + " name: " + post.title + " url: " + post.url + " Fecha: " + post.date + " category: " + post.category )
-console.log("id: " + post.id + " name: " + post.title + " meta Title: " + post.metaTitle )
-
                 postlist.push(post)
                 if (i === files.length - 1) {
                     //Orden de los post segun la fecha de creación
                     const sortedList = postlist.sort ((a, b) => {
-                        return a.id < b.id ? 1 : -1
+                        return a.id > b.id ? 1 : -1
                     })
+
                     //Crea el archivo json
                     let data = JSON.stringify(sortedList)
                     fs.writeFileSync("src/posts.json", data)
