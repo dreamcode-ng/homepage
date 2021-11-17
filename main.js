@@ -47,6 +47,7 @@ const getPosts = () => {
                 const date = new Date(metadata.date)
                 const timestamp = date.getTime() / 1000
 console.log(timestamp + " " + date)
+
                 post = {
                     id: i + 1,
                     title: metadata.title ? metadata.title : "No title given",
@@ -59,7 +60,7 @@ console.log(timestamp + " " + date)
                     category: metadata.category ? metadata.category : "No category given",
                     content: content ? content : "No content given",
                 }
-
+console.log("id: " + post.id)
                 postlist.push(post)
                 if (i === files.length - 1) {
                     //Orden de los post segun la fecha de creación
