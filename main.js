@@ -1,24 +1,23 @@
 const path = require("path")
 const fs = require("fs")
 
-const dirPath = path.join(__dirname, "../src/content")
-const dirPathEn = path.join(__dirname, "../src/contentEn")
-let postlist = []
-let postlistEn = []
+const dirPathEN = path.join(__dirname, "../src/contentEN")
+const dirPathES = path.join(__dirname, "../src/contentES")
+
+let postlistES = []
+let postlistEN = []
 
 
-const getPosts = () => {
-    fs.readdir(dirPath, (err, files) => {
+const getPostsEN = () => {
+    fs.readdir(dirPathEN, (err, files) => {
         if (err) {
             return console.log("Failed to list contents of directory: " + err)
         }
         files.forEach((file, i) => {
 
-
-
             let obj = {}
             let post
-            fs.readFile(`${dirPath}/${file}`, "utf8", (err, contents) => {
+            fs.readFile(`${dirPathEN}/${file}`, "utf8", (err, contents) => {
                 const getMetadataIndices = (acc, elem, i) => {
                     if (/^---/.test(elem)) {
                         acc.push(i)
@@ -46,7 +45,8 @@ const getPosts = () => {
                 const content = parseContent({lines, metadataIndices})
                 const date = new Date(metadata.date)
                 const timestamp = date.getTime() / 1000
-console.log(timestamp + " " + date)
+
+//console.log("Articulos en English: " + postlistEN.length)
 
                 post = {
                     id: i + 1,
@@ -60,18 +60,25 @@ console.log(timestamp + " " + date)
                     category: metadata.category ? metadata.category : "No category given",
                     content: content ? content : "No content given",
                 }
-console.log("id: " + post.id)
-                postlist.push(post)
+
+                console.log("Articulos name English: " + post.title)
+
+                postlistEN.push(post)
                 if (i === files.length - 1) {
                     //Orden de los post segun la fecha de creación
-                    const sortedList = postlist.sort ((a, b) => {
+                    const sortedList = postlistEN.sort ((a, b) => {
                         return a.id > b.id ? 1 : -1
                     })
 
                     //Crea el archivo json
+                    //
                     let data = JSON.stringify(sortedList)
                     fs.writeFileSync("src/posts.json", data)
+
+                    
                 }
+
+                
                 
             })
         })
@@ -81,17 +88,22 @@ console.log("id: " + post.id)
 
     return 
 }
-/* 
-const getPostsEn = () => {
-    fs.readdir(dirPathEn, (err, files) => {
+
+
+//--------------------------Articulos en Español--------------------------
+
+const getPostsES = () => {
+    fs.readdir(dirPathES, (err, files) => {
         if (err) {
             return console.log("Failed to list contents of directory: " + err)
         }
         files.forEach((file, i) => {
-            console.log("name: " + file)
+
+//console.log("name Archivo: " + file)
+
             let obj = {}
             let post
-            fs.readFile(`${dirPathEn}/${file}`, "utf8", (err, contents) => {
+            fs.readFile(`${dirPathES}/${file}`, "utf8", (err, contents) => {
                 const getMetadataIndices = (acc, elem, i) => {
                     if (/^---/.test(elem)) {
                         acc.push(i)
@@ -119,7 +131,9 @@ const getPostsEn = () => {
                 const content = parseContent({lines, metadataIndices})
                 const date = new Date(metadata.date)
                 const timestamp = date.getTime() / 1000
-//console.log(postlist.length)
+
+console.log("Articulos en Español: " + postlistES.length)
+
                 post = {
                     id: i + 1,
                     title: metadata.title ? metadata.title : "No title given",
@@ -131,17 +145,20 @@ const getPostsEn = () => {
                     content: content ? content : "No content given",
                 }
 
-console.log("id: " + post.id + " name: " + post.title + " url: " + post.url + " Fecha: " + post.date + " category: " + post.category )
+//console.log("id: " + post.id + " name: " + post.title + " url: " + post.url + " Fecha: " + post.date + " category: " + post.category )
 
-                postlistEn.push(post)
+                postlistES.push(post)
                 if (i === files.length - 1) {
                     //Orden de los post segun la fecha de creación
-                    const sortedList = postlistEn.sort ((a, b) => {
+                    const sortedList = postlistES.sort ((a, b) => {
                         return a.id < b.id ? 1 : -1
                     })
                     //Crea el archivo json
                     let data = JSON.stringify(sortedList)
-                    fs.writeFileSync("src/postsEn.json", data)
+
+                    //console.log("Que es: " + data)
+                    //fs.writeFileSync("src/assets/translations/fr.json", data)
+                    fs.writeFileSync("src/postsES.json", data)
                 }
                 
             })
@@ -152,7 +169,7 @@ console.log("id: " + post.id + " name: " + post.title + " url: " + post.url + " 
 
     return 
 }
-getPostsEn()
-*/
-getPosts()
+
+getPostsES()
+getPostsEN()
 
