@@ -4,48 +4,170 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 
 <url>
-  <loc>https://www.dreamcodesoft.com/</loc>
-  <lastmod>2021-08-11T04:48:26+00:00</lastmod>
-  <priority>1.00</priority>
+	<loc>https://www.dreamcodesoft.com/</loc>
+	<lastmod>2021-11-24T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.dreamcodesoft.com/about/</loc>
-  <lastmod>2021-08-11T04:48:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.dreamcodesoft.com/about/</loc>
+	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.dreamcodesoft.com/devops/</loc>
-  <lastmod>2021-08-11T04:48:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.dreamcodesoft.com/devops/</loc>
+	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.dreamcodesoft.com/scrum/</loc>
-  <lastmod>2021-08-11T04:48:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.dreamcodesoft.com/scrum/</loc>
+	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.dreamcodesoft.com/jobs/</loc>
-  <lastmod>2021-08-11T04:48:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>http://www.dreamcodesoft.com/services/</loc>
+	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.dreamcodesoft.com/contact/</loc>
-  <lastmod>2021-08-18T04:55:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.dreamcodesoft.com/services/</loc>
+	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.dreamcodesoft.com/services/</loc>
-  <lastmod>2021-08-18T04:55:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>http://www.dreamcodesoft.com/contact/</loc>
+	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.dreamcodesoft.com/blog/</loc>
-  <lastmod>2021-10-20T04:55:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>http://www.dreamcodesoft.com/about/</loc>
+	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
-
+<url>
+	<loc>https://www.dreamcodesoft.com/contact/</loc>
+	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/blog/</loc>
+	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/blog/</loc>
+	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/scrum/</loc>
+	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/devops/</loc>
+	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/jobs/</loc>
+	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/jobs/</loc>
+	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/how-scrum-transformed-it-industry/</loc>
+	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/remote-working-in-software-development/</loc>
+	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/how-scrum-transformed-it-industry/</loc>
+	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/what-to-do-in-the-face-of-the-shortage-of-tech-talent/</loc>
+	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/remote-working-in-software-development/</loc>
+	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/what-to-do-in-the-face-of-the-shortage-of-tech-talent/</loc>
+	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/the-importance-of-retaining-tech-talent/</loc>
+	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/cio-director-of-technology-the-future-of-enterprises/</loc>
+	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/the-importance-of-retaining-tech-talent/</loc>
+	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/the-growing-need-for-cloud-systems/</loc>
+	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/cio-director-of-technology-the-future-of-enterprises/</loc>
+	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/the-growing-need-for-cloud-systems/</loc>
+	<lastmod>2021-11-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/talento-tecnologico-mejora-tu-contratacion-en-la-industria/</loc>
+	<lastmod>2021-11-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/talento-tecnologico-mejora-tu-contratacion-en-la-industria/</loc>
+	<lastmod>2021-11-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/the-risks-of-developing-in-no-code-tools/</loc>
+	<lastmod>2021-11-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/the-risks-of-developing-in-no-code-tools/</loc>
+	<lastmod>2021-11-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/blog-single/</loc>
+	<lastmod>2021-11-24T09:41:05+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/blog-single/</loc>
+	<lastmod>2021-11-24T09:41:05+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
 </urlset>
