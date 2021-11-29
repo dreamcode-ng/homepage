@@ -61,7 +61,7 @@ const getPostsEN = () => {
                     content: content ? content : "No content given",
                 }
 
-                console.log("Articulos name English: " + post.title)
+                console.log("Articulos metaTitulo: " + post.metaTitle)
 
                 postlistEN.push(post)
                 if (i === files.length - 1) {
@@ -74,11 +74,8 @@ const getPostsEN = () => {
                     //
                     let data = JSON.stringify(sortedList)
                     fs.writeFileSync("src/posts.json", data)
-
-                    
-                }
-
-                
+   
+                }   
                 
             })
         })
@@ -132,12 +129,14 @@ const getPostsES = () => {
                 const date = new Date(metadata.date)
                 const timestamp = date.getTime() / 1000
 
-console.log("Articulos en Español: " + postlistES.length)
+                
 
                 post = {
                     id: i + 1,
                     title: metadata.title ? metadata.title : "No title given",
-                    author: metadata.author ? metadata.author : "No author given",
+                    metaTitle: metadata.metaTitle ? metadata.metaTitle : "No metaTitle given",
+                    metaDescription: metadata.metaDescription ? metadata.metaDescription : "No metaDescription given",
+                    read: metadata.read ? metadata.read : "No read given",
                     date: metadata.date ? metadata.date : "No date given",
                     url: metadata.url ? metadata.url : "No url given",
                     imglink: metadata.imglink ? metadata.imglink : "No imglink given",
@@ -146,6 +145,7 @@ console.log("Articulos en Español: " + postlistES.length)
                 }
 
 //console.log("id: " + post.id + " name: " + post.title + " url: " + post.url + " Fecha: " + post.date + " category: " + post.category )
+console.log("Articulos metaTituloES: " + post.metaTitle)
 
                 postlistES.push(post)
                 if (i === files.length - 1) {
