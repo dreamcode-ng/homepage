@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.51628923.chunk.css",
+    "main.css": "/static/css/main.4cc17de2.chunk.css",
     "main.js": "/static/js/main.13ffaa67.chunk.js",
     "main.js.map": "/static/js/main.13ffaa67.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e93970e8.js",
@@ -12,7 +12,7 @@
     "static/js/3.983a3d55.chunk.js.map": "/static/js/3.983a3d55.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.b73a3385.chunk.css.map": "/static/css/2.b73a3385.chunk.css.map",
-    "static/css/main.51628923.chunk.css.map": "/static/css/main.51628923.chunk.css.map",
+    "static/css/main.4cc17de2.chunk.css.map": "/static/css/main.4cc17de2.chunk.css.map",
     "static/js/2.f36d1ddc.chunk.js.LICENSE.txt": "/static/js/2.f36d1ddc.chunk.js.LICENSE.txt",
     "static/media/Agile-SCRUM-TI.jpg": "/static/media/Agile-SCRUM-TI.1b52b4c6.jpg",
     "static/media/bannerHome.css": "/static/media/bannerMobile900.6d06fe49.png",
@@ -27,7 +27,7 @@
     "static/media/No-code-tools-risks.jpg": "/static/media/No-code-tools-risks.178ecab6.jpg",
     "static/media/OpsIcon.png": "/static/media/OpsIcon.a32ccfe5.png",
     "static/media/simple-line-icons.css": "/static/media/Simple-Line-Icons.d25156c9.woff",
-    "static/media/contacts.css": "/static/media/bannerContacto.9b1d0060.png",
+    "static/media/contacts.css": "/static/media/bannerContactoMovil.7da33964.png",
     "static/media/jobs.css": "/static/media/bannerJob.1268ba98.png",
     "static/media/blog.css": "/static/media/blog-banner.34fc788f.jpg",
     "static/media/delivery.png": "/static/media/delivery.7b5a18bd.png",
@@ -75,7 +75,7 @@
     "static/js/runtime-main.e93970e8.js",
     "static/css/2.b73a3385.chunk.css",
     "static/js/2.f36d1ddc.chunk.js",
-    "static/css/main.51628923.chunk.css",
+    "static/css/main.4cc17de2.chunk.css",
     "static/js/main.13ffaa67.chunk.js"
   ]
 }
