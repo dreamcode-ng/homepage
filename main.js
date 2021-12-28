@@ -46,7 +46,7 @@ const getPostsEN = () => {
                 const date = new Date(metadata.date)
                 const timestamp = date.getTime() / 1000
 
-//console.log("Articulos en English: " + postlistEN.length)
+
 
                 post = {
                     id: i + 1,
@@ -61,7 +61,7 @@ const getPostsEN = () => {
                     content: content ? content : "No content given",
                 }
 
-                console.log("Articulos metaTitulo: " + post.metaTitle)
+     
 
                 postlistEN.push(post)
                 if (i === files.length - 1) {
@@ -96,7 +96,7 @@ const getPostsES = () => {
         }
         files.forEach((file, i) => {
 
-//console.log("name Archivo: " + file)
+
 
             let obj = {}
             let post
@@ -144,8 +144,7 @@ const getPostsES = () => {
                     content: content ? content : "No content given",
                 }
 
-//console.log("id: " + post.id + " name: " + post.title + " url: " + post.url + " Fecha: " + post.date + " category: " + post.category )
-console.log("Articulos metaTituloES: " + post.metaTitle)
+
 
                 postlistES.push(post)
                 if (i === files.length - 1) {
@@ -156,7 +155,7 @@ console.log("Articulos metaTituloES: " + post.metaTitle)
                     //Crea el archivo json
                     let data = JSON.stringify(sortedList)
 
-                    //console.log("Que es: " + data)
+                 
                     //fs.writeFileSync("src/assets/translations/fr.json", data)
                     fs.writeFileSync("src/postsES.json", data)
                 }
