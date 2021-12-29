@@ -62,6 +62,7 @@ const getPostsEN = () => {
                 }
 
      
+console.log("titulo: " + post.title)
 
                 postlistEN.push(post)
                 if (i === files.length - 1) {
@@ -144,7 +145,7 @@ const getPostsES = () => {
                     content: content ? content : "No content given",
                 }
 
-
+                console.log("titulo ES: " + post.url)
 
                 postlistES.push(post)
                 if (i === files.length - 1) {
