@@ -26,32 +26,12 @@
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/services/</loc>
-	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
 	<loc>https://www.dreamcodesoft.com/services/</loc>
 	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/contact/</loc>
-	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>http://www.dreamcodesoft.com/about/</loc>
-	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
 	<loc>https://www.dreamcodesoft.com/contact/</loc>
-	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>http://www.dreamcodesoft.com/blog/</loc>
 	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
@@ -61,12 +41,125 @@
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/scrum/</loc>
+	<loc>https://www.dreamcodesoft.com/jobs/</loc>
 	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
+	<loc>https://www.dreamcodesoft.com/post/how-scrum-transformed-it-industry/</loc>
+	<lastmod>2021-12-24T09:41:03+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/remote-working-in-software-development/</loc>
+	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/what-to-do-in-the-face-of-the-shortage-of-tech-talent/</loc>
+	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/the-importance-of-retaining-tech-talent/</loc>
+	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/cio-director-of-technology-the-future-of-enterprises/</loc>
+	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/the-growing-need-for-cloud-systems/</loc>
+	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/the-risks-of-developing-in-no-code-tools/</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/talent-tech-improve-your-technology-recruitment/</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/talento-tecnologico-mejora-tu-contratacion-en-la-industria/</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/la-importancia-de-la-retaining-retencion-del-talento-tecnologico</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/la-creciente-necesidad-de-los-sistemas-en-la-nube</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/trabajo-remoto-en-desarollo-de-software</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/cio-director-de-tecnologia-el-futuro-de-las-empresas</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/riesgos-de-las-herramientas-sin-codigo</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/que-hacer-ante-la-poca-oferta-de-talento-tecnologico</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/como-scrum-revoluciono-el-sector-ti</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+
+<!-- http -->
+
+<url>
+	<loc>http://www.dreamcodesoft.com/</loc>
+	<lastmod>2021-11-24T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/about/</loc>
+	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
 	<loc>http://www.dreamcodesoft.com/devops/</loc>
+	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/scrum/</loc>
+	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/services/</loc>
+	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/contact/</loc>
+	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/blog/</loc>
 	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
@@ -76,98 +169,84 @@
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://www.dreamcodesoft.com/jobs/</loc>
-	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
 	<loc>http://www.dreamcodesoft.com/post/how-scrum-transformed-it-industry/</loc>
-	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<lastmod>2021-12-24T09:41:03+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/post/remote-working-in-software-development/</loc>
-	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/post/how-scrum-transformed-it-industry/</loc>
-	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
+	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/post/what-to-do-in-the-face-of-the-shortage-of-tech-talent/</loc>
-	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/post/remote-working-in-software-development/</loc>
-	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/post/what-to-do-in-the-face-of-the-shortage-of-tech-talent/</loc>
-	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
+	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/post/the-importance-of-retaining-tech-talent/</loc>
-	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
+	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/post/cio-director-of-technology-the-future-of-enterprises/</loc>
-	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/post/the-importance-of-retaining-tech-talent/</loc>
-	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
+	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/post/the-growing-need-for-cloud-systems/</loc>
-	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/post/cio-director-of-technology-the-future-of-enterprises/</loc>
-	<lastmod>2021-11-24T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/post/the-growing-need-for-cloud-systems/</loc>
-	<lastmod>2021-11-24T09:41:05+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://www.dreamcodesoft.com/post/talento-tecnologico-mejora-tu-contratacion-en-la-industria/</loc>
-	<lastmod>2021-11-24T09:41:05+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/post/talento-tecnologico-mejora-tu-contratacion-en-la-industria/</loc>
-	<lastmod>2021-11-24T09:41:05+01:00</lastmod>
+	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/post/the-risks-of-developing-in-no-code-tools/</loc>
-	<lastmod>2021-11-24T09:41:05+01:00</lastmod>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://www.dreamcodesoft.com/post/the-risks-of-developing-in-no-code-tools/</loc>
-	<lastmod>2021-11-24T09:41:05+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/post/talent-tech-improve-your-technology-recruitment/</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/blog-single/</loc>
-	<lastmod>2021-11-24T09:41:05+01:00</lastmod>
-	<priority>0.8</priority>
+	<loc>http://www.dreamcodesoft.com/post/talento-tecnologico-mejora-tu-contratacion-en-la-industria/</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://www.dreamcodesoft.com/blog-single/</loc>
-	<lastmod>2021-11-24T09:41:05+01:00</lastmod>
-	<priority>0.8</priority>
+	<loc>http://www.dreamcodesoft.com/post/la-importancia-de-la-retaining-retencion-del-talento-tecnologico</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/la-creciente-necesidad-de-los-sistemas-en-la-nube</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/trabajo-remoto-en-desarollo-de-software</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/cio-director-de-tecnologia-el-futuro-de-las-empresas</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/riesgos-de-las-herramientas-sin-codigo</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/que-hacer-ante-la-poca-oferta-de-talento-tecnologico</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/como-scrum-revoluciono-el-sector-ti</loc>
+	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+
 </urlset>
