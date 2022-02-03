@@ -2,9 +2,9 @@ const path = require("path")
 const fs = require("fs")
 
 const dirPathEN = path.join(__dirname, "../src/contentEN")
-const dirPathES = path.join(__dirname, "../src/contentES")
+//const dirPathES = path.join(__dirname, "../src/contentES")
 
-let postlistES = []
+//let postlistES = []
 let postlistEN = []
 
 
@@ -62,7 +62,7 @@ const getPostsEN = () => {
                 }
 
      
-console.log("titulo: " + post.title)
+    console.log("titulo En: " + post.title)
 
                 postlistEN.push(post)
                 if (i === files.length - 1) {
@@ -90,7 +90,7 @@ console.log("titulo: " + post.title)
 
 //--------------------------Articulos en Español--------------------------
 
-const getPostsES = () => {
+/*const getPostsES = () => {
     fs.readdir(dirPathES, (err, files) => {
         if (err) {
             return console.log("Failed to list contents of directory: " + err)
@@ -168,8 +168,8 @@ const getPostsES = () => {
 
 
     return 
-}
+}*/
 
-getPostsES()
+//getPostsES()
 getPostsEN()
 
