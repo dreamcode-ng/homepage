@@ -51,6 +51,11 @@
 	<priority>0.6</priority>
 </url>
 <url>
+	<loc>https://www.dreamcodesoft.com/post/what-agile-testing-is-and-its-pillars/</loc>
+	<lastmod>2022-02-08T09:41:03+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
 	<loc>https://www.dreamcodesoft.com/post/remote-working-in-software-development/</loc>
 	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
@@ -198,6 +203,11 @@
 	<loc>http://www.dreamcodesoft.com/jobs/</loc>
 	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
 	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/what-agile-testing-is-and-its-pillars/</loc>
+	<lastmod>2022-02-08T09:41:03+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/post/how-scrum-transformed-it-industry/</loc>
