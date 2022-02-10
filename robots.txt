@@ -3,7 +3,5 @@ Disallow: /nogooglebot/
 
 User-agent: *
 Allow: /
-Allow: /post/
-Allow: /landing/
 
 Sitemap: https://www.dreamcodesoft.com/sitemap.xml
