@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.093bfbad.chunk.css",
-    "main.js": "/static/js/main.814a78ca.chunk.js",
-    "main.js.map": "/static/js/main.814a78ca.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4f324296.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4f324296.js.map",
+    "main.js": "/static/js/main.b97da903.chunk.js",
+    "main.js.map": "/static/js/main.b97da903.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c9d331bf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c9d331bf.js.map",
     "static/css/2.b73a3385.chunk.css": "/static/css/2.b73a3385.chunk.css",
-    "static/js/2.f2248295.chunk.js": "/static/js/2.f2248295.chunk.js",
-    "static/js/2.f2248295.chunk.js.map": "/static/js/2.f2248295.chunk.js.map",
-    "static/js/3.26c19428.chunk.js": "/static/js/3.26c19428.chunk.js",
-    "static/js/3.26c19428.chunk.js.map": "/static/js/3.26c19428.chunk.js.map",
+    "static/js/2.069817aa.chunk.js": "/static/js/2.069817aa.chunk.js",
+    "static/js/2.069817aa.chunk.js.map": "/static/js/2.069817aa.chunk.js.map",
+    "static/js/3.18ff733c.chunk.js": "/static/js/3.18ff733c.chunk.js",
+    "static/js/3.18ff733c.chunk.js.map": "/static/js/3.18ff733c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.b73a3385.chunk.css.map": "/static/css/2.b73a3385.chunk.css.map",
     "static/css/main.093bfbad.chunk.css.map": "/static/css/main.093bfbad.chunk.css.map",
-    "static/js/2.f2248295.chunk.js.LICENSE.txt": "/static/js/2.f2248295.chunk.js.LICENSE.txt",
+    "static/js/2.069817aa.chunk.js.LICENSE.txt": "/static/js/2.069817aa.chunk.js.LICENSE.txt",
     "static/media/landing.css": "/static/media/BannerLandingDreamCode.f1d0fa1e.jpg",
     "static/media/bannerHome.css": "/static/media/bannerMobile900.6d06fe49.png",
+    "static/media/Brochure_DreamCode_V1.pdf": "/static/media/Brochure_DreamCode_V1.be4f558b.pdf",
     "static/media/CIO-director-of-technology-the-future-of-businesses.jpg": "/static/media/CIO-director-of-technology-the-future-of-businesses.ef90cf87.jpg",
     "static/media/DevIcon.png": "/static/media/DevIcon.4b9f9833.png",
     "static/media/Dreamcode_IlustraciónZigZag.png": "/static/media/Dreamcode_IlustraciónZigZag.e9fab4c8.png",
@@ -80,10 +81,10 @@
     "static/media/what-to-do-before-the-little-supply-of-technological-talent.jpg": "/static/media/what-to-do-before-the-little-supply-of-technological-talent.2c968384.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f324296.js",
+    "static/js/runtime-main.c9d331bf.js",
     "static/css/2.b73a3385.chunk.css",
-    "static/js/2.f2248295.chunk.js",
+    "static/js/2.069817aa.chunk.js",
     "static/css/main.093bfbad.chunk.css",
-    "static/js/main.814a78ca.chunk.js"
+    "static/js/main.b97da903.chunk.js"
   ]
 }
