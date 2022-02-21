@@ -62,7 +62,7 @@ const getPostsEN = () => {
                 }
 
      
-    console.log("titulo En: " + post.title)
+    console.log("Id: " + post.id  + " titulo En: " + post.title)
 
                 postlistEN.push(post)
                 if (i === files.length - 1) {
