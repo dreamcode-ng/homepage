@@ -109,6 +109,30 @@
 	<priority>0.6</priority>
 </url>
 
+<url>
+	<loc>https://www.dreamcodesoft.com/post/API-driven-Architecture-simplifying-software-development/</loc>
+	<lastmod>2022-03-03T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+
+<url>
+	<loc>https://www.dreamcodesoft.com/post/how-your-business-benefits-from-cloud-native/</loc>
+	<lastmod>2022-03-03T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+
+<url>
+	<loc>https://www.dreamcodesoft.com/post/continuous-integration-and-continuous-delivery/</loc>
+	<lastmod>2022-03-03T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+
+<url>
+	<loc>https://www.dreamcodesoft.com/post/everything-you-need-to-know-about-microservices/</loc>
+	<lastmod>2022-03-03T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+
 <!-- ESPAÑOL -->
 
 
@@ -218,19 +242,29 @@
 	<priority>0.6</priority>
 </url>
 
-<!-- ESPAÑOL HTTP -->
-
-
 <url>
-	<loc>http://www.dreamcodesoft.com/landing</loc>
-	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
-	<priority>0.9</priority>
+	<loc>http://www.dreamcodesoft.com/post/API-driven-Architecture-simplifying-software-development/</loc>
+	<lastmod>2022-03-03T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 
 <url>
-	<loc>https://www.dreamcodesoft.com/landing</loc>
-	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
-	<priority>0.9</priority>
+	<loc>http://www.dreamcodesoft.com/post/how-your-business-benefits-from-cloud-native/</loc>
+	<lastmod>2022-03-03T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
+
+<url>
+	<loc>http://www.dreamcodesoft.com/post/continuous-integration-and-continuous-delivery/</loc>
+	<lastmod>2022-03-03T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+
+<url>
+	<loc>http://www.dreamcodesoft.com/post/everything-you-need-to-know-about-microservices/</loc>
+	<lastmod>2022-03-03T09:41:05+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+
 
 </urlset>
