@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.af38238b.chunk.css",
-    "main.js": "/static/js/main.c477a99b.chunk.js",
-    "main.js.map": "/static/js/main.c477a99b.chunk.js.map",
+    "main.js": "/static/js/main.03e44ebd.chunk.js",
+    "main.js.map": "/static/js/main.03e44ebd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.471c2217.js",
     "runtime-main.js.map": "/static/js/runtime-main.471c2217.js.map",
     "static/css/2.74937a21.chunk.css": "/static/css/2.74937a21.chunk.css",
@@ -16,7 +16,7 @@
     "static/js/2.d658e1ee.chunk.js.LICENSE.txt": "/static/js/2.d658e1ee.chunk.js.LICENSE.txt",
     "static/media/API-driven-Architecture-simplifying-software-development.png": "/static/media/API-driven-Architecture-simplifying-software-development.9f967688.png",
     "static/media/bannerHome.css": "/static/media/bannerMobile900.a555738e.png",
-    "static/media/Brochure_DreamCode_V1.pdf": "/static/media/Brochure_DreamCode_V1.be4f558b.pdf",
+    "static/media/Brochure_DreamCode_V1.pdf": "/static/media/Brochure_DreamCode_V1.edd80700.pdf",
     "static/media/CIO-director-of-technology-the-future-of-businesses.jpg": "/static/media/CIO-director-of-technology-the-future-of-businesses.af91e419.jpg",
     "static/media/DevIcon.png": "/static/media/DevIcon.809d41ac.png",
     "static/media/Dreamcode_IlustraciónZigZag.png": "/static/media/Dreamcode_IlustraciónZigZag.5ede0734.png",
@@ -79,6 +79,6 @@
     "static/css/2.74937a21.chunk.css",
     "static/js/2.d658e1ee.chunk.js",
     "static/css/main.af38238b.chunk.css",
-    "static/js/main.c477a99b.chunk.js"
+    "static/js/main.03e44ebd.chunk.js"
   ]
 }
