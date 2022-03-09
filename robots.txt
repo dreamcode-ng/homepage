@@ -3,7 +3,6 @@ User-agent: AdsBot-Google
 Disallow: /nogooglebot/
 
 User-agent: *
-Disallow: /PagePost
 Allow: /
 
 Sitemap: https://www.dreamcodesoft.com/sitemap.xml
