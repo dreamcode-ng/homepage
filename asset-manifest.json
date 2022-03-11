@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a389009.chunk.css",
-    "main.js": "/static/js/main.4173553a.chunk.js",
-    "main.js.map": "/static/js/main.4173553a.chunk.js.map",
+    "main.css": "/static/css/main.69d6845d.chunk.css",
+    "main.js": "/static/js/main.eac9d575.chunk.js",
+    "main.js.map": "/static/js/main.eac9d575.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.471c2217.js",
     "runtime-main.js.map": "/static/js/runtime-main.471c2217.js.map",
     "static/css/2.74937a21.chunk.css": "/static/css/2.74937a21.chunk.css",
-    "static/js/2.4d564a17.chunk.js": "/static/js/2.4d564a17.chunk.js",
-    "static/js/2.4d564a17.chunk.js.map": "/static/js/2.4d564a17.chunk.js.map",
+    "static/js/2.7f91eacc.chunk.js": "/static/js/2.7f91eacc.chunk.js",
+    "static/js/2.7f91eacc.chunk.js.map": "/static/js/2.7f91eacc.chunk.js.map",
     "static/js/3.5cb64d53.chunk.js": "/static/js/3.5cb64d53.chunk.js",
     "static/js/3.5cb64d53.chunk.js.map": "/static/js/3.5cb64d53.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.74937a21.chunk.css.map": "/static/css/2.74937a21.chunk.css.map",
-    "static/css/main.4a389009.chunk.css.map": "/static/css/main.4a389009.chunk.css.map",
-    "static/js/2.4d564a17.chunk.js.LICENSE.txt": "/static/js/2.4d564a17.chunk.js.LICENSE.txt",
+    "static/css/main.69d6845d.chunk.css.map": "/static/css/main.69d6845d.chunk.css.map",
+    "static/js/2.7f91eacc.chunk.js.LICENSE.txt": "/static/js/2.7f91eacc.chunk.js.LICENSE.txt",
     "static/media/API-driven-Architecture-simplifying-software-development.png": "/static/media/API-driven-Architecture-simplifying-software-development.9f967688.png",
+    "static/media/category.css": "/static/media/blog-banner.8ac87b40.jpg",
     "static/media/bannerHome.css": "/static/media/bannerMobile900.a555738e.png",
     "static/media/Brochure_DreamCode_V1.pdf": "/static/media/Brochure_DreamCode_V1.edd80700.pdf",
     "static/media/CIO-director-of-technology-the-future-of-businesses.jpg": "/static/media/CIO-director-of-technology-the-future-of-businesses.af91e419.jpg",
@@ -32,8 +33,7 @@
     "static/media/Tratamiento_de_Datos_Dreamcode.pdf": "/static/media/Tratamiento_de_Datos_Dreamcode.653281ea.pdf",
     "static/media/agile-scrum-transformed-it-industry.jpg": "/static/media/agile-scrum-transformed-it-industry.bfbd8779.jpg",
     "static/media/contacts.css": "/static/media/bannerContactoMovil.5d62a8a2.png",
-    "static/media/blog.css": "/static/media/bannerJob.7621c017.png",
-    "static/media/category.css": "/static/media/blog-banner.8ac87b40.jpg",
+    "static/media/jobs.css": "/static/media/bannerJob.7621c017.png",
     "static/media/continuous-integration-and-continuous-delivery.png": "/static/media/continuous-integration-and-continuous-delivery.7d03d8d7.png",
     "static/media/devops-the-recipe-of-success-software-development-for-companies.jpg": "/static/media/devops-the-recipe-of-success-software-development-for-companies.7054f87a.jpg",
     "static/media/everything-you-need-to-know-about-microservices.jpg": "/static/media/everything-you-need-to-know-about-microservices.ec061f9d.jpg",
@@ -77,8 +77,8 @@
   "entrypoints": [
     "static/js/runtime-main.471c2217.js",
     "static/css/2.74937a21.chunk.css",
-    "static/js/2.4d564a17.chunk.js",
-    "static/css/main.4a389009.chunk.css",
-    "static/js/main.4173553a.chunk.js"
+    "static/js/2.7f91eacc.chunk.js",
+    "static/css/main.69d6845d.chunk.css",
+    "static/js/main.eac9d575.chunk.js"
   ]
 }
