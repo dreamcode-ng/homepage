@@ -2,9 +2,9 @@ const path = require("path")
 const fs = require("fs")
 
 const dirPathEN = path.join(__dirname, "../src/contentEN")
-//const dirPathES = path.join(__dirname, "../src/contentES")
+const dirPathES = path.join(__dirname, "../src/contentES")
 
-//let postlistES = []
+let postlistES = []
 let postlistEN = []
 
 
@@ -90,7 +90,7 @@ const getPostsEN = () => {
 
 //--------------------------Articulos en Español--------------------------
 
-/*const getPostsES = () => {
+const getPostsES = () => {
     fs.readdir(dirPathES, (err, files) => {
         if (err) {
             return console.log("Failed to list contents of directory: " + err)
@@ -151,7 +151,7 @@ const getPostsEN = () => {
                 if (i === files.length - 1) {
                     //Orden de los post segun la fecha de creación
                     const sortedList = postlistES.sort ((a, b) => {
-                        return a.id < b.id ? 1 : -1
+                        return a.id > b.id ? 1 : -1
                     })
                     //Crea el archivo json
                     let data = JSON.stringify(sortedList)
@@ -168,8 +168,8 @@ const getPostsEN = () => {
 
 
     return 
-}*/
+}
 
-//getPostsES()
+getPostsES()
 getPostsEN()
 
