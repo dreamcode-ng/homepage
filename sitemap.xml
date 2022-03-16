@@ -266,5 +266,171 @@
 	<priority>0.6</priority>
 </url>
 
+<!-- ESPAÑOL -->
+
+<url>
+	<loc>http://www.dreamcodesoft.com/post/arquitectura-basada-en-APIs-la-simplificacion-del-desarrollo-de-software/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/integracion-continua-y-entrega-continua-mecanismos -clave-exito-software/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/por-que-las-empresas-mas-valiosas-usan-java/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/como-se-beneficia-tu-negocio-de-cloud-native/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/tipos-de-aplicaciones-en-la-nube-como-beneficiarte-de-ellas/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/todo-lo-que-debes-saber-sobre-microservicios/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/que-es-agile-testing-y-sus-pilares/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/devops-la-receta-del-exito-desarrollo-de-software-para-empresas/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/como-scrum-revoluciono-el-sector-ti/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/que-hacer-ante-la-poca-oferta-de-talento-tecnologico/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/riesgos-de-las-herramientas-sin-codigo/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/cio-director-de-tecnologia-el-futuro-de-las-empresas/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/trabajo-remoto-en-desarollo-de-software/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/talento-tecnologico-mejora-tu-contratacion-en-la-industria/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/la-creciente-necesidad-de-los-sistemas-en-la-nube/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/post/la-importancia-de-la-retaining-retencion-del-talento-tecnologico/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+
+<!-- ESPAÑOL ART HTTPS-->
+
+<url>
+	<loc>https://www.dreamcodesoft.com/post/arquitectura-basada-en-APIs-la-simplificacion-del-desarrollo-de-software/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/integracion-continua-y-entrega-continua-mecanismos -clave-exito-software/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/por-que-las-empresas-mas-valiosas-usan-java/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/como-se-beneficia-tu-negocio-de-cloud-native/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/tipos-de-aplicaciones-en-la-nube-como-beneficiarte-de-ellas/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/todo-lo-que-debes-saber-sobre-microservicios/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/que-es-agile-testing-y-sus-pilares/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/devops-la-receta-del-exito-desarrollo-de-software-para-empresas/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/como-scrum-revoluciono-el-sector-ti/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/que-hacer-ante-la-poca-oferta-de-talento-tecnologico/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/riesgos-de-las-herramientas-sin-codigo/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/cio-director-de-tecnologia-el-futuro-de-las-empresas/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/trabajo-remoto-en-desarollo-de-software/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/talento-tecnologico-mejora-tu-contratacion-en-la-industria/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/la-creciente-necesidad-de-los-sistemas-en-la-nube/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/post/la-importancia-de-la-retaining-retencion-del-talento-tecnologico/</loc>
+	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+
 
 </urlset>
