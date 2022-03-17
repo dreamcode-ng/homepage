@@ -62,7 +62,7 @@ const getPostsEN = () => {
                 }
 
      
-    //console.log("Id: " + post.id  +  " Mes: " + post.date)
+    console.log("Id: " + post.id  +  " Mes: " + post.date)
 
                 postlistEN.push(post)
                 if (i === files.length - 1) {
@@ -144,6 +144,8 @@ const getPostsES = () => {
                     category: metadata.category ? metadata.category : "No category given",
                     content: content ? content : "No content given",
                 }
+    
+                console.log("ES: Id: " + post.id  +  " Mes: " + post.date)
 
                 //console.log("<url><loc>http://www.dreamcodesoft.com/post/" + post.url + "/</loc><lastmod>2021-12-24T09:41:04+01:00</lastmod><priority>0.6</priority></url>")
 
