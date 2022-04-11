@@ -4,7 +4,7 @@ const fs = require("fs")
 
 const dirPathEN = path.join(__dirname, "../src/Articulos/contentEN")
 const dirPathES = path.join(__dirname, "../src/Articulos/contentES")
-const dirPathJob = path.join(__dirname, "../src/Jobs")
+const dirPathJob = path.join(__dirname, "../src/Ofertas")
 
 
 let postlistES = []
@@ -178,9 +178,9 @@ const getPostsES = () => {
 }
 
 //--------------------------Ofertas en Español--------------------------//
-/*
+
 const getJobs = () => {
-    fs.readdir(dirPathES, (err, files) => {
+    fs.readdir(dirPathJob, (err, files) => {
         if (err) {
             return console.log("Failed to list contents of directory: " + err)
         }
@@ -190,7 +190,7 @@ const getJobs = () => {
 
             let obj = {}
             let post
-            fs.readFile(`${dirPathES}/${file}`, "utf8", (err, contents) => {
+            fs.readFile(`${dirPathJob}/${file}`, "utf8", (err, contents) => {
                 const getMetadataIndices = (acc, elem, i) => {
                     if (/^---/.test(elem)) {
                         acc.push(i)
@@ -236,7 +236,6 @@ const getJobs = () => {
     
                 console.log("ES: Id: " + post.id  +  " Url: " + post.url)
 
-                //console.log("<url><loc>http://www.dreamcodesoft.com/" + post.url + "/</loc><lastmod>2021-12-24T09:41:04+01:00</lastmod><priority>0.6</priority></url>")
 
                 postlistES.push(post)
                 if (i === files.length - 1) {
@@ -249,7 +248,7 @@ const getJobs = () => {
 
                  
                     //fs.writeFileSync("src/assets/translations/fr.json", data)
-                    fs.writeFileSync("src/postsES.json", data)
+                    fs.writeFileSync("src/jobs.json", data)
                 }
                 
             })
@@ -259,7 +258,7 @@ const getJobs = () => {
 
 
     return 
-} */
+} 
 
 getPostsES()
 getPostsEN()
