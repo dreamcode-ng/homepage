@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.30c7b326.chunk.css",
-    "main.js": "/static/js/main.2f76cfe9.chunk.js",
-    "main.js.map": "/static/js/main.2f76cfe9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.32b4e3b5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.32b4e3b5.js.map",
+    "main.css": "/static/css/main.c2c6359d.chunk.css",
+    "main.js": "/static/js/main.100a4fed.chunk.js",
+    "main.js.map": "/static/js/main.100a4fed.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2589a1ed.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2589a1ed.js.map",
     "static/css/2.74937a21.chunk.css": "/static/css/2.74937a21.chunk.css",
-    "static/js/2.a4a7d41c.chunk.js": "/static/js/2.a4a7d41c.chunk.js",
-    "static/js/2.a4a7d41c.chunk.js.map": "/static/js/2.a4a7d41c.chunk.js.map",
-    "static/js/3.cc991283.chunk.js": "/static/js/3.cc991283.chunk.js",
-    "static/js/3.cc991283.chunk.js.map": "/static/js/3.cc991283.chunk.js.map",
+    "static/js/2.c6236912.chunk.js": "/static/js/2.c6236912.chunk.js",
+    "static/js/2.c6236912.chunk.js.map": "/static/js/2.c6236912.chunk.js.map",
+    "static/js/3.31602d02.chunk.js": "/static/js/3.31602d02.chunk.js",
+    "static/js/3.31602d02.chunk.js.map": "/static/js/3.31602d02.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.74937a21.chunk.css.map": "/static/css/2.74937a21.chunk.css.map",
-    "static/css/main.30c7b326.chunk.css.map": "/static/css/main.30c7b326.chunk.css.map",
-    "static/js/2.a4a7d41c.chunk.js.LICENSE.txt": "/static/js/2.a4a7d41c.chunk.js.LICENSE.txt",
+    "static/css/main.c2c6359d.chunk.css.map": "/static/css/main.c2c6359d.chunk.css.map",
+    "static/js/2.c6236912.chunk.js.LICENSE.txt": "/static/js/2.c6236912.chunk.js.LICENSE.txt",
     "static/media/API-driven-Architecture-simplifying-software-development.png": "/static/media/API-driven-Architecture-simplifying-software-development.9f967688.png",
     "static/media/category.css": "/static/media/blog-banner.8ac87b40.jpg",
     "static/media/bannerHome.css": "/static/media/bannerMobile900.a555738e.png",
-    "static/media/Brochure_DreamCode_V1.pdf": "/static/media/Brochure_DreamCode_V1.bca0e917.pdf",
+    "static/media/Brochure_DreamCode_English_V1.pdf": "/static/media/Brochure_DreamCode_English_V1.1cd022f5.pdf",
+    "static/media/Brochure_DreamCode_Spanish_V1.pdf": "/static/media/Brochure_DreamCode_Spanish_V1.8c11b5c6.pdf",
     "static/media/CIO-director-of-technology-the-future-of-businesses.jpg": "/static/media/CIO-director-of-technology-the-future-of-businesses.d63f8fd9.jpg",
     "static/media/DevIcon.png": "/static/media/DevIcon.809d41ac.png",
     "static/media/Dreamcode_IlustraciónZigZag.png": "/static/media/Dreamcode_IlustraciónZigZag.5ede0734.png",
@@ -86,10 +87,10 @@
     "static/media/what-to-do-before-the-little-supply-of-technological-talent.jpg": "/static/media/what-to-do-before-the-little-supply-of-technological-talent.7e2b1de4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.32b4e3b5.js",
+    "static/js/runtime-main.2589a1ed.js",
     "static/css/2.74937a21.chunk.css",
-    "static/js/2.a4a7d41c.chunk.js",
-    "static/css/main.30c7b326.chunk.css",
-    "static/js/main.2f76cfe9.chunk.js"
+    "static/js/2.c6236912.chunk.js",
+    "static/css/main.c2c6359d.chunk.css",
+    "static/js/main.100a4fed.chunk.js"
   ]
 }
