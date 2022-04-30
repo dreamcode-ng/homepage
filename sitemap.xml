@@ -289,7 +289,7 @@
 </url>
 
 <!-- ESPAÑOL -->
-
+<!-- 
 <url>
 	<loc>http://www.dreamcodesoft.com/arquitectura-basada-en-APIs-la-simplificacion-del-desarrollo-de-software/</loc>
 	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
@@ -371,7 +371,7 @@
 	<priority>0.6</priority>
 </url>
 
-<!-- ESPAÑOL ART HTTPS-->
+
 
 <url>
 	<loc>https://www.dreamcodesoft.com/arquitectura-basada-en-APIs-la-simplificacion-del-desarrollo-de-software/</loc>
@@ -452,7 +452,7 @@
 	<loc>https://www.dreamcodesoft.com/la-importancia-de-la-retaining-retencion-del-talento-tecnologico/</loc>
 	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
-</url>
+</url> -->
 
 
 </urlset>
