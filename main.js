@@ -11,7 +11,7 @@ let postlistES = []
 let postlistEN = []
 
 
-//--------------------------Articulos en Español--------------------------//
+//--------------------------Articulos en Ingles--------------------------//
 
 const getPostsEN = () => {
     fs.readdir(dirPathEN, (err, files) => {
