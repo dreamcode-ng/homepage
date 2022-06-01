@@ -178,7 +178,7 @@ const getPostsES = () => {
 }
 
 //--------------------------Ofertas en Español--------------------------//
-
+/*
 const getJobs = () => {
     fs.readdir(dirPathJob, (err, files) => {
         if (err) {
@@ -258,7 +258,7 @@ const getJobs = () => {
 
 
     return 
-} 
+} */
 
 getPostsES()
 getPostsEN()
