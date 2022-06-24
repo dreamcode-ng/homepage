@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.2e2d9c11.chunk.css",
-    "main.js": "/static/js/main.01f0d195.chunk.js",
-    "main.js.map": "/static/js/main.01f0d195.chunk.js.map",
+    "main.css": "/static/css/main.5407ae70.chunk.css",
+    "main.js": "/static/js/main.86c1118c.chunk.js",
+    "main.js.map": "/static/js/main.86c1118c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5e99ffe0.js",
     "runtime-main.js.map": "/static/js/runtime-main.5e99ffe0.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
-    "static/js/2.0657343e.chunk.js": "/static/js/2.0657343e.chunk.js",
-    "static/js/2.0657343e.chunk.js.map": "/static/js/2.0657343e.chunk.js.map",
+    "static/js/2.bb6e3e57.chunk.js": "/static/js/2.bb6e3e57.chunk.js",
+    "static/js/2.bb6e3e57.chunk.js.map": "/static/js/2.bb6e3e57.chunk.js.map",
     "static/js/3.b20e9c4f.chunk.js": "/static/js/3.b20e9c4f.chunk.js",
     "static/js/3.b20e9c4f.chunk.js.map": "/static/js/3.b20e9c4f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
-    "static/css/main.2e2d9c11.chunk.css.map": "/static/css/main.2e2d9c11.chunk.css.map",
-    "static/js/2.0657343e.chunk.js.LICENSE.txt": "/static/js/2.0657343e.chunk.js.LICENSE.txt",
+    "static/css/main.5407ae70.chunk.css.map": "/static/css/main.5407ae70.chunk.css.map",
+    "static/js/2.bb6e3e57.chunk.js.LICENSE.txt": "/static/js/2.bb6e3e57.chunk.js.LICENSE.txt",
     "static/media/API-driven-Architecture-simplifying-software-development.png": "/static/media/API-driven-Architecture-simplifying-software-development.9f967688.png",
     "static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.jpg": "/static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.7bb3ee86.jpg",
     "static/media/Aprender-LINA.jpg": "/static/media/Aprender-LINA.bc78186d.jpg",
@@ -48,7 +48,7 @@
     "static/media/jobs.css": "/static/media/bannerJob.7621c017.png",
     "static/media/blockchain-development-of-financial-apps-digital-economy.jpg": "/static/media/blockchain-development-of-financial-apps-digital-economy.e81e3e10.jpg",
     "static/media/continuous-integration-and-continuous-delivery.png": "/static/media/continuous-integration-and-continuous-delivery.7d03d8d7.png",
-    "static/media/data-scientist-why-companies-should-have one.jpg": "/static/media/data-scientist-why-companies-should-have one.2a5d1a58.jpg",
+    "static/media/data-scientist-why-companies-should-have-one.jpg": "/static/media/data-scientist-why-companies-should-have-one.2a5d1a58.jpg",
     "static/media/devops-the-recipe-of-success-software-development-for-companies.jpg": "/static/media/devops-the-recipe-of-success-software-development-for-companies.44c82146.jpg",
     "static/media/everything-you-need-to-know-about-microservices.jpg": "/static/media/everything-you-need-to-know-about-microservices.ec061f9d.jpg",
     "static/media/all.css": "/static/media/fa-solid-900.f06e568e.eot",
@@ -105,8 +105,8 @@
   "entrypoints": [
     "static/js/runtime-main.5e99ffe0.js",
     "static/css/2.a1a546fa.chunk.css",
-    "static/js/2.0657343e.chunk.js",
-    "static/css/main.2e2d9c11.chunk.css",
-    "static/js/main.01f0d195.chunk.js"
+    "static/js/2.bb6e3e57.chunk.js",
+    "static/css/main.5407ae70.chunk.css",
+    "static/js/main.86c1118c.chunk.js"
   ]
 }
