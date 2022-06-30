@@ -7,47 +7,47 @@
 
 <url>
 	<loc>https://www.dreamcodesoft.com/</loc>
-	<lastmod>2021-11-24T09:40:51+01:00</lastmod>
+	<lastmod>2022-06-24T09:40:51+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://www.dreamcodesoft.com/about</loc>
-	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:02+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 <url>
 	<loc>https://www.dreamcodesoft.com/devops</loc>
-	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:02+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 <url>
 	<loc>https://www.dreamcodesoft.com/scrum</loc>
-	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:02+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 <url>
 	<loc>https://www.dreamcodesoft.com/services</loc>
-	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:02+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 <url>
 	<loc>https://www.dreamcodesoft.com/contact</loc>
-	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 <url>
 	<loc>https://www.dreamcodesoft.com/blog</loc>
-	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 <url>
 	<loc>https://www.dreamcodesoft.com/jobs</loc>
-	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 <url>
 	<loc>https://www.dreamcodesoft.com/category</loc>
-	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 <url>
@@ -57,407 +57,316 @@
 </url>
 <url>
 	<loc>https://www.dreamcodesoft.com/category/up-to-date</loc>
-	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 <url>
 	<loc>https://www.dreamcodesoft.com/category/innovation</loc>
-	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 
 <!-- Articulos English https -->
 
 <url>
-	<loc>https://www.dreamcodesoft.com/how-scrum-transformed-it-industry</loc>
-	<lastmod>2021-12-24T09:41:03+01:00</lastmod>
+	<loc>https://www.dreamcodesoft.com/APIs-as-business-bridges-to-better-business-to-customer-relationships</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://www.dreamcodesoft.com/what-agile-testing-is-and-its-pillars</loc>
-	<lastmod>2022-02-08T09:41:03+01:00</lastmod>
+	<loc>https://www.dreamcodesoft.com/data-scientist-why-companies-should-have-one</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://www.dreamcodesoft.com/remote-working-in-software-development</loc>
-	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/what-to-do-in-the-face-of-the-shortage-of-tech-talent</loc>
-	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/the-importance-of-retaining-tech-talent</loc>
-	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://www.dreamcodesoft.com/cio-director-of-technology-the-future-of-enterprises</loc>
-	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/the-growing-need-for-cloud-systems</loc>
-	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/the-risks-of-developing-in-no-code-tools</loc>
-	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/talent-tech-improve-your-technology-recruitment</loc>
-	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<loc>https://www.dreamcodesoft.com/top5-most-popular-languages-for-artificial-intelligence-programming</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.dreamcodesoft.com/types-of-cloud-applications-how-to-benefit-from-them</loc>
-	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/why-the-most-valuable-companies-use-java</loc>
-	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.dreamcodesoft.com/devops-the-recipe-of-success-software-development-for-companies</loc>
-	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/why-the-most-valuable-companies-use-java</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/what-agile-testing-is-and-its-pillars</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.dreamcodesoft.com/API-driven-Architecture-simplifying-software-development</loc>
-	<lastmod>2022-03-03T09:41:05+01:00</lastmod>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.dreamcodesoft.com/how-your-business-benefits-from-cloud-native</loc>
-	<lastmod>2022-03-03T09:41:05+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/continuous-integration-and-continuous-delivery</loc>
-	<lastmod>2022-03-03T09:41:05+01:00</lastmod>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.dreamcodesoft.com/everything-you-need-to-know-about-microservices</loc>
-	<lastmod>2022-03-03T09:41:05+01:00</lastmod>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/continuous-integration-and-continuous-delivery</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/serverless-architecture-cloud-computing-model-transforming-business-web-development</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/blockchain-development-of-financial-applications-for-the-digitization-of-the-economy</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/tremendous-potential-behind-big-data-and-its-analytics-tools</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/ui-ux-crucial-components-for-development-high-value-web-applications</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/what-to-do-in-the-face-of-the-shortage-of-tech-talent</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/cio-director-of-technology-the-future-of-enterprises</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/remote-working-in-software-development</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/talent-tech-improve-your-technology-recruitment</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/how-scrum-transformed-it-industry</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/the-risks-of-developing-in-no-code-tools</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/the-growing-need-for-cloud-systems</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/the-importance-of-retaining-tech-talent</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/lean-programming-a-convenient-software-development-practice-inherited-from-the-business-world</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 
 <!-- http -->
 <url>
-	<loc>http://www.dreamcodesoft.com</loc>
-	<lastmod>2021-11-24T09:40:51+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/</loc>
+	<lastmod>2022-06-24T09:40:51+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/about</loc>
-	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:02+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/devops</loc>
-	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:02+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/scrum</loc>
-	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:02+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/services</loc>
-	<lastmod>2021-11-24T09:41:02+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:02+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/contact</loc>
-	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/blog</loc>
-	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/jobs</loc>
-	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/category</loc>
-	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/category/up-to-date</loc>
-	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/category/innovation</loc>
-	<lastmod>2021-11-24T09:41:03+01:00</lastmod>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
 
 <!-- articulos English http-->
-
 <url>
-	<loc>http://www.dreamcodesoft.com/what-agile-testing-is-and-its-pillars</loc>
-	<lastmod>2022-02-08T09:41:03+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/APIs-as-business-bridges-to-better-business-to-customer-relationships</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/how-scrum-transformed-it-industry</loc>
-	<lastmod>2021-12-24T09:41:03+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/data-scientist-why-companies-should-have-one</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/remote-working-in-software-development</loc>
-	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://www.dreamcodesoft.com/what-to-do-in-the-face-of-the-shortage-of-tech-talent</loc>
-	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://www.dreamcodesoft.com/the-importance-of-retaining-tech-talent</loc>
-	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://www.dreamcodesoft.com/cio-director-of-technology-the-future-of-enterprises</loc>
-	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://www.dreamcodesoft.com/the-growing-need-for-cloud-systems</loc>
-	<lastmod>2021-12-24T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://www.dreamcodesoft.com/the-risks-of-developing-in-no-code-tools</loc>
-	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://www.dreamcodesoft.com/talent-tech-improve-your-technology-recruitment</loc>
-	<lastmod>2021-12-24T09:41:05+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/top5-most-popular-languages-for-artificial-intelligence-programming</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/types-of-cloud-applications-how-to-benefit-from-them</loc>
-	<lastmod>2022-01-21T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>http://www.dreamcodesoft.com/why-the-most-valuable-companies-use-java</loc>
-	<lastmod>2022-01-21T09:41:05+01:00</lastmod>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/devops-the-recipe-of-success-software-development-for-companies</loc>
-	<lastmod>2022-01-21T09:41:05+01:00</lastmod>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
-
+<url>
+	<loc>http://www.dreamcodesoft.com/why-the-most-valuable-companies-use-java</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/what-agile-testing-is-and-its-pillars</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
 <url>
 	<loc>http://www.dreamcodesoft.com/API-driven-Architecture-simplifying-software-development</loc>
-	<lastmod>2022-03-03T09:41:05+01:00</lastmod>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
-
 <url>
 	<loc>http://www.dreamcodesoft.com/how-your-business-benefits-from-cloud-native</loc>
-	<lastmod>2022-03-03T09:41:05+01:00</lastmod>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
-
-<url>
-	<loc>http://www.dreamcodesoft.com/continuous-integration-and-continuous-delivery</loc>
-	<lastmod>2022-03-03T09:41:05+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-
 <url>
 	<loc>http://www.dreamcodesoft.com/everything-you-need-to-know-about-microservices</loc>
-	<lastmod>2022-03-03T09:41:05+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-
-<!-- ESPAÑOL -->
-<!-- 
-<url>
-	<loc>http://www.dreamcodesoft.com/arquitectura-basada-en-APIs-la-simplificacion-del-desarrollo-de-software</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/integracion-continua-y-entrega-continua-mecanismos -clave-exito-software</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/continuous-integration-and-continuous-delivery</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/por-que-las-empresas-mas-valiosas-usan-java</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/serverless-architecture-cloud-computing-model-transforming-business-web-development</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/como-se-beneficia-tu-negocio-de-cloud-native</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/blockchain-development-of-financial-applications-for-the-digitization-of-the-economy</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/tipos-de-aplicaciones-en-la-nube-como-beneficiarte-de-ellas</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/tremendous-potential-behind-big-data-and-its-analytics-tools</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/todo-lo-que-debes-saber-sobre-microservicios</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/ui-ux-crucial-components-for-development-high-value-web-applications</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/que-es-agile-testing-y-sus-pilares</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/what-to-do-in-the-face-of-the-shortage-of-tech-talent</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/devops-la-receta-del-exito-desarrollo-de-software-para-empresas</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/cio-director-of-technology-the-future-of-enterprises</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/como-scrum-revoluciono-el-sector-ti</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/remote-working-in-software-development</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/que-hacer-ante-la-poca-oferta-de-talento-tecnologico</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/talent-tech-improve-your-technology-recruitment</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/riesgos-de-las-herramientas-sin-codigo</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/how-scrum-transformed-it-industry</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/cio-director-de-tecnologia-el-futuro-de-las-empresas</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/the-risks-of-developing-in-no-code-tools</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/trabajo-remoto-en-desarollo-de-software</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/the-growing-need-for-cloud-systems</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/talento-tecnologico-mejora-tu-contratacion-en-la-industria</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/the-importance-of-retaining-tech-talent</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>http://www.dreamcodesoft.com/la-creciente-necesidad-de-los-sistemas-en-la-nube</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
+	<loc>http://www.dreamcodesoft.com/lean-programming-a-convenient-software-development-practice-inherited-from-the-business-world</loc>
+	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
-<url>
-	<loc>http://www.dreamcodesoft.com/la-importancia-de-la-retaining-retencion-del-talento-tecnologico</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-
-
-
-<url>
-	<loc>https://www.dreamcodesoft.com/arquitectura-basada-en-APIs-la-simplificacion-del-desarrollo-de-software</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/integracion-continua-y-entrega-continua-mecanismos -clave-exito-software</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/por-que-las-empresas-mas-valiosas-usan-java</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/como-se-beneficia-tu-negocio-de-cloud-native</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/tipos-de-aplicaciones-en-la-nube-como-beneficiarte-de-ellas</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/todo-lo-que-debes-saber-sobre-microservicios</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/que-es-agile-testing-y-sus-pilares</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/devops-la-receta-del-exito-desarrollo-de-software-para-empresas</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/como-scrum-revoluciono-el-sector-ti</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/que-hacer-ante-la-poca-oferta-de-talento-tecnologico</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/riesgos-de-las-herramientas-sin-codigo</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/cio-director-de-tecnologia-el-futuro-de-las-empresas</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/trabajo-remoto-en-desarollo-de-software</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/talento-tecnologico-mejora-tu-contratacion-en-la-industria</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/la-creciente-necesidad-de-los-sistemas-en-la-nube</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.dreamcodesoft.com/la-importancia-de-la-retaining-retencion-del-talento-tecnologico</loc>
-	<lastmod>2022-03-16T09:41:04+01:00</lastmod>
-	<priority>0.6</priority>
-</url> -->
 
 
 </urlset>
