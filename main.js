@@ -65,8 +65,9 @@ const getPostsEN = () => {
                     content: content ? content : "No content given",
                 }
 
-     
-    console.log("Id: " + post.id  +  " Url: " + post.url)
+    console.log("<url><loc>http://www.dreamcodesoft.com/" + post.url + "</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>")
+
+    //console.log("Id: " + post.id  +  " Url: " + post.url)
 
                 postlistEN.push(post)
                 if (i === files.length - 1) {
