@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.3f68f37b.chunk.css",
-    "main.js": "/static/js/main.bedae04b.chunk.js",
-    "main.js.map": "/static/js/main.bedae04b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.117bb697.js",
-    "runtime-main.js.map": "/static/js/runtime-main.117bb697.js.map",
+    "main.js": "/static/js/main.7314fad0.chunk.js",
+    "main.js.map": "/static/js/main.7314fad0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ea39fc14.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ea39fc14.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
-    "static/js/2.10581b0d.chunk.js": "/static/js/2.10581b0d.chunk.js",
-    "static/js/2.10581b0d.chunk.js.map": "/static/js/2.10581b0d.chunk.js.map",
-    "static/js/3.72bcea34.chunk.js": "/static/js/3.72bcea34.chunk.js",
-    "static/js/3.72bcea34.chunk.js.map": "/static/js/3.72bcea34.chunk.js.map",
+    "static/js/2.035cf4b7.chunk.js": "/static/js/2.035cf4b7.chunk.js",
+    "static/js/2.035cf4b7.chunk.js.map": "/static/js/2.035cf4b7.chunk.js.map",
+    "static/js/3.b3a6a3eb.chunk.js": "/static/js/3.b3a6a3eb.chunk.js",
+    "static/js/3.b3a6a3eb.chunk.js.map": "/static/js/3.b3a6a3eb.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
     "static/css/main.3f68f37b.chunk.css.map": "/static/css/main.3f68f37b.chunk.css.map",
-    "static/js/2.10581b0d.chunk.js.LICENSE.txt": "/static/js/2.10581b0d.chunk.js.LICENSE.txt",
+    "static/js/2.035cf4b7.chunk.js.LICENSE.txt": "/static/js/2.035cf4b7.chunk.js.LICENSE.txt",
     "static/media/API-driven-Architecture-simplifying-software-development.png": "/static/media/API-driven-Architecture-simplifying-software-development.1e5b9a0f.png",
     "static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.jpg": "/static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.7bb3ee86.jpg",
     "static/media/Aprender-LINA.jpg": "/static/media/Aprender-LINA.bc78186d.jpg",
@@ -102,10 +102,10 @@
     "static/media/what-to-do-before-the-little-supply-of-technological-talent.jpg": "/static/media/what-to-do-before-the-little-supply-of-technological-talent.7e2b1de4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.117bb697.js",
+    "static/js/runtime-main.ea39fc14.js",
     "static/css/2.a1a546fa.chunk.css",
-    "static/js/2.10581b0d.chunk.js",
+    "static/js/2.035cf4b7.chunk.js",
     "static/css/main.3f68f37b.chunk.css",
-    "static/js/main.bedae04b.chunk.js"
+    "static/js/main.7314fad0.chunk.js"
   ]
 }
