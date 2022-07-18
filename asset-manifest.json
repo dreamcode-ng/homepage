@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d335ebb.chunk.css",
-    "main.js": "/static/js/main.721ae02f.chunk.js",
-    "main.js.map": "/static/js/main.721ae02f.chunk.js.map",
+    "main.css": "/static/css/main.fc386e86.chunk.css",
+    "main.js": "/static/js/main.15476a42.chunk.js",
+    "main.js.map": "/static/js/main.15476a42.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ea39fc14.js",
     "runtime-main.js.map": "/static/js/runtime-main.ea39fc14.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.b3a6a3eb.chunk.js.map": "/static/js/3.b3a6a3eb.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
-    "static/css/main.9d335ebb.chunk.css.map": "/static/css/main.9d335ebb.chunk.css.map",
+    "static/css/main.fc386e86.chunk.css.map": "/static/css/main.fc386e86.chunk.css.map",
     "static/js/2.1814b209.chunk.js.LICENSE.txt": "/static/js/2.1814b209.chunk.js.LICENSE.txt",
     "static/media/API-driven-Architecture-simplifying-software-development.png": "/static/media/API-driven-Architecture-simplifying-software-development.1e5b9a0f.png",
     "static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.jpg": "/static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.7bb3ee86.jpg",
@@ -105,7 +105,7 @@
     "static/js/runtime-main.ea39fc14.js",
     "static/css/2.a1a546fa.chunk.css",
     "static/js/2.1814b209.chunk.js",
-    "static/css/main.9d335ebb.chunk.css",
-    "static/js/main.721ae02f.chunk.js"
+    "static/css/main.fc386e86.chunk.css",
+    "static/js/main.15476a42.chunk.js"
   ]
 }
