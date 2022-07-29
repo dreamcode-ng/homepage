@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.e7433754.chunk.css",
-    "main.js": "/static/js/main.84f03f6e.chunk.js",
-    "main.js.map": "/static/js/main.84f03f6e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ea39fc14.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ea39fc14.js.map",
+    "main.css": "/static/css/main.b0d60d0a.chunk.css",
+    "main.js": "/static/js/main.334e0de1.chunk.js",
+    "main.js.map": "/static/js/main.334e0de1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.67aeb7d7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.67aeb7d7.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
-    "static/js/2.27d696b5.chunk.js": "/static/js/2.27d696b5.chunk.js",
-    "static/js/2.27d696b5.chunk.js.map": "/static/js/2.27d696b5.chunk.js.map",
-    "static/js/3.b3a6a3eb.chunk.js": "/static/js/3.b3a6a3eb.chunk.js",
-    "static/js/3.b3a6a3eb.chunk.js.map": "/static/js/3.b3a6a3eb.chunk.js.map",
+    "static/js/2.272cfca0.chunk.js": "/static/js/2.272cfca0.chunk.js",
+    "static/js/2.272cfca0.chunk.js.map": "/static/js/2.272cfca0.chunk.js.map",
+    "static/js/3.e3a2fae9.chunk.js": "/static/js/3.e3a2fae9.chunk.js",
+    "static/js/3.e3a2fae9.chunk.js.map": "/static/js/3.e3a2fae9.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
-    "static/css/main.e7433754.chunk.css.map": "/static/css/main.e7433754.chunk.css.map",
-    "static/js/2.27d696b5.chunk.js.LICENSE.txt": "/static/js/2.27d696b5.chunk.js.LICENSE.txt",
+    "static/css/main.b0d60d0a.chunk.css.map": "/static/css/main.b0d60d0a.chunk.css.map",
+    "static/js/2.272cfca0.chunk.js.LICENSE.txt": "/static/js/2.272cfca0.chunk.js.LICENSE.txt",
     "static/media/API-driven-Architecture-simplifying-software-development.png": "/static/media/API-driven-Architecture-simplifying-software-development.1e5b9a0f.png",
     "static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.jpg": "/static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.7bb3ee86.jpg",
     "static/media/category.css": "/static/media/blog-banner.8ac87b40.jpg",
@@ -47,9 +47,11 @@
     "static/media/contacts.css": "/static/media/bannerContactoMovil.5d62a8a2.png",
     "static/media/jobs.css": "/static/media/bannerJob.7621c017.png",
     "static/media/blockchain-development-of-financial-apps-digital-economy.jpg": "/static/media/blockchain-development-of-financial-apps-digital-economy.e81e3e10.jpg",
+    "static/media/cohete-dreamcoders.png": "/static/media/cohete-dreamcoders.1fa07c58.png",
     "static/media/continuous-integration-and-continuous-delivery.png": "/static/media/continuous-integration-and-continuous-delivery.e30008b4.png",
     "static/media/data-scientist-why-companies-should-have-one.jpg": "/static/media/data-scientist-why-companies-should-have-one.2a5d1a58.jpg",
     "static/media/devops-the-recipe-of-success-software-development-for-companies.jpg": "/static/media/devops-the-recipe-of-success-software-development-for-companies.780326c0.jpg",
+    "static/media/estrellas.png": "/static/media/estrellas.bf85787f.png",
     "static/media/everything-you-need-to-know-about-microservices.jpg": "/static/media/everything-you-need-to-know-about-microservices.ec061f9d.jpg",
     "static/media/all.css": "/static/media/fa-solid-900.f06e568e.eot",
     "static/media/main.css": "/static/media/fondo-home.e42ccc50.png",
@@ -102,10 +104,10 @@
     "static/media/what-to-do-before-the-little-supply-of-technological-talent.jpg": "/static/media/what-to-do-before-the-little-supply-of-technological-talent.7e2b1de4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea39fc14.js",
+    "static/js/runtime-main.67aeb7d7.js",
     "static/css/2.a1a546fa.chunk.css",
-    "static/js/2.27d696b5.chunk.js",
-    "static/css/main.e7433754.chunk.css",
-    "static/js/main.84f03f6e.chunk.js"
+    "static/js/2.272cfca0.chunk.js",
+    "static/css/main.b0d60d0a.chunk.css",
+    "static/js/main.334e0de1.chunk.js"
   ]
 }
