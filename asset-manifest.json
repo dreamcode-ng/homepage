@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0d60d0a.chunk.css",
-    "main.js": "/static/js/main.334e0de1.chunk.js",
-    "main.js.map": "/static/js/main.334e0de1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.67aeb7d7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.67aeb7d7.js.map",
+    "main.css": "/static/css/main.5a61b500.chunk.css",
+    "main.js": "/static/js/main.b2500aa1.chunk.js",
+    "main.js.map": "/static/js/main.b2500aa1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.56111264.js",
+    "runtime-main.js.map": "/static/js/runtime-main.56111264.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
-    "static/js/2.272cfca0.chunk.js": "/static/js/2.272cfca0.chunk.js",
-    "static/js/2.272cfca0.chunk.js.map": "/static/js/2.272cfca0.chunk.js.map",
-    "static/js/3.e3a2fae9.chunk.js": "/static/js/3.e3a2fae9.chunk.js",
-    "static/js/3.e3a2fae9.chunk.js.map": "/static/js/3.e3a2fae9.chunk.js.map",
+    "static/js/2.0eb0ac1a.chunk.js": "/static/js/2.0eb0ac1a.chunk.js",
+    "static/js/2.0eb0ac1a.chunk.js.map": "/static/js/2.0eb0ac1a.chunk.js.map",
+    "static/js/3.47c4edb4.chunk.js": "/static/js/3.47c4edb4.chunk.js",
+    "static/js/3.47c4edb4.chunk.js.map": "/static/js/3.47c4edb4.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
-    "static/css/main.b0d60d0a.chunk.css.map": "/static/css/main.b0d60d0a.chunk.css.map",
-    "static/js/2.272cfca0.chunk.js.LICENSE.txt": "/static/js/2.272cfca0.chunk.js.LICENSE.txt",
+    "static/css/main.5a61b500.chunk.css.map": "/static/css/main.5a61b500.chunk.css.map",
+    "static/js/2.0eb0ac1a.chunk.js.LICENSE.txt": "/static/js/2.0eb0ac1a.chunk.js.LICENSE.txt",
     "static/media/API-driven-Architecture-simplifying-software-development.png": "/static/media/API-driven-Architecture-simplifying-software-development.1e5b9a0f.png",
     "static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.jpg": "/static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.7bb3ee86.jpg",
     "static/media/category.css": "/static/media/blog-banner.8ac87b40.jpg",
@@ -104,10 +104,10 @@
     "static/media/what-to-do-before-the-little-supply-of-technological-talent.jpg": "/static/media/what-to-do-before-the-little-supply-of-technological-talent.7e2b1de4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.67aeb7d7.js",
+    "static/js/runtime-main.56111264.js",
     "static/css/2.a1a546fa.chunk.css",
-    "static/js/2.272cfca0.chunk.js",
-    "static/css/main.b0d60d0a.chunk.css",
-    "static/js/main.334e0de1.chunk.js"
+    "static/js/2.0eb0ac1a.chunk.js",
+    "static/css/main.5a61b500.chunk.css",
+    "static/js/main.b2500aa1.chunk.js"
   ]
 }
