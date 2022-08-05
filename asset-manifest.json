@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.3eb47039.chunk.css",
-    "main.js": "/static/js/main.0ac0cdf9.chunk.js",
-    "main.js.map": "/static/js/main.0ac0cdf9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bdb5e78a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bdb5e78a.js.map",
+    "main.js": "/static/js/main.fa8e33cd.chunk.js",
+    "main.js.map": "/static/js/main.fa8e33cd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7d1026df.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7d1026df.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
-    "static/js/2.9d067191.chunk.js": "/static/js/2.9d067191.chunk.js",
-    "static/js/2.9d067191.chunk.js.map": "/static/js/2.9d067191.chunk.js.map",
-    "static/js/3.6ca3d459.chunk.js": "/static/js/3.6ca3d459.chunk.js",
-    "static/js/3.6ca3d459.chunk.js.map": "/static/js/3.6ca3d459.chunk.js.map",
+    "static/js/2.36631f76.chunk.js": "/static/js/2.36631f76.chunk.js",
+    "static/js/2.36631f76.chunk.js.map": "/static/js/2.36631f76.chunk.js.map",
+    "static/js/3.97e373cc.chunk.js": "/static/js/3.97e373cc.chunk.js",
+    "static/js/3.97e373cc.chunk.js.map": "/static/js/3.97e373cc.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
     "static/css/main.3eb47039.chunk.css.map": "/static/css/main.3eb47039.chunk.css.map",
-    "static/js/2.9d067191.chunk.js.LICENSE.txt": "/static/js/2.9d067191.chunk.js.LICENSE.txt",
+    "static/js/2.36631f76.chunk.js.LICENSE.txt": "/static/js/2.36631f76.chunk.js.LICENSE.txt",
     "static/media/API-driven-Architecture-simplifying-software-development.png": "/static/media/API-driven-Architecture-simplifying-software-development.1e5b9a0f.png",
     "static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.jpg": "/static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.7bb3ee86.jpg",
     "static/media/category.css": "/static/media/blog-banner.8ac87b40.jpg",
@@ -51,7 +51,7 @@
     "static/media/contacts.css": "/static/media/bannerContactoMovil.5d62a8a2.png",
     "static/media/jobs.css": "/static/media/bannerJob.7621c017.png",
     "static/media/blockchain-development-of-financial-apps-digital-economy.jpg": "/static/media/blockchain-development-of-financial-apps-digital-economy.e81e3e10.jpg",
-    "static/media/cohete-dreamcoders.png": "/static/media/cohete-dreamcoders.8dcab775.png",
+    "static/media/cohete-dreamcoders.png": "/static/media/cohete-dreamcoders.77f679ef.png",
     "static/media/continuous-integration-and-continuous-delivery.png": "/static/media/continuous-integration-and-continuous-delivery.e30008b4.png",
     "static/media/data-scientist-why-companies-should-have-one.jpg": "/static/media/data-scientist-why-companies-should-have-one.2a5d1a58.jpg",
     "static/media/devops-the-recipe-of-success-software-development-for-companies.jpg": "/static/media/devops-the-recipe-of-success-software-development-for-companies.780326c0.jpg",
@@ -95,6 +95,7 @@
     "static/media/simbolo-Agiles.png": "/static/media/simbolo-Agiles.aec10d9c.png",
     "static/media/simbolo-Humanos.png": "/static/media/simbolo-Humanos.14ddb04e.png",
     "static/media/simbolo-Innovadores.png": "/static/media/simbolo-Innovadores.4ece4824.png",
+    "static/media/simbolo-Innovators.png": "/static/media/simbolo-Innovators.d0379eb9.png",
     "static/media/simbolo-Motivados.png": "/static/media/simbolo-Motivados.6ab85069.png",
     "static/media/simbolo-Soñadores.png": "/static/media/simbolo-Soñadores.458a8cc6.png",
     "static/media/sprint_planning.jpg": "/static/media/sprint_planning.9b109f27.jpg",
@@ -113,10 +114,10 @@
     "static/media/what-to-do-before-the-little-supply-of-technological-talent.jpg": "/static/media/what-to-do-before-the-little-supply-of-technological-talent.7e2b1de4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bdb5e78a.js",
+    "static/js/runtime-main.7d1026df.js",
     "static/css/2.a1a546fa.chunk.css",
-    "static/js/2.9d067191.chunk.js",
+    "static/js/2.36631f76.chunk.js",
     "static/css/main.3eb47039.chunk.css",
-    "static/js/main.0ac0cdf9.chunk.js"
+    "static/js/main.fa8e33cd.chunk.js"
   ]
 }
