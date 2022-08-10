@@ -86,11 +86,6 @@
 	<priority>0.9</priority>
 </url>
 <url>
-	<loc>https://www.dreamcodesoft.com/jobs</loc>
-	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
-	<priority>0.9</priority>
-</url>
-<url>
 	<loc>https://www.dreamcodesoft.com/category</loc>
 	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
 	<priority>0.9</priority>
@@ -312,11 +307,6 @@
 </url>
 <url>
 	<loc>http://www.dreamcodesoft.com/blog</loc>
-	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
-	<priority>0.9</priority>
-</url>
-<url>
-	<loc>http://www.dreamcodesoft.com/jobs</loc>
 	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
 	<priority>0.9</priority>
 </url>
