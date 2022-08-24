@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.ced289a7.chunk.css",
-    "main.js": "/static/js/main.658c8440.chunk.js",
-    "main.js.map": "/static/js/main.658c8440.chunk.js.map",
+    "main.js": "/static/js/main.f2c3bde5.chunk.js",
+    "main.js.map": "/static/js/main.f2c3bde5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ce1206e1.js",
     "runtime-main.js.map": "/static/js/runtime-main.ce1206e1.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
@@ -34,7 +34,6 @@
     "static/media/DreamCoders-Lorena.jpg": "/static/media/DreamCoders-Lorena.c2b3dea3.jpg",
     "static/media/DreamCoders-Roberth.jpg": "/static/media/DreamCoders-Roberth.d2e4f238.jpg",
     "static/media/DreamCoders-Vivian.jpg": "/static/media/DreamCoders-Vivian.41fd4134.jpg",
-    "static/media/Dreamcode_IlustraciónZigZag.png": "/static/media/Dreamcode_IlustraciónZigZag.83fa38bf.png",
     "static/media/Dreamcoder-Eliana.png": "/static/media/Dreamcoder-Eliana.341c876f.png",
     "static/media/Dreamcoder-Ered.png": "/static/media/Dreamcoder-Ered.5e400f0a.png",
     "static/media/Dreamcoder-Juan.png": "/static/media/Dreamcoder-Juan.075efff9.png",
@@ -66,6 +65,7 @@
     "static/media/continuous-integration-and-continuous-delivery.jpg": "/static/media/continuous-integration-and-continuous-delivery.be0fd0e0.jpg",
     "static/media/data-scientist-why-companies-should-have-one.jpg": "/static/media/data-scientist-why-companies-should-have-one.2a5d1a58.jpg",
     "static/media/devops-the-recipe-of-success-software-development-for-companies.jpg": "/static/media/devops-the-recipe-of-success-software-development-for-companies.cb4ef98a.jpg",
+    "static/media/dreamcode_zigzag.png": "/static/media/dreamcode_zigzag.83fa38bf.png",
     "static/media/estrellas.png": "/static/media/estrellas.bf85787f.png",
     "static/media/everything-you-need-to-know-about-microservices.jpg": "/static/media/everything-you-need-to-know-about-microservices.ec061f9d.jpg",
     "static/media/all.css": "/static/media/fa-solid-900.f06e568e.eot",
@@ -130,6 +130,6 @@
     "static/css/2.a1a546fa.chunk.css",
     "static/js/2.470d80a0.chunk.js",
     "static/css/main.ced289a7.chunk.css",
-    "static/js/main.658c8440.chunk.js"
+    "static/js/main.f2c3bde5.chunk.js"
   ]
 }
