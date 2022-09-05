@@ -228,6 +228,26 @@
 	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
+<url>
+	<loc>https://www.dreamcodesoft.com/the-4-phases-of-the-application-development-workflow</loc>
+	<lastmod>2022-08-22T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/CI-CD-DevOps-Agile-when-is-one-methodology-better-than-the-others</loc>
+	<lastmod>2022-08-22T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/javascript-its-power-on-web-and-application-development</loc>
+	<lastmod>2022-08-22T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/language-server-protocol-its-role-on-software-development-field</loc>
+	<lastmod>2022-08-22T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
 
 <!-- http -->
 <url>
@@ -445,6 +465,26 @@
 <url>
 	<loc>http://www.dreamcodesoft.com/lean-programming-a-convenient-software-development-practice-inherited-from-the-business-world</loc>
 	<lastmod>2022-06-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/the-4-phases-of-the-application-development-workflow</loc>
+	<lastmod>2022-08-22T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/CI-CD-DevOps-Agile-when-is-one-methodology-better-than-the-others</loc>
+	<lastmod>2022-08-22T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/javascript-its-power-on-web-and-application-development</loc>
+	<lastmod>2022-08-22T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/language-server-protocol-its-role-on-software-development-field</loc>
+	<lastmod>2022-08-22T09:41:04+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 
