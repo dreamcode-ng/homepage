@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.bbeed7cc.chunk.css",
-    "main.js": "/static/js/main.0566ae34.chunk.js",
-    "main.js.map": "/static/js/main.0566ae34.chunk.js.map",
+    "main.js": "/static/js/main.523cb059.chunk.js",
+    "main.js.map": "/static/js/main.523cb059.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7d1026df.js",
     "runtime-main.js.map": "/static/js/runtime-main.7d1026df.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
@@ -94,6 +94,7 @@
     "static/media/language-server-protocol-its-role-on-software-development-field.jpg": "/static/media/language-server-protocol-its-role-on-software-development-field.eebc480a.jpg",
     "static/media/lean-programming-a-convenient-software-development-practice-inherited-from-the-business-world.jpg": "/static/media/lean-programming-a-convenient-software-development-practice-inherited-from-the-business-world.20553433.jpg",
     "static/media/leonardo-team.png": "/static/media/leonardo-team.f829a23a.png",
+    "static/media/logo-blue.png": "/static/media/logo-blue.ae264d13.png",
     "static/media/logo-global-networks.png": "/static/media/logo-global-networks.3f7f2df5.png",
     "static/media/logo-square-trade.png": "/static/media/logo-square-trade.a30f4849.png",
     "static/media/planing.png": "/static/media/planing.dc7ccbf2.png",
@@ -126,6 +127,6 @@
     "static/css/2.a1a546fa.chunk.css",
     "static/js/2.87f95def.chunk.js",
     "static/css/main.bbeed7cc.chunk.css",
-    "static/js/main.0566ae34.chunk.js"
+    "static/js/main.523cb059.chunk.js"
   ]
 }
