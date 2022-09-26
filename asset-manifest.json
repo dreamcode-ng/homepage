@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.bbeed7cc.chunk.css",
-    "main.js": "/static/js/main.523cb059.chunk.js",
-    "main.js.map": "/static/js/main.523cb059.chunk.js.map",
+    "main.js": "/static/js/main.a1baffea.chunk.js",
+    "main.js.map": "/static/js/main.a1baffea.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7d1026df.js",
     "runtime-main.js.map": "/static/js/runtime-main.7d1026df.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
@@ -20,8 +20,8 @@
     "static/media/AgilSoft.svg": "/static/media/AgilSoft.41c55a42.svg",
     "static/media/category.css": "/static/media/blog-banner.8ac87b40.jpg",
     "static/media/bannerHome.css": "/static/media/bannerMobile.81d99446.png",
-    "static/media/Brochure_DreamCode_English_V1.pdf": "/static/media/Brochure_DreamCode_English_V1.1cd022f5.pdf",
-    "static/media/Brochure_DreamCode_Spanish_V1.pdf": "/static/media/Brochure_DreamCode_Spanish_V1.8c11b5c6.pdf",
+    "static/media/Brochure_DreamCode_English_V1.pdf": "/static/media/Brochure_DreamCode_English_V1.df4d6349.pdf",
+    "static/media/Brochure_DreamCode_Spanish_V1.pdf": "/static/media/Brochure_DreamCode_Spanish_V1.eb908a1d.pdf",
     "static/media/CIO-director-of-technology-the-future-of-businesses.jpg": "/static/media/CIO-director-of-technology-the-future-of-businesses.d63f8fd9.jpg",
     "static/media/CloudNative.svg": "/static/media/CloudNative.0e0bcb57.svg",
     "static/media/DevIcon.png": "/static/media/DevIcon.209fb9bf.png",
@@ -127,6 +127,6 @@
     "static/css/2.a1a546fa.chunk.css",
     "static/js/2.87f95def.chunk.js",
     "static/css/main.bbeed7cc.chunk.css",
-    "static/js/main.523cb059.chunk.js"
+    "static/js/main.a1baffea.chunk.js"
   ]
 }
