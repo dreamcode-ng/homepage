@@ -10,7 +10,7 @@ const dirPathEN = path.join(__dirname, "../src/Articulos/contentEN")
 let postlistEN = []
 
 
-//--------------------------Articulos en Ingles--------------------------//
+//--------------------------Articulos en Inglés--------------------------//
 
 const getPostsEN = () => {
     fs.readdir(dirPathEN, (err, files) => {
