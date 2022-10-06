@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.bbeed7cc.chunk.css",
-    "main.js": "/static/js/main.b8b91a64.chunk.js",
-    "main.js.map": "/static/js/main.b8b91a64.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7d1026df.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7d1026df.js.map",
+    "main.css": "/static/css/main.1b7938a6.chunk.css",
+    "main.js": "/static/js/main.1243ad6a.chunk.js",
+    "main.js.map": "/static/js/main.1243ad6a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f836ac38.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f836ac38.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
-    "static/js/2.87f95def.chunk.js": "/static/js/2.87f95def.chunk.js",
-    "static/js/2.87f95def.chunk.js.map": "/static/js/2.87f95def.chunk.js.map",
-    "static/js/3.97e373cc.chunk.js": "/static/js/3.97e373cc.chunk.js",
-    "static/js/3.97e373cc.chunk.js.map": "/static/js/3.97e373cc.chunk.js.map",
+    "static/js/2.402ea23d.chunk.js": "/static/js/2.402ea23d.chunk.js",
+    "static/js/2.402ea23d.chunk.js.map": "/static/js/2.402ea23d.chunk.js.map",
+    "static/js/3.c7a8d296.chunk.js": "/static/js/3.c7a8d296.chunk.js",
+    "static/js/3.c7a8d296.chunk.js.map": "/static/js/3.c7a8d296.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
-    "static/css/main.bbeed7cc.chunk.css.map": "/static/css/main.bbeed7cc.chunk.css.map",
-    "static/js/2.87f95def.chunk.js.LICENSE.txt": "/static/js/2.87f95def.chunk.js.LICENSE.txt",
+    "static/css/main.1b7938a6.chunk.css.map": "/static/css/main.1b7938a6.chunk.css.map",
+    "static/js/2.402ea23d.chunk.js.LICENSE.txt": "/static/js/2.402ea23d.chunk.js.LICENSE.txt",
     "static/media/API-driven-Architecture-simplifying-software-development.jpg": "/static/media/API-driven-Architecture-simplifying-software-development.63a8eb8d.jpg",
     "static/media/APIDesign.svg": "/static/media/APIDesign.5a02cef6.svg",
     "static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.jpg": "/static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.7bb3ee86.jpg",
@@ -59,6 +59,8 @@
     "static/media/agile-scrum-transformed-it-industry.jpg": "/static/media/agile-scrum-transformed-it-industry.594e0554.jpg",
     "static/media/benefits.css": "/static/media/banner-benefits.84459bba.jpg",
     "static/media/jobsnew.css": "/static/media/banner-carreras.5aee8ba1.jpg",
+    "static/media/banner-home-planet.png": "/static/media/banner-home-planet.5ad0624d.png",
+    "static/media/bannerNew.css": "/static/media/banner-home.d599cb91.jpg",
     "static/media/contacts.css": "/static/media/bannerContactoMovil.e3b646a3.png",
     "static/media/blockchain-development-of-financial-apps-digital-economy.jpg": "/static/media/blockchain-development-of-financial-apps-digital-economy.e81e3e10.jpg",
     "static/media/ci-cd-devops-agile-when-is-one-methodology-better-than-the-others.jpg": "/static/media/ci-cd-devops-agile-when-is-one-methodology-better-than-the-others.69fea96c.jpg",
@@ -123,10 +125,10 @@
     "static/media/what-to-do-before-the-little-supply-of-technological-talent.jpg": "/static/media/what-to-do-before-the-little-supply-of-technological-talent.2d11e003.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7d1026df.js",
+    "static/js/runtime-main.f836ac38.js",
     "static/css/2.a1a546fa.chunk.css",
-    "static/js/2.87f95def.chunk.js",
-    "static/css/main.bbeed7cc.chunk.css",
-    "static/js/main.b8b91a64.chunk.js"
+    "static/js/2.402ea23d.chunk.js",
+    "static/css/main.1b7938a6.chunk.css",
+    "static/js/main.1243ad6a.chunk.js"
   ]
 }
