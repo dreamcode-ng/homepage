@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b7938a6.chunk.css",
-    "main.js": "/static/js/main.78f9c34e.chunk.js",
-    "main.js.map": "/static/js/main.78f9c34e.chunk.js.map",
+    "main.css": "/static/css/main.c5af46f6.chunk.css",
+    "main.js": "/static/js/main.624192d9.chunk.js",
+    "main.js.map": "/static/js/main.624192d9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f836ac38.js",
     "runtime-main.js.map": "/static/js/runtime-main.f836ac38.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.c7a8d296.chunk.js.map": "/static/js/3.c7a8d296.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
-    "static/css/main.1b7938a6.chunk.css.map": "/static/css/main.1b7938a6.chunk.css.map",
+    "static/css/main.c5af46f6.chunk.css.map": "/static/css/main.c5af46f6.chunk.css.map",
     "static/js/2.402ea23d.chunk.js.LICENSE.txt": "/static/js/2.402ea23d.chunk.js.LICENSE.txt",
     "static/media/API-driven-Architecture-simplifying-software-development.jpg": "/static/media/API-driven-Architecture-simplifying-software-development.63a8eb8d.jpg",
     "static/media/APIDesign.svg": "/static/media/APIDesign.5a02cef6.svg",
@@ -128,7 +128,7 @@
     "static/js/runtime-main.f836ac38.js",
     "static/css/2.a1a546fa.chunk.css",
     "static/js/2.402ea23d.chunk.js",
-    "static/css/main.1b7938a6.chunk.css",
-    "static/js/main.78f9c34e.chunk.js"
+    "static/css/main.c5af46f6.chunk.css",
+    "static/js/main.624192d9.chunk.js"
   ]
 }
