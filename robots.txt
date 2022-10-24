@@ -3,8 +3,12 @@ Disallow: /nogooglebot/
 
 User-agent: *
 Allow: /
+Allow: /careers/*
 Disallow: /blog-single
 Disallow: /author/admin-pag/
 Disallow: /static/media/
+Disellow: /*/
+Disellow: /post/*
+Disellow: /category/*
 
 Sitemap: https://www.dreamcodesoft.com/sitemap.xml
