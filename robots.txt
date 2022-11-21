@@ -5,12 +5,9 @@ User-agent: *
 Allow: /
 Allow: /careers/*
 Disallow: /blog-single
-Disallow: /author/admin-pag/
-Disallow: /static/*
 Disellow: /*/
 Disellow: /post/*
 Disellow: /static/*
-Disellow: /static/js/*
 Disellow: /category/*
 
 Sitemap: https://www.dreamcodesoft.com/sitemap.xml
