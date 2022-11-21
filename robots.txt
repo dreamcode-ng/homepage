@@ -5,7 +5,6 @@ User-agent: *
 Allow: /
 Allow: /careers/*
 Disallow: /blog-single
-Disallow: /author/*
 Disellow: /*/
 Disellow: /post/*
 Disellow: /static/*
