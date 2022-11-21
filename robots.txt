@@ -10,6 +10,6 @@ Disallow: /static/media/
 Disellow: /*/
 Disellow: /post/*
 Disellow: /static/*
-Disellow: /category/*
+
 
 Sitemap: https://www.dreamcodesoft.com/sitemap.xml
