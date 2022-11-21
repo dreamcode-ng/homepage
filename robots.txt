@@ -6,7 +6,7 @@ Allow: /
 Allow: /careers/*
 Disallow: /blog-single
 Disallow: /author/admin-pag/
-Disallow: /static/media/
+Disallow: /static/*
 Disellow: /*/
 Disellow: /post/*
 Disellow: /static/*
