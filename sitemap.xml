@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+	<loc>https://www.dreamcodesoft.com/</loc>
+	<lastmod>2022-06-24T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/careers</loc>
+	<lastmod>2022-08-01T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/careers/lider-de-desarrollo-java</loc>
+	<lastmod>2022-06-24T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/careers/ingeniero-de-automatizacion</loc>
+	<lastmod>2022-06-24T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/careers/desarrollador-java</loc>
+	<lastmod>2022-06-24T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/careers/desarrollador-java-senior</loc>
+	<lastmod>2022-06-24T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/careers/desarrollador-frontend-react-o-angular</loc>
+	<lastmod>2022-06-24T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/careers/desarrollador-backend-nodejs</loc>
+	<lastmod>2022-06-24T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/benefits</loc>
+	<lastmod>2022-08-01T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/dreamcoders</loc>
+	<lastmod>2022-08-01T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/about</loc>
+	<lastmod>2022-06-24T09:41:02+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/devops</loc>
+	<lastmod>2022-06-24T09:41:02+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/scrum</loc>
+	<lastmod>2022-06-24T09:41:02+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/services</loc>
+	<lastmod>2022-06-24T09:41:02+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/contact</loc>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/blog</loc>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/category</loc>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/category/transformation</loc>
+	<lastmod>2022-03-24T09:41:03+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/category/up-to-date</loc>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/category/innovation</loc>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+
+<!-- Articulos English https -->
+
+<url>
+	<loc>https://www.dreamcodesoft.com/developing-applications-software-development-life-cycle-sldc</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/technical-documentation-in-software-development-and-its-models</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/5-digital-security-practices-to-develop-highly-reliable-software-apps</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/pros-and-cons-the-top-5-programming-languages-for-mobile-development</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/language-server-protocol-its-role-on-software-development-field</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/javascript-its-power-on-web-and-application-development</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/CI-CD-DevOps-Agile-when-is-one-methodology-better-than-the-others</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/the-4-phases-of-the-application-development-workflow</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/types-of-cloud-applications-how-to-benefit-from-them</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/devops-the-recipe-of-success-software-development-for-companies</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/APIs-as-business-bridges-to-better-business-to-customer-relationships</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/lean-programming-a-convenient-software-development-practice-inherited-from-the-business-world</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/data-scientist-why-companies-should-have-one</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/top5-most-popular-languages-for-artificial-intelligence-programming</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/API-driven-Architecture-simplifying-software-development</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/why-the-most-valuable-companies-use-java</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/what-agile-testing-is-and-its-pillars</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/how-your-business-benefits-from-cloud-native</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/continuous-integration-and-continuous-delivery</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/tremendous-potential-behind-big-data-and-its-analytics-tools</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/ui-ux-crucial-components-for-development-high-value-web-applications</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/blockchain-development-of-financial-applications-for-the-digitization-of-the-economy</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/how-scrum-transformed-it-industry</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/the-risks-of-developing-in-no-code-tools</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/what-to-do-in-the-face-of-the-shortage-of-tech-talent</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/talent-tech-improve-your-technology-recruitment</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/the-growing-need-for-cloud-systems</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/remote-working-in-software-development</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/cio-director-of-technology-the-future-of-enterprises</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/serverless-architecture-cloud-computing-model-transforming-business-web-development</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/the-importance-of-retaining-tech-talent</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/everything-you-need-to-know-about-microservices</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+
+<!-- http -->
+<url>
+	<loc>http://www.dreamcodesoft.com/</loc>
+	<lastmod>2022-06-24T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/careers</loc>
+	<lastmod>2022-06-24T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/careers/lider-de-desarrollo-java</loc>
+	<lastmod>2022-06-24T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/careers/ingeniero-de-automatizacion</loc>
+	<lastmod>2022-06-24T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/careers/desarrollador-java</loc>
+	<lastmod>2022-06-24T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/careers/desarrollador-java-senior</loc>
+	<lastmod>2022-06-24T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/careers/desarrollador-frontend-react-o-angular</loc>
+	<lastmod>2022-06-24T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/careers/desarrollador-backend-nodejs</loc>
+	<lastmod>2022-06-24T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/benefits</loc>
+	<lastmod>2022-08-01T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/dreamcoders</loc>
+	<lastmod>2022-08-01T09:40:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/about</loc>
+	<lastmod>2022-06-24T09:41:02+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/devops</loc>
+	<lastmod>2022-06-24T09:41:02+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/scrum</loc>
+	<lastmod>2022-06-24T09:41:02+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/services</loc>
+	<lastmod>2022-06-24T09:41:02+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/contact</loc>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/blog</loc>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/category</loc>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/category/up-to-date</loc>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/category/innovation</loc>
+	<lastmod>2022-06-24T09:41:03+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+
+<!-- articulos English http-->
+<url>
+	<loc>http://www.dreamcodesoft.com/developing-applications-software-development-life-cycle-sldc</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/technical-documentation-in-software-development-and-its-models</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/5-digital-security-practices-to-develop-highly-reliable-software-apps</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/pros-and-cons-the-top-5-programming-languages-for-mobile-development</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/language-server-protocol-its-role-on-software-development-field</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/javascript-its-power-on-web-and-application-development</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/CI-CD-DevOps-Agile-when-is-one-methodology-better-than-the-others</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/the-4-phases-of-the-application-development-workflow</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/types-of-cloud-applications-how-to-benefit-from-them</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/devops-the-recipe-of-success-software-development-for-companies</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/APIs-as-business-bridges-to-better-business-to-customer-relationships</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/lean-programming-a-convenient-software-development-practice-inherited-from-the-business-world</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/data-scientist-why-companies-should-have-one</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/top5-most-popular-languages-for-artificial-intelligence-programming</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/API-driven-Architecture-simplifying-software-development</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/why-the-most-valuable-companies-use-java</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/what-agile-testing-is-and-its-pillars</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/how-your-business-benefits-from-cloud-native</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/continuous-integration-and-continuous-delivery</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/tremendous-potential-behind-big-data-and-its-analytics-tools</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/ui-ux-crucial-components-for-development-high-value-web-applications</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/blockchain-development-of-financial-applications-for-the-digitization-of-the-economy</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/how-scrum-transformed-it-industry</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/the-risks-of-developing-in-no-code-tools</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/what-to-do-in-the-face-of-the-shortage-of-tech-talent</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/talent-tech-improve-your-technology-recruitment</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/the-growing-need-for-cloud-systems</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/remote-working-in-software-development</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/cio-director-of-technology-the-future-of-enterprises</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/serverless-architecture-cloud-computing-model-transforming-business-web-development</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/the-importance-of-retaining-tech-talent</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.dreamcodesoft.com/everything-you-need-to-know-about-microservices</loc>
+	<lastmod>2022-08-28T09:41:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+
+
+
+
+
+
+</urlset>
