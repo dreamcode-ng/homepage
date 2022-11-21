@@ -6,6 +6,7 @@ Allow: /
 Allow: /careers/*
 Disallow: /blog-single
 Disellow: /*/
+Disallow: /author/*
 Disellow: /post/*
 Disellow: /static/*
 Disellow: /category/*
