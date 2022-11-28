@@ -9,6 +9,7 @@ Disellow: /*/
 Disallow: /author/*
 Disellow: /post/*
 Disellow: /static/*
+Disellow: /cdn-cgi/*
 Disellow: /category/*
 
 Sitemap: https://www.dreamcodesoft.com/sitemap.xml
