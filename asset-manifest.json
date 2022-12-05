@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.61c65d4f.chunk.css",
-    "main.js": "/static/js/main.b8f51a92.chunk.js",
-    "main.js.map": "/static/js/main.b8f51a92.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2e164abb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2e164abb.js.map",
+    "main.js": "/static/js/main.4cf91d9c.chunk.js",
+    "main.js.map": "/static/js/main.4cf91d9c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5f856c2b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5f856c2b.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
-    "static/js/2.afc8f417.chunk.js": "/static/js/2.afc8f417.chunk.js",
-    "static/js/2.afc8f417.chunk.js.map": "/static/js/2.afc8f417.chunk.js.map",
-    "static/js/3.c869396e.chunk.js": "/static/js/3.c869396e.chunk.js",
-    "static/js/3.c869396e.chunk.js.map": "/static/js/3.c869396e.chunk.js.map",
+    "static/js/2.8b225fda.chunk.js": "/static/js/2.8b225fda.chunk.js",
+    "static/js/2.8b225fda.chunk.js.map": "/static/js/2.8b225fda.chunk.js.map",
+    "static/js/3.bfcbe3d1.chunk.js": "/static/js/3.bfcbe3d1.chunk.js",
+    "static/js/3.bfcbe3d1.chunk.js.map": "/static/js/3.bfcbe3d1.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
     "static/css/main.61c65d4f.chunk.css.map": "/static/css/main.61c65d4f.chunk.css.map",
-    "static/js/2.afc8f417.chunk.js.LICENSE.txt": "/static/js/2.afc8f417.chunk.js.LICENSE.txt",
+    "static/js/2.8b225fda.chunk.js.LICENSE.txt": "/static/js/2.8b225fda.chunk.js.LICENSE.txt",
     "static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.jpg": "/static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.e7ae6550.jpg",
     "static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.jpg": "/static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.3886b287.jpg",
     "static/media/API-driven-Architecture-simplifying-software-development.jpg": "/static/media/API-driven-Architecture-simplifying-software-development.63a8eb8d.jpg",
@@ -107,6 +107,7 @@
     "static/media/progressive-web-applications-why-so-popular.jpg": "/static/media/progressive-web-applications-why-so-popular.ebf90db2.jpg",
     "static/media/pros-and-cons-the-top-5-programming-languages-for-mobile-development.jpg": "/static/media/pros-and-cons-the-top-5-programming-languages-for-mobile-development.b8aec4b4.jpg",
     "static/media/remote-working-in-software-development.jpg": "/static/media/remote-working-in-software-development.fbefa577.jpg",
+    "static/media/seguros-bolivar-and-dreamcode-software-transforming-the-future-together.jpg": "/static/media/seguros-bolivar-and-dreamcode-software-transforming-the-future-together.779b1f36.jpg",
     "static/media/serverless-architecture-cloud-computing-business-web-development.jpg": "/static/media/serverless-architecture-cloud-computing-business-web-development.c1bf17a2.jpg",
     "static/media/simbolo-Agiles.png": "/static/media/simbolo-Agiles.aec10d9c.png",
     "static/media/simbolo-Humanos.png": "/static/media/simbolo-Humanos.14ddb04e.png",
@@ -133,10 +134,10 @@
     "static/media/what-to-do-before-the-little-supply-of-technological-talent.jpg": "/static/media/what-to-do-before-the-little-supply-of-technological-talent.2d11e003.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e164abb.js",
+    "static/js/runtime-main.5f856c2b.js",
     "static/css/2.a1a546fa.chunk.css",
-    "static/js/2.afc8f417.chunk.js",
+    "static/js/2.8b225fda.chunk.js",
     "static/css/main.61c65d4f.chunk.css",
-    "static/js/main.b8f51a92.chunk.js"
+    "static/js/main.4cf91d9c.chunk.js"
   ]
 }
