@@ -3,10 +3,10 @@ const fs = require("fs")
 
 
 const dirPathEN = path.join(__dirname, "../src/Articulos/contentEN")
-//const dirPathES = path.join(__dirname, "../src/Articulos/contentES")
+const dirPathES = path.join(__dirname, "../src/Articulos/contentES")
 
 
-//let postlistES = []
+let postlistES = []
 let postlistEN = []
 
 
@@ -94,7 +94,7 @@ const getPostsEN = () => {
 
 
 //--------------------------Articulos en Español--------------------------//
-/*
+
 const getPostsES = () => {
     fs.readdir(dirPathES, (err, files) => {
         if (err) {
@@ -175,10 +175,10 @@ const getPostsES = () => {
 
 
     return 
-}*/
+}
 
 
-//getPostsES()
+getPostsES()
 getPostsEN()
 
 
