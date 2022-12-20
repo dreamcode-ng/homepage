@@ -2,7 +2,7 @@ User-agent: Googlebot
 Disallow: /nogooglebot/
 
 User-agent: *
-Allow: /
+Allow: /*
 Allow: /careers/*
 Disallow: /blog-single
 Disellow: /*/
