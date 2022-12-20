@@ -67,14 +67,17 @@ const getPostsEN = () => {
 
     //console.log("<url><loc>http://www.dreamcodesoft.com/" + post.url + "</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>")
 
-    console.log("Id: " + post.id  +  " Url: " + post.url)
+    //console.log("Id: " + post.id  +  " Url: " + post.url)
 
                 postlistEN.push(post)
                 if (i === files.length - 1) {
                     //Orden de los post segun la fecha de creación
                     const sortedList = postlistEN.sort ((a, b) => {
                         return a.id > b.id ? 1 : -1
+                        
                     })
+
+                    //console.log()
 
                     //Crea el archivo json
                     //
@@ -150,7 +153,7 @@ const getPostsES = () => {
                     content: content ? content : "No content given",
                 }
     
-                console.log("ES: Id: " + post.id  +  " Url: " + post.url)
+                console.log("ES: Id: " + post.id  + " Date: " + post.date)
 
                 //console.log("<url><loc>http://www.dreamcodesoft.com/" + post.url + "/</loc><lastmod>2021-12-24T09:41:04+01:00</lastmod><priority>0.6</priority></url>")
 
@@ -159,6 +162,7 @@ const getPostsES = () => {
                     //Orden de los post segun la fecha de creación
                     const sortedList = postlistES.sort ((a, b) => {
                         return a.id > b.id ? 1 : -1
+                        //new Date(a.date).getTime() > new Date(b.date).getTime()
                     })
                     //Crea el archivo json
                     let data = JSON.stringify(sortedList)
