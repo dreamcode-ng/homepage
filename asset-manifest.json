@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.5dadae18.chunk.css",
-    "main.js": "/static/js/main.e909db18.chunk.js",
-    "main.js.map": "/static/js/main.e909db18.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.07fd7240.js",
-    "runtime-main.js.map": "/static/js/runtime-main.07fd7240.js.map",
+    "main.css": "/static/css/main.d44d1949.chunk.css",
+    "main.js": "/static/js/main.923b2720.chunk.js",
+    "main.js.map": "/static/js/main.923b2720.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a38a3779.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a38a3779.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
-    "static/js/2.6b74639d.chunk.js": "/static/js/2.6b74639d.chunk.js",
-    "static/js/2.6b74639d.chunk.js.map": "/static/js/2.6b74639d.chunk.js.map",
-    "static/js/3.a66a10f1.chunk.js": "/static/js/3.a66a10f1.chunk.js",
-    "static/js/3.a66a10f1.chunk.js.map": "/static/js/3.a66a10f1.chunk.js.map",
+    "static/js/2.552b7d06.chunk.js": "/static/js/2.552b7d06.chunk.js",
+    "static/js/2.552b7d06.chunk.js.map": "/static/js/2.552b7d06.chunk.js.map",
+    "static/js/3.c5cb7f54.chunk.js": "/static/js/3.c5cb7f54.chunk.js",
+    "static/js/3.c5cb7f54.chunk.js.map": "/static/js/3.c5cb7f54.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
-    "static/css/main.5dadae18.chunk.css.map": "/static/css/main.5dadae18.chunk.css.map",
-    "static/js/2.6b74639d.chunk.js.LICENSE.txt": "/static/js/2.6b74639d.chunk.js.LICENSE.txt",
+    "static/css/main.d44d1949.chunk.css.map": "/static/css/main.d44d1949.chunk.css.map",
+    "static/js/2.552b7d06.chunk.js.LICENSE.txt": "/static/js/2.552b7d06.chunk.js.LICENSE.txt",
     "static/media/2022-and-the-technological-reach-of-digital-transformation.jpg": "/static/media/2022-and-the-technological-reach-of-digital-transformation.456c50ba.jpg",
     "static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.jpg": "/static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.e7ae6550.jpg",
     "static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.jpg": "/static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.3886b287.jpg",
@@ -22,7 +22,6 @@
     "static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.jpg": "/static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.7bb3ee86.jpg",
     "static/media/AgilSoft.svg": "/static/media/AgilSoft.41c55a42.svg",
     "static/media/category.css": "/static/media/blog-banner.8ac87b40.jpg",
-    "static/media/bannerHome.css": "/static/media/bannerMobile.81d99446.png",
     "static/media/Brochure_DreamCode_English_V1.pdf": "/static/media/Brochure_DreamCode_English_V1.df4d6349.pdf",
     "static/media/Brochure_DreamCode_Spanish_V1.pdf": "/static/media/Brochure_DreamCode_Spanish_V1.eb908a1d.pdf",
     "static/media/CIO-director-of-technology-the-future-of-businesses.jpg": "/static/media/CIO-director-of-technology-the-future-of-businesses.d63f8fd9.jpg",
@@ -143,10 +142,10 @@
     "static/media/what-to-do-before-the-little-supply-of-technological-talent.jpg": "/static/media/what-to-do-before-the-little-supply-of-technological-talent.2d11e003.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.07fd7240.js",
+    "static/js/runtime-main.a38a3779.js",
     "static/css/2.a1a546fa.chunk.css",
-    "static/js/2.6b74639d.chunk.js",
-    "static/css/main.5dadae18.chunk.css",
-    "static/js/main.e909db18.chunk.js"
+    "static/js/2.552b7d06.chunk.js",
+    "static/css/main.d44d1949.chunk.css",
+    "static/js/main.923b2720.chunk.js"
   ]
 }
