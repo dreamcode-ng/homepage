@@ -77,7 +77,7 @@ const getPostsEN = () => {
                         
                     })
 
-                    //console.log()
+                
 
                     //Crea el archivo json
                     //
@@ -153,7 +153,7 @@ const getPostsES = () => {
                     content: content ? content : "No content given",
                 }
     
-                console.log("ES: Id: " + post.id  + " Date: " + post.date)
+                //console.log("ES: Id: " + post.id  + " Date: " + post.date)
 
                 //console.log("<url><loc>http://www.dreamcodesoft.com/" + post.url + "/</loc><lastmod>2021-12-24T09:41:04+01:00</lastmod><priority>0.6</priority></url>")
 
