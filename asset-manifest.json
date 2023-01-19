@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.b54bc302.chunk.css",
-    "main.js": "/static/js/main.d71cb8a9.chunk.js",
-    "main.js.map": "/static/js/main.d71cb8a9.chunk.js.map",
+    "main.css": "/static/css/main.c2568016.chunk.css",
+    "main.js": "/static/js/main.ac4a5292.chunk.js",
+    "main.js.map": "/static/js/main.ac4a5292.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.07fd7240.js",
     "runtime-main.js.map": "/static/js/runtime-main.07fd7240.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
-    "static/js/2.c6f2b83e.chunk.js": "/static/js/2.c6f2b83e.chunk.js",
-    "static/js/2.c6f2b83e.chunk.js.map": "/static/js/2.c6f2b83e.chunk.js.map",
+    "static/js/2.637cc23f.chunk.js": "/static/js/2.637cc23f.chunk.js",
+    "static/js/2.637cc23f.chunk.js.map": "/static/js/2.637cc23f.chunk.js.map",
     "static/js/3.a66a10f1.chunk.js": "/static/js/3.a66a10f1.chunk.js",
     "static/js/3.a66a10f1.chunk.js.map": "/static/js/3.a66a10f1.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
-    "static/css/main.b54bc302.chunk.css.map": "/static/css/main.b54bc302.chunk.css.map",
-    "static/js/2.c6f2b83e.chunk.js.LICENSE.txt": "/static/js/2.c6f2b83e.chunk.js.LICENSE.txt",
+    "static/css/main.c2568016.chunk.css.map": "/static/css/main.c2568016.chunk.css.map",
+    "static/js/2.637cc23f.chunk.js.LICENSE.txt": "/static/js/2.637cc23f.chunk.js.LICENSE.txt",
     "static/media/2022-and-the-technological-reach-of-digital-transformation.jpg": "/static/media/2022-and-the-technological-reach-of-digital-transformation.456c50ba.jpg",
     "static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.jpg": "/static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.e7ae6550.jpg",
     "static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.jpg": "/static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.3886b287.jpg",
@@ -144,8 +144,8 @@
   "entrypoints": [
     "static/js/runtime-main.07fd7240.js",
     "static/css/2.a1a546fa.chunk.css",
-    "static/js/2.c6f2b83e.chunk.js",
-    "static/css/main.b54bc302.chunk.css",
-    "static/js/main.d71cb8a9.chunk.js"
+    "static/js/2.637cc23f.chunk.js",
+    "static/css/main.c2568016.chunk.css",
+    "static/js/main.ac4a5292.chunk.js"
   ]
 }
