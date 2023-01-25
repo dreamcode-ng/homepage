@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2568016.chunk.css",
-    "main.js": "/static/js/main.ac4a5292.chunk.js",
-    "main.js.map": "/static/js/main.ac4a5292.chunk.js.map",
+    "main.css": "/static/css/main.ce27557d.chunk.css",
+    "main.js": "/static/js/main.457d2425.chunk.js",
+    "main.js.map": "/static/js/main.457d2425.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.07fd7240.js",
     "runtime-main.js.map": "/static/js/runtime-main.07fd7240.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
-    "static/js/2.637cc23f.chunk.js": "/static/js/2.637cc23f.chunk.js",
-    "static/js/2.637cc23f.chunk.js.map": "/static/js/2.637cc23f.chunk.js.map",
+    "static/js/2.77cafe88.chunk.js": "/static/js/2.77cafe88.chunk.js",
+    "static/js/2.77cafe88.chunk.js.map": "/static/js/2.77cafe88.chunk.js.map",
     "static/js/3.a66a10f1.chunk.js": "/static/js/3.a66a10f1.chunk.js",
     "static/js/3.a66a10f1.chunk.js.map": "/static/js/3.a66a10f1.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
-    "static/css/main.c2568016.chunk.css.map": "/static/css/main.c2568016.chunk.css.map",
-    "static/js/2.637cc23f.chunk.js.LICENSE.txt": "/static/js/2.637cc23f.chunk.js.LICENSE.txt",
+    "static/css/main.ce27557d.chunk.css.map": "/static/css/main.ce27557d.chunk.css.map",
+    "static/js/2.77cafe88.chunk.js.LICENSE.txt": "/static/js/2.77cafe88.chunk.js.LICENSE.txt",
     "static/media/2022-and-the-technological-reach-of-digital-transformation.jpg": "/static/media/2022-and-the-technological-reach-of-digital-transformation.456c50ba.jpg",
     "static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.jpg": "/static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.e7ae6550.jpg",
     "static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.jpg": "/static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.3886b287.jpg",
@@ -22,8 +22,8 @@
     "static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.jpg": "/static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.7bb3ee86.jpg",
     "static/media/AgilSoft.svg": "/static/media/AgilSoft.41c55a42.svg",
     "static/media/category.css": "/static/media/blog-banner.8ac87b40.jpg",
-    "static/media/Brochure_DreamCode_English_V1.pdf": "/static/media/Brochure_DreamCode_English_V1.df4d6349.pdf",
-    "static/media/Brochure_DreamCode_Spanish_V1.pdf": "/static/media/Brochure_DreamCode_Spanish_V1.eb908a1d.pdf",
+    "static/media/Brochure_DreamCode_English_V1.pdf": "/static/media/Brochure_DreamCode_English_V1.7c4d0f13.pdf",
+    "static/media/Brochure_DreamCode_Spanish_V1.pdf": "/static/media/Brochure_DreamCode_Spanish_V1.2d88a1e5.pdf",
     "static/media/CIO-director-of-technology-the-future-of-businesses.jpg": "/static/media/CIO-director-of-technology-the-future-of-businesses.d63f8fd9.jpg",
     "static/media/CloudNative.svg": "/static/media/CloudNative.0e0bcb57.svg",
     "static/media/DevIcon.png": "/static/media/DevIcon.209fb9bf.png",
@@ -144,8 +144,8 @@
   "entrypoints": [
     "static/js/runtime-main.07fd7240.js",
     "static/css/2.a1a546fa.chunk.css",
-    "static/js/2.637cc23f.chunk.js",
-    "static/css/main.c2568016.chunk.css",
-    "static/js/main.ac4a5292.chunk.js"
+    "static/js/2.77cafe88.chunk.js",
+    "static/css/main.ce27557d.chunk.css",
+    "static/js/main.457d2425.chunk.js"
   ]
 }
