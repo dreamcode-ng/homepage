@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.30c46c1f.chunk.css",
-    "main.js": "/static/js/main.cad37854.chunk.js",
-    "main.js.map": "/static/js/main.cad37854.chunk.js.map",
+    "main.js": "/static/js/main.eef0bd1d.chunk.js",
+    "main.js.map": "/static/js/main.eef0bd1d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4b59433c.js",
     "runtime-main.js.map": "/static/js/runtime-main.4b59433c.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
-    "static/js/2.8477db82.chunk.js": "/static/js/2.8477db82.chunk.js",
-    "static/js/2.8477db82.chunk.js.map": "/static/js/2.8477db82.chunk.js.map",
+    "static/js/2.4c388a44.chunk.js": "/static/js/2.4c388a44.chunk.js",
+    "static/js/2.4c388a44.chunk.js.map": "/static/js/2.4c388a44.chunk.js.map",
     "static/js/3.3b9f761a.chunk.js": "/static/js/3.3b9f761a.chunk.js",
     "static/js/3.3b9f761a.chunk.js.map": "/static/js/3.3b9f761a.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
     "static/css/main.30c46c1f.chunk.css.map": "/static/css/main.30c46c1f.chunk.css.map",
-    "static/js/2.8477db82.chunk.js.LICENSE.txt": "/static/js/2.8477db82.chunk.js.LICENSE.txt",
+    "static/js/2.4c388a44.chunk.js.LICENSE.txt": "/static/js/2.4c388a44.chunk.js.LICENSE.txt",
     "static/media/2022-and-the-technological-reach-of-digital-transformation.jpg": "/static/media/2022-and-the-technological-reach-of-digital-transformation.456c50ba.jpg",
     "static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.jpg": "/static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.e7ae6550.jpg",
     "static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.jpg": "/static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.3886b287.jpg",
@@ -95,7 +95,7 @@
     "static/media/img-benefits-2.jpg": "/static/media/img-benefits-2.06ee66bf.jpg",
     "static/media/img-benefits-3.jpg": "/static/media/img-benefits-3.63ebc0f3.jpg",
     "static/media/img-benefits-4.jpg": "/static/media/img-benefits-4.58b58cf2.jpg",
-    "static/media/img-benefits-5.jpg": "/static/media/img-benefits-5.ec8e2c58.jpg",
+    "static/media/img-benefits-5.jpg": "/static/media/img-benefits-5.b66b0bde.jpg",
     "static/media/img-benefits-6.jpg": "/static/media/img-benefits-6.f2b0b1c9.jpg",
     "static/media/img-benefits-7.jpg": "/static/media/img-benefits-7.f1c0b6f0.jpg",
     "static/media/img-benefits-8.jpg": "/static/media/img-benefits-8.14738497.jpg",
@@ -147,8 +147,8 @@
   "entrypoints": [
     "static/js/runtime-main.4b59433c.js",
     "static/css/2.a1a546fa.chunk.css",
-    "static/js/2.8477db82.chunk.js",
+    "static/js/2.4c388a44.chunk.js",
     "static/css/main.30c46c1f.chunk.css",
-    "static/js/main.cad37854.chunk.js"
+    "static/js/main.eef0bd1d.chunk.js"
   ]
 }
