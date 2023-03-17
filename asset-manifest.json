@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.30c46c1f.chunk.css",
-    "main.js": "/static/js/main.eef0bd1d.chunk.js",
-    "main.js.map": "/static/js/main.eef0bd1d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4b59433c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4b59433c.js.map",
+    "main.css": "/static/css/main.4d25251b.chunk.css",
+    "main.js": "/static/js/main.b3edd0dd.chunk.js",
+    "main.js.map": "/static/js/main.b3edd0dd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9cebe453.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9cebe453.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
-    "static/js/2.4c388a44.chunk.js": "/static/js/2.4c388a44.chunk.js",
-    "static/js/2.4c388a44.chunk.js.map": "/static/js/2.4c388a44.chunk.js.map",
-    "static/js/3.3b9f761a.chunk.js": "/static/js/3.3b9f761a.chunk.js",
-    "static/js/3.3b9f761a.chunk.js.map": "/static/js/3.3b9f761a.chunk.js.map",
+    "static/js/2.73050315.chunk.js": "/static/js/2.73050315.chunk.js",
+    "static/js/2.73050315.chunk.js.map": "/static/js/2.73050315.chunk.js.map",
+    "static/js/3.5cdd9bd5.chunk.js": "/static/js/3.5cdd9bd5.chunk.js",
+    "static/js/3.5cdd9bd5.chunk.js.map": "/static/js/3.5cdd9bd5.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
-    "static/css/main.30c46c1f.chunk.css.map": "/static/css/main.30c46c1f.chunk.css.map",
-    "static/js/2.4c388a44.chunk.js.LICENSE.txt": "/static/js/2.4c388a44.chunk.js.LICENSE.txt",
+    "static/css/main.4d25251b.chunk.css.map": "/static/css/main.4d25251b.chunk.css.map",
+    "static/js/2.73050315.chunk.js.LICENSE.txt": "/static/js/2.73050315.chunk.js.LICENSE.txt",
     "static/media/2022-and-the-technological-reach-of-digital-transformation.jpg": "/static/media/2022-and-the-technological-reach-of-digital-transformation.456c50ba.jpg",
     "static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.jpg": "/static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.e7ae6550.jpg",
     "static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.jpg": "/static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.3886b287.jpg",
@@ -36,6 +36,7 @@
     "static/media/DreamCoders-Lorena.jpg": "/static/media/DreamCoders-Lorena.c2b3dea3.jpg",
     "static/media/DreamCoders-Roberth.jpg": "/static/media/DreamCoders-Roberth.d2e4f238.jpg",
     "static/media/DreamCoders-Vivian.jpg": "/static/media/DreamCoders-Vivian.41fd4134.jpg",
+    "static/media/Dreamcode_2023_Certification_Badge.png": "/static/media/Dreamcode_2023_Certification_Badge.ebc57ba5.png",
     "static/media/Dreamcoder-Eliana.png": "/static/media/Dreamcoder-Eliana.341c876f.png",
     "static/media/Dreamcoder-Ered.png": "/static/media/Dreamcoder-Ered.5e400f0a.png",
     "static/media/Dreamcoder-Juan.png": "/static/media/Dreamcoder-Juan.075efff9.png",
@@ -145,10 +146,10 @@
     "static/media/what-to-do-before-the-little-supply-of-technological-talent.jpg": "/static/media/what-to-do-before-the-little-supply-of-technological-talent.2d11e003.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b59433c.js",
+    "static/js/runtime-main.9cebe453.js",
     "static/css/2.a1a546fa.chunk.css",
-    "static/js/2.4c388a44.chunk.js",
-    "static/css/main.30c46c1f.chunk.css",
-    "static/js/main.eef0bd1d.chunk.js"
+    "static/js/2.73050315.chunk.js",
+    "static/css/main.4d25251b.chunk.css",
+    "static/js/main.b3edd0dd.chunk.js"
   ]
 }
