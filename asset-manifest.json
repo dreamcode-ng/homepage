@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.4d25251b.chunk.css",
-    "main.js": "/static/js/main.b3edd0dd.chunk.js",
-    "main.js.map": "/static/js/main.b3edd0dd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9cebe453.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9cebe453.js.map",
+    "main.js": "/static/js/main.68b75426.chunk.js",
+    "main.js.map": "/static/js/main.68b75426.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4fb2c119.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4fb2c119.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
-    "static/js/2.73050315.chunk.js": "/static/js/2.73050315.chunk.js",
-    "static/js/2.73050315.chunk.js.map": "/static/js/2.73050315.chunk.js.map",
-    "static/js/3.5cdd9bd5.chunk.js": "/static/js/3.5cdd9bd5.chunk.js",
-    "static/js/3.5cdd9bd5.chunk.js.map": "/static/js/3.5cdd9bd5.chunk.js.map",
+    "static/js/2.da796658.chunk.js": "/static/js/2.da796658.chunk.js",
+    "static/js/2.da796658.chunk.js.map": "/static/js/2.da796658.chunk.js.map",
+    "static/js/3.f1c98c0a.chunk.js": "/static/js/3.f1c98c0a.chunk.js",
+    "static/js/3.f1c98c0a.chunk.js.map": "/static/js/3.f1c98c0a.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
     "static/css/main.4d25251b.chunk.css.map": "/static/css/main.4d25251b.chunk.css.map",
-    "static/js/2.73050315.chunk.js.LICENSE.txt": "/static/js/2.73050315.chunk.js.LICENSE.txt",
+    "static/js/2.da796658.chunk.js.LICENSE.txt": "/static/js/2.da796658.chunk.js.LICENSE.txt",
     "static/media/2022-and-the-technological-reach-of-digital-transformation.jpg": "/static/media/2022-and-the-technological-reach-of-digital-transformation.456c50ba.jpg",
     "static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.jpg": "/static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.e7ae6550.jpg",
     "static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.jpg": "/static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.3886b287.jpg",
@@ -64,6 +64,7 @@
     "static/media/WebFrontEnd.svg": "/static/media/WebFrontEnd.085b38e0.svg",
     "static/media/agile-scrum-transformed-it-industry.jpg": "/static/media/agile-scrum-transformed-it-industry.594e0554.jpg",
     "static/media/application-development-trends-that-we-will-see-in-2023.jpg": "/static/media/application-development-trends-that-we-will-see-in-2023.1034c559.jpg",
+    "static/media/artificial-intelligence-A-I-impact-areas-in-the-business-arena-of-2023.jpg": "/static/media/artificial-intelligence-A-I-impact-areas-in-the-business-arena-of-2023.21ea7e8f.jpg",
     "static/media/benefits.css": "/static/media/banner-benefits.84459bba.jpg",
     "static/media/jobsnew.css": "/static/media/banner-carreras.5aee8ba1.jpg",
     "static/media/banner-home-planet.png": "/static/media/banner-home-planet.5ad0624d.png",
@@ -105,6 +106,7 @@
     "static/media/img-scrum-int.png": "/static/media/img-scrum-int.31008207.png",
     "static/media/javascript-its-power-on-web-and-application-development.jpg": "/static/media/javascript-its-power-on-web-and-application-development.3f226208.jpg",
     "static/media/jonathan-team.png": "/static/media/jonathan-team.52e97c35.png",
+    "static/media/key-skills-to-highlight-your-profile-as-an-application-developer.jpg": "/static/media/key-skills-to-highlight-your-profile-as-an-application-developer.ac8549ca.jpg",
     "static/media/language-server-protocol-its-role-on-software-development-field.jpg": "/static/media/language-server-protocol-its-role-on-software-development-field.eebc480a.jpg",
     "static/media/lean-programming-a-convenient-software-development-practice-inherited-from-the-business-world.jpg": "/static/media/lean-programming-a-convenient-software-development-practice-inherited-from-the-business-world.20553433.jpg",
     "static/media/leonardo-team.png": "/static/media/leonardo-team.f829a23a.png",
@@ -146,10 +148,10 @@
     "static/media/what-to-do-before-the-little-supply-of-technological-talent.jpg": "/static/media/what-to-do-before-the-little-supply-of-technological-talent.2d11e003.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9cebe453.js",
+    "static/js/runtime-main.4fb2c119.js",
     "static/css/2.a1a546fa.chunk.css",
-    "static/js/2.73050315.chunk.js",
+    "static/js/2.da796658.chunk.js",
     "static/css/main.4d25251b.chunk.css",
-    "static/js/main.b3edd0dd.chunk.js"
+    "static/js/main.68b75426.chunk.js"
   ]
 }
