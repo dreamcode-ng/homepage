@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ae5d291.chunk.css",
-    "main.js": "/static/js/main.a0bec461.chunk.js",
-    "main.js.map": "/static/js/main.a0bec461.chunk.js.map",
+    "main.css": "/static/css/main.0cfc6268.chunk.css",
+    "main.js": "/static/js/main.13a5a2e9.chunk.js",
+    "main.js.map": "/static/js/main.13a5a2e9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4fb2c119.js",
     "runtime-main.js.map": "/static/js/runtime-main.4fb2c119.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.f1c98c0a.chunk.js.map": "/static/js/3.f1c98c0a.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
-    "static/css/main.1ae5d291.chunk.css.map": "/static/css/main.1ae5d291.chunk.css.map",
+    "static/css/main.0cfc6268.chunk.css.map": "/static/css/main.0cfc6268.chunk.css.map",
     "static/js/2.e409fd5b.chunk.js.LICENSE.txt": "/static/js/2.e409fd5b.chunk.js.LICENSE.txt",
     "static/media/2022-and-the-technological-reach-of-digital-transformation.jpg": "/static/media/2022-and-the-technological-reach-of-digital-transformation.456c50ba.jpg",
     "static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.jpg": "/static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.e7ae6550.jpg",
@@ -151,7 +151,7 @@
     "static/js/runtime-main.4fb2c119.js",
     "static/css/2.a1a546fa.chunk.css",
     "static/js/2.e409fd5b.chunk.js",
-    "static/css/main.1ae5d291.chunk.css",
-    "static/js/main.a0bec461.chunk.js"
+    "static/css/main.0cfc6268.chunk.css",
+    "static/js/main.13a5a2e9.chunk.js"
   ]
 }
