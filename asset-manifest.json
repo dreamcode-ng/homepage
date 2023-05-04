@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.0cfc6268.chunk.css",
-    "main.js": "/static/js/main.c1b2fb50.chunk.js",
-    "main.js.map": "/static/js/main.c1b2fb50.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4fb2c119.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4fb2c119.js.map",
+    "main.js": "/static/js/main.830179c9.chunk.js",
+    "main.js.map": "/static/js/main.830179c9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f68188a2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f68188a2.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
-    "static/js/2.e409fd5b.chunk.js": "/static/js/2.e409fd5b.chunk.js",
-    "static/js/2.e409fd5b.chunk.js.map": "/static/js/2.e409fd5b.chunk.js.map",
-    "static/js/3.f1c98c0a.chunk.js": "/static/js/3.f1c98c0a.chunk.js",
-    "static/js/3.f1c98c0a.chunk.js.map": "/static/js/3.f1c98c0a.chunk.js.map",
+    "static/js/2.267176a4.chunk.js": "/static/js/2.267176a4.chunk.js",
+    "static/js/2.267176a4.chunk.js.map": "/static/js/2.267176a4.chunk.js.map",
+    "static/js/3.7d93f2a2.chunk.js": "/static/js/3.7d93f2a2.chunk.js",
+    "static/js/3.7d93f2a2.chunk.js.map": "/static/js/3.7d93f2a2.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
     "static/css/main.0cfc6268.chunk.css.map": "/static/css/main.0cfc6268.chunk.css.map",
-    "static/js/2.e409fd5b.chunk.js.LICENSE.txt": "/static/js/2.e409fd5b.chunk.js.LICENSE.txt",
+    "static/js/2.267176a4.chunk.js.LICENSE.txt": "/static/js/2.267176a4.chunk.js.LICENSE.txt",
     "static/media/2022-and-the-technological-reach-of-digital-transformation.jpg": "/static/media/2022-and-the-technological-reach-of-digital-transformation.456c50ba.jpg",
     "static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.jpg": "/static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.e7ae6550.jpg",
     "static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.jpg": "/static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.3886b287.jpg",
@@ -136,7 +136,9 @@
     "static/media/the-4-phases-of-the-application-development-workflow.jpg": "/static/media/the-4-phases-of-the-application-development-workflow.0417a4f1.jpg",
     "static/media/the-growing-need-for-cloud-systems.jpg": "/static/media/the-growing-need-for-cloud-systems.ea24cb86.jpg",
     "static/media/the-importance-of-retaining-tech-talent.jpg": "/static/media/the-importance-of-retaining-tech-talent.f59e3822.jpg",
+    "static/media/the-most-common-approaches-in-which-high-level-enterprise-solutions-are-most-relevant.jpg": "/static/media/the-most-common-approaches-in-which-high-level-enterprise-solutions-are-most-relevant.d43a128a.jpg",
     "static/media/the-most-valuable-companies-use-java.jpg": "/static/media/the-most-valuable-companies-use-java.cdec5329.jpg",
+    "static/media/the-reach-of-customized-software-and-its-impact-on-companies.jpg": "/static/media/the-reach-of-customized-software-and-its-impact-on-companies.1b2fa532.jpg",
     "static/media/themify-icons.css": "/static/media/themify.f0fc8c79.svg",
     "static/media/top5-most-popular-languages-for-artificial-intelligence-programming.jpg": "/static/media/top5-most-popular-languages-for-artificial-intelligence-programming.cfa39871.jpg",
     "static/media/tremendous-potential-behind-big-data-and-analytics-tools.jpg": "/static/media/tremendous-potential-behind-big-data-and-analytics-tools.5a461418.jpg",
@@ -148,10 +150,10 @@
     "static/media/what-to-do-before-the-little-supply-of-technological-talent.jpg": "/static/media/what-to-do-before-the-little-supply-of-technological-talent.2d11e003.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4fb2c119.js",
+    "static/js/runtime-main.f68188a2.js",
     "static/css/2.a1a546fa.chunk.css",
-    "static/js/2.e409fd5b.chunk.js",
+    "static/js/2.267176a4.chunk.js",
     "static/css/main.0cfc6268.chunk.css",
-    "static/js/main.c1b2fb50.chunk.js"
+    "static/js/main.830179c9.chunk.js"
   ]
 }
