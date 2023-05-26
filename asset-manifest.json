@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.3091250b.chunk.css",
-    "main.js": "/static/js/main.48aafb1d.chunk.js",
-    "main.js.map": "/static/js/main.48aafb1d.chunk.js.map",
+    "main.css": "/static/css/main.4d791447.chunk.css",
+    "main.js": "/static/js/main.053ff6c8.chunk.js",
+    "main.js.map": "/static/js/main.053ff6c8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bfaceb90.js",
     "runtime-main.js.map": "/static/js/runtime-main.bfaceb90.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.47e5a18e.chunk.js.map": "/static/js/3.47e5a18e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
-    "static/css/main.3091250b.chunk.css.map": "/static/css/main.3091250b.chunk.css.map",
+    "static/css/main.4d791447.chunk.css.map": "/static/css/main.4d791447.chunk.css.map",
     "static/js/2.c89668b2.chunk.js.LICENSE.txt": "/static/js/2.c89668b2.chunk.js.LICENSE.txt",
     "static/media/1-una-cultura-que-prioriza-a-las-personas.jpg": "/static/media/1-una-cultura-que-prioriza-a-las-personas.3b4bac5a.jpg",
     "static/media/2-trabajar-en-dreamcode-es-motivo-de-orgullo.jpg": "/static/media/2-trabajar-en-dreamcode-es-motivo-de-orgullo.30eabcda.jpg",
@@ -161,7 +161,7 @@
     "static/js/runtime-main.bfaceb90.js",
     "static/css/2.a1a546fa.chunk.css",
     "static/js/2.c89668b2.chunk.js",
-    "static/css/main.3091250b.chunk.css",
-    "static/js/main.48aafb1d.chunk.js"
+    "static/css/main.4d791447.chunk.css",
+    "static/js/main.053ff6c8.chunk.js"
   ]
 }
