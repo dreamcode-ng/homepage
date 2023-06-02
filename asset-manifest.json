@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.4d791447.chunk.css",
-    "main.js": "/static/js/main.5d2d2776.chunk.js",
-    "main.js.map": "/static/js/main.5d2d2776.chunk.js.map",
+    "main.js": "/static/js/main.15892f28.chunk.js",
+    "main.js.map": "/static/js/main.15892f28.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bfaceb90.js",
     "runtime-main.js.map": "/static/js/runtime-main.bfaceb90.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
@@ -22,7 +22,7 @@
     "static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.jpg": "/static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.e7ae6550.jpg",
     "static/media/5-un-entorno-de-trabajo-formidable.jpg": "/static/media/5-un-entorno-de-trabajo-formidable.444b34c8.jpg",
     "static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.jpg": "/static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.3886b287.jpg",
-    "static/media/6-Colaboración-y-equipo.jpg": "/static/media/6-Colaboración-y-equipo.feaf1e37.jpg",
+    "static/media/6-Colaboración-y-equipo.jpg": "/static/media/6-Colaboración-y-equipo.f0cc9eff.jpg",
     "static/media/API-driven-Architecture-simplifying-software-development.jpg": "/static/media/API-driven-Architecture-simplifying-software-development.63a8eb8d.jpg",
     "static/media/APIDesign.svg": "/static/media/APIDesign.5a02cef6.svg",
     "static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.jpg": "/static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.7bb3ee86.jpg",
@@ -162,6 +162,6 @@
     "static/css/2.a1a546fa.chunk.css",
     "static/js/2.c89668b2.chunk.js",
     "static/css/main.4d791447.chunk.css",
-    "static/js/main.5d2d2776.chunk.js"
+    "static/js/main.15892f28.chunk.js"
   ]
 }
