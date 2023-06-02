@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.4d791447.chunk.css",
-    "main.js": "/static/js/main.053ff6c8.chunk.js",
-    "main.js.map": "/static/js/main.053ff6c8.chunk.js.map",
+    "main.js": "/static/js/main.5d2d2776.chunk.js",
+    "main.js.map": "/static/js/main.5d2d2776.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bfaceb90.js",
     "runtime-main.js.map": "/static/js/runtime-main.bfaceb90.js.map",
     "static/css/2.a1a546fa.chunk.css": "/static/css/2.a1a546fa.chunk.css",
@@ -14,15 +14,15 @@
     "static/css/2.a1a546fa.chunk.css.map": "/static/css/2.a1a546fa.chunk.css.map",
     "static/css/main.4d791447.chunk.css.map": "/static/css/main.4d791447.chunk.css.map",
     "static/js/2.c89668b2.chunk.js.LICENSE.txt": "/static/js/2.c89668b2.chunk.js.LICENSE.txt",
-    "static/media/1-una-cultura-que-prioriza-a-las-personas.jpg": "/static/media/1-una-cultura-que-prioriza-a-las-personas.3b4bac5a.jpg",
-    "static/media/2-trabajar-en-dreamcode-es-motivo-de-orgullo.jpg": "/static/media/2-trabajar-en-dreamcode-es-motivo-de-orgullo.30eabcda.jpg",
+    "static/media/1-una-cultura-que-prioriza-a-las-personas.jpg": "/static/media/1-una-cultura-que-prioriza-a-las-personas.9ebfb402.jpg",
+    "static/media/2-trabajar-en-dreamcode-es-motivo-de-orgullo.jpg": "/static/media/2-trabajar-en-dreamcode-es-motivo-de-orgullo.4ed42d0b.jpg",
     "static/media/2022-and-the-technological-reach-of-digital-transformation.jpg": "/static/media/2022-and-the-technological-reach-of-digital-transformation.456c50ba.jpg",
-    "static/media/3-reconocer-el-talento-de-nuestro-equipo.jpg": "/static/media/3-reconocer-el-talento-de-nuestro-equipo.ac3cd353.jpg",
+    "static/media/3-reconocer-el-talento-de-nuestro-equipo.jpg": "/static/media/3-reconocer-el-talento-de-nuestro-equipo.4526dfc8.jpg",
     "static/media/4-un-liderazgo-humano-y-cercano.jpg": "/static/media/4-un-liderazgo-humano-y-cercano.4a873f43.jpg",
     "static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.jpg": "/static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.e7ae6550.jpg",
-    "static/media/5-un-entorno-de-trabajo-formidable.jpg": "/static/media/5-un-entorno-de-trabajo-formidable.896caba6.jpg",
+    "static/media/5-un-entorno-de-trabajo-formidable.jpg": "/static/media/5-un-entorno-de-trabajo-formidable.444b34c8.jpg",
     "static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.jpg": "/static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.3886b287.jpg",
-    "static/media/6-Colaboración-y-equipo.jpg": "/static/media/6-Colaboración-y-equipo.20d3b4a7.jpg",
+    "static/media/6-Colaboración-y-equipo.jpg": "/static/media/6-Colaboración-y-equipo.feaf1e37.jpg",
     "static/media/API-driven-Architecture-simplifying-software-development.jpg": "/static/media/API-driven-Architecture-simplifying-software-development.63a8eb8d.jpg",
     "static/media/APIDesign.svg": "/static/media/APIDesign.5a02cef6.svg",
     "static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.jpg": "/static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.7bb3ee86.jpg",
@@ -162,6 +162,6 @@
     "static/css/2.a1a546fa.chunk.css",
     "static/js/2.c89668b2.chunk.js",
     "static/css/main.4d791447.chunk.css",
-    "static/js/main.053ff6c8.chunk.js"
+    "static/js/main.5d2d2776.chunk.js"
   ]
 }
