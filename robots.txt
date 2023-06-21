@@ -3,8 +3,8 @@ Disallow: /nogooglebot/
 
 User-agent: *
 Allow: /*
-Allow: /careers/*
 Allow: /blog/*
+Allow: /careers/*
 Disallow: /blog-single
 Disallow: /author/*
 Disellow: /static/*
