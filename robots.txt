@@ -4,9 +4,9 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /*
 Allow: /careers/*
+Allow: /blog/*
 Disallow: /blog-single
 Disallow: /author/*
-Disellow: /post/*
 Disellow: /static/*
 Disellow: /cdn-cgi/*
 Disellow: /category/*
