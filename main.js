@@ -1,16 +1,13 @@
 const path = require("path")
 const fs = require("fs")
 
+const dirPathEN = path.join(__dirname, "../src/assets/posts/en")
+const dirPathES = path.join(__dirname, "../src/assets/posts/es")
 
-const dirPathEN = path.join(__dirname, "../src/Articulos/contentEN")
-//const dirPathES = path.join(__dirname, "../src/Articulos/contentES")
-
-
-//let postlistES = []
+let postlistES = []
 let postlistEN = []
 
-
-//--------------------------Articulos en Inglés--------------------------//
+//--------------------------Articulos en Ingles--------------------------//
 
 const getPostsEN = () => {
     fs.readdir(dirPathEN, (err, files) => {
@@ -50,13 +47,11 @@ const getPostsEN = () => {
                 const date = new Date(metadata.date)
                 const timestamp = date.getTime() / 1000
 
-
-
                 post = {
-                    id: i + 1,
+                    id: timestamp,
                     title: metadata.title ? metadata.title : "No title given",
                     metaTitle: metadata.metaTitle ? metadata.metaTitle : "No metaTitle given",
-                    metaDescription: metadata.metaDescription ? metadata.metaDescription : "No metaDescription given",
+                    meta_description: metadata.meta_description ? metadata.meta_description : "No meta_description given",
                     read: metadata.read ? metadata.read : "No read given",
                     date: metadata.date ? metadata.date : "No date given",
                     url: metadata.url ? metadata.url : "No url given",
@@ -67,42 +62,36 @@ const getPostsEN = () => {
 
     //console.log("<url><loc>http://www.dreamcodesoft.com/" + post.url + "</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>")
 
-    console.log("Id: " + post.id  +  " Url: " + post.url)
+    console.log("EN - fecha: " + post.date + " Id: " + post.id  +  " Url: " + post.url)
 
                 postlistEN.push(post)
                 if (i === files.length - 1) {
                     //Orden de los post segun la fecha de creación
                     const sortedList = postlistEN.sort ((a, b) => {
-                        return a.id > b.id ? 1 : -1
+                        return a.id < b.id ? 1 : -1
                     })
 
                     //Crea el archivo json
-                    //
                     let data = JSON.stringify(sortedList)
-                    fs.writeFileSync("src/posts.json", data)
+                    fs.writeFileSync("src/assets/posts/postsEn.json", data)
    
                 }   
                 
             })
         })
     })
-
-
-
     return 
 }
 
 
 //--------------------------Articulos en Español--------------------------//
-/*
+
 const getPostsES = () => {
     fs.readdir(dirPathES, (err, files) => {
         if (err) {
             return console.log("Failed to list contents of directory: " + err)
         }
         files.forEach((file, i) => {
-
-
 
             let obj = {}
             let post
@@ -135,13 +124,11 @@ const getPostsES = () => {
                 const date = new Date(metadata.date)
                 const timestamp = date.getTime() / 1000
 
-                
-
                 post = {
-                    id: i + 1,
+                    id: timestamp,
                     title: metadata.title ? metadata.title : "No title given",
                     metaTitle: metadata.metaTitle ? metadata.metaTitle : "No metaTitle given",
-                    metaDescription: metadata.metaDescription ? metadata.metaDescription : "No metaDescription given",
+                    meta_description: metadata.meta_description ? metadata.meta_description : "No meta_description given",
                     read: metadata.read ? metadata.read : "No read given",
                     date: metadata.date ? metadata.date : "No date given",
                     url: metadata.url ? metadata.url : "No url given",
@@ -150,7 +137,7 @@ const getPostsES = () => {
                     content: content ? content : "No content given",
                 }
     
-                console.log("ES: Id: " + post.id  +  " Url: " + post.url)
+                console.log("ES - Id: " + post.id  +  " Url: " + post.url)
 
                 //console.log("<url><loc>http://www.dreamcodesoft.com/" + post.url + "/</loc><lastmod>2021-12-24T09:41:04+01:00</lastmod><priority>0.6</priority></url>")
 
@@ -158,14 +145,12 @@ const getPostsES = () => {
                 if (i === files.length - 1) {
                     //Orden de los post segun la fecha de creación
                     const sortedList = postlistES.sort ((a, b) => {
-                        return a.id > b.id ? 1 : -1
+                        return a.id < b.id ? 1 : -1
                     })
                     //Crea el archivo json
                     let data = JSON.stringify(sortedList)
 
-                 
-                    //fs.writeFileSync("src/assets/translations/fr.json", data)
-                    fs.writeFileSync("src/postsES.json", data)
+                    fs.writeFileSync("src/assets/posts/postsEs.json", data)
                 }
                 
             })
@@ -175,10 +160,10 @@ const getPostsES = () => {
 
 
     return 
-}*/
+}
 
 
-//getPostsES()
+getPostsES()
 getPostsEN()
 
 
