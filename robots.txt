@@ -4,6 +4,7 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 Allow: /careers/*
+Allow: /blog/*
 Disallow: /blog-single
 Disallow: /author/admin-pag/
 Disallow: /static/media/
