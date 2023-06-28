@@ -1,6 +1,6 @@
 {
-  "short_name": "DreamCode Software",
-  "name": "DreamCode: Custom Software Development",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
