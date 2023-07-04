@@ -60,9 +60,9 @@ const getPostsEN = () => {
                     content: content ? content : "No content given",
                 }
 
-    //console.log("<url><loc>http://www.dreamcodesoft.com/" + post.url + "</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>")
+    console.log("<url><loc>http://www.dreamcodesoft.com/blog/" + post.url + "</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>")
 
-    console.log("EN - fecha: " + post.date + " Id: " + post.id  +  " Url: " + post.url)
+    //console.log("EN - fecha: " + post.date + " Id: " + post.id  +  " Url: " + post.url)
 
                 postlistEN.push(post)
                 if (i === files.length - 1) {
@@ -137,7 +137,7 @@ const getPostsES = () => {
                     content: content ? content : "No content given",
                 }
     
-                console.log("ES - Id: " + post.id  +  " Url: " + post.url)
+                //console.log("ES - Id: " + post.id  +  " Url: " + post.url)
 
                 //console.log("<url><loc>http://www.dreamcodesoft.com/" + post.url + "/</loc><lastmod>2021-12-24T09:41:04+01:00</lastmod><priority>0.6</priority></url>")
 
