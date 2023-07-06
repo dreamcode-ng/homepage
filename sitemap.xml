@@ -5,7 +5,7 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-<!-- Articulos English https -->
+<!--  English https -->
 
 <url><loc>https://www.dreamcodesoft.com/en/</loc><lastmod>2022-06-24T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>https://www.dreamcodesoft.com/en/great-place-to-work</loc><lastmod>2022-08-01T09:40:51+01:00</lastmod><priority>1.0</priority></url>
@@ -24,7 +24,7 @@
 <url><loc>https://www.dreamcodesoft.com/en/contact</loc><lastmod>2022-06-24T09:41:03+01:00</lastmod><priority>0.9</priority></url>
 <url><loc>https://www.dreamcodesoft.com/en/blog</loc><lastmod>2022-06-24T09:41:03+01:00</lastmod><priority>0.9</priority></url>
 
-<!-- Articulos Español https -->
+<!--  Español https -->
 
 <url><loc>https://www.dreamcodesoft.com/es/</loc><lastmod>2022-06-24T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>https://www.dreamcodesoft.com/es/great-place-to-work</loc><lastmod>2022-08-01T09:40:51+01:00</lastmod><priority>1.0</priority></url>
@@ -148,7 +148,7 @@
 
 <!-- http -->
 
-<!-- Articulos English http -->
+<!--  English http -->
 
 <url><loc>http://www.dreamcodesoft.com/en/</loc><lastmod>2022-06-24T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>http://www.dreamcodesoft.com/en/great-place-to-work</loc><lastmod>2022-08-01T09:40:51+01:00</lastmod><priority>1.0</priority></url>
@@ -167,7 +167,7 @@
 <url><loc>http://www.dreamcodesoft.com/en/contact</loc><lastmod>2022-06-24T09:41:03+01:00</lastmod><priority>0.9</priority></url>
 <url><loc>http://www.dreamcodesoft.com/en/blog</loc><lastmod>2022-06-24T09:41:03+01:00</lastmod><priority>0.9</priority></url>
 
-<!-- Articulos Español http -->
+<!--  Español http -->
 
 <url><loc>http://www.dreamcodesoft.com/es/</loc><lastmod>2022-06-24T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>http://www.dreamcodesoft.com/es/great-place-to-work</loc><lastmod>2022-08-01T09:40:51+01:00</lastmod><priority>1.0</priority></url>
@@ -187,7 +187,7 @@
 <url><loc>http://www.dreamcodesoft.com/es/blog</loc><lastmod>2022-06-24T09:41:03+01:00</lastmod><priority>0.9</priority></url>
 
 
-<!-- articulos English http Ingles-->
+<!-- Articulos English http -->
 
 
 <url><loc>http://www.dreamcodesoft.com/en/blog/cio-director-of-technology-the-future-of-enterprises</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>
@@ -239,7 +239,7 @@
 <url><loc>http://www.dreamcodesoft.com/en/blog/the-most-common-approaches-in-which-high-level-enterprise-solutions-are-most-relevant</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>
 <url><loc>http://www.dreamcodesoft.com/en/blog/pros-and-cons-the-top-5-programming-languages-for-mobile-development</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>
 
-<!-- articulos http Español-->
+<!-- Articulos http Español-->
 
 <url><loc>http://www.dreamcodesoft.com/es/blog/cio-director-of-technology-the-future-of-enterprises</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>
 <url><loc>http://www.dreamcodesoft.com/es/blog/how-scrum-transformed-it-industry</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>
@@ -290,7 +290,7 @@
 <url><loc>http://www.dreamcodesoft.com/es/blog/the-most-common-approaches-in-which-high-level-enterprise-solutions-are-most-relevant</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>
 <url><loc>http://www.dreamcodesoft.com/es/blog/pros-and-cons-the-top-5-programming-languages-for-mobile-development</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>
 
-<!--  sin idioma http -->
+<!--  Sin idioma http -->
 
 <url><loc>http://www.dreamcodesoft.com/</loc><lastmod>2022-06-24T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>http://www.dreamcodesoft.com/great-place-to-work</loc><lastmod>2022-08-01T09:40:51+01:00</lastmod><priority>1.0</priority></url>
@@ -308,6 +308,8 @@
 <url><loc>http://www.dreamcodesoft.com/services</loc><lastmod>2022-06-24T09:41:02+01:00</lastmod><priority>0.9</priority></url>
 <url><loc>http://www.dreamcodesoft.com/contact</loc><lastmod>2022-06-24T09:41:03+01:00</lastmod><priority>0.9</priority></url>
 <url><loc>http://www.dreamcodesoft.com/blog</loc><lastmod>2022-06-24T09:41:03+01:00</lastmod><priority>0.9</priority></url>
+
+<!-- Articulos http -->
 
 <url><loc>http://www.dreamcodesoft.com/blog/cio-director-of-technology-the-future-of-enterprises</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>
 <url><loc>http://www.dreamcodesoft.com/blog/how-scrum-transformed-it-industry</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>
@@ -358,7 +360,7 @@
 <url><loc>http://www.dreamcodesoft.com/blog/the-most-common-approaches-in-which-high-level-enterprise-solutions-are-most-relevant</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>
 <url><loc>http://www.dreamcodesoft.com/blog/pros-and-cons-the-top-5-programming-languages-for-mobile-development</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>
 
-<!--  sin idioma https -->
+<!--  Sin idioma https -->
 
 <url><loc>https://www.dreamcodesoft.com/</loc><lastmod>2022-06-24T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>https://www.dreamcodesoft.com/great-place-to-work</loc><lastmod>2022-08-01T09:40:51+01:00</lastmod><priority>1.0</priority></url>
@@ -376,6 +378,8 @@
 <url><loc>https://www.dreamcodesoft.com/services</loc><lastmod>2022-06-24T09:41:02+01:00</lastmod><priority>0.9</priority></url>
 <url><loc>https://www.dreamcodesoft.com/contact</loc><lastmod>2022-06-24T09:41:03+01:00</lastmod><priority>0.9</priority></url>
 <url><loc>https://www.dreamcodesoft.com/blog</loc><lastmod>2022-06-24T09:41:03+01:00</lastmod><priority>0.9</priority></url>
+
+<!-- Articulos https -->
 
 <url><loc>https://www.dreamcodesoft.com/blog/cio-director-of-technology-the-future-of-enterprises</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.dreamcodesoft.com/blog/how-scrum-transformed-it-industry</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>
