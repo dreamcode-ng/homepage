@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.62aa4949.css",
-    "main.js": "/static/js/main.c9f5818a.js",
+    "main.css": "/static/css/main.51391ba3.css",
+    "main.js": "/static/js/main.81c06ed6.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
     "static/media/Brochure_DreamCode_English_V1.pdf": "/static/media/Brochure_DreamCode_English_V1.7c4d0f13b62d7857052c.pdf",
     "static/media/Brochure_DreamCode_Spanish_V1.pdf": "/static/media/Brochure_DreamCode_Spanish_V1.2d88a1e5c98f8642ebc7.pdf",
@@ -164,12 +164,12 @@
     "static/media/Linea-de-fondo.svg": "/static/media/Linea-de-fondo.ed6375c4a15dbda7630b6762219b8e29.svg",
     "static/media/Figura-blanca.svg": "/static/media/Figura-blanca.46dec4eb48961de63c9adc5002c79735.svg",
     "static/media/Fondo-blanco-experiencia.svg": "/static/media/Fondo-blanco-experiencia.50f2ab7ba04f09a49f81.svg",
-    "main.62aa4949.css.map": "/static/css/main.62aa4949.css.map",
-    "main.c9f5818a.js.map": "/static/js/main.c9f5818a.js.map",
+    "main.51391ba3.css.map": "/static/css/main.51391ba3.css.map",
+    "main.81c06ed6.js.map": "/static/js/main.81c06ed6.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62aa4949.css",
-    "static/js/main.c9f5818a.js"
+    "static/css/main.51391ba3.css",
+    "static/js/main.81c06ed6.js"
   ]
 }
