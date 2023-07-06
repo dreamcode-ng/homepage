@@ -61,6 +61,7 @@ const getPostsEN = () => {
                 }
 
     console.log("<url><loc>http://www.dreamcodesoft.com/blog/" + post.url + "</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>")
+    console.log("<url><loc>http://www.dreamcodesoft.com/blog/" + post.url + "</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>")
 
     //console.log("EN - fecha: " + post.date + " Id: " + post.id  +  " Url: " + post.url)
 
