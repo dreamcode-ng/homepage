@@ -3,6 +3,8 @@ Disallow: /nogooglebot/
 
 User-agent: *
 Allow: /*
+Allow: /es/*
+Allow: /en/*
 Allow: /blog/*
 Allow: /careers/*
 Disallow: /blog-single
