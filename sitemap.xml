@@ -2,12 +2,25 @@
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
+
+      <url>
+		<loc>https://www.dreamcodesoft.com/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/" />
+            <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/" />
+	</url>
+
+            <url>
+		<loc>http://www.dreamcodesoft.com/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="http://www.dreamcodesoft.com/en/" />
+            <xhtml:link rel="alternate" hreflang="es" href="http://www.dreamcodesoft.com/es/" />
+	</url>
+
 <!--  English https -->
 
-<url><loc>https://www.dreamcodesoft.com/en/</loc><lastmod>2022-06-24T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>https://www.dreamcodesoft.com/en/great-place-to-work</loc><lastmod>2022-08-01T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>https://www.dreamcodesoft.com/en/careers</loc><lastmod>2022-08-01T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>https://www.dreamcodesoft.com/en/careers/lider-de-desarrollo-java</loc><lastmod>2022-06-24T09:40:51+01:00</lastmod><priority>1.0</priority></url>
@@ -26,7 +39,7 @@
 
 <!--  Español https -->
 
-<url><loc>https://www.dreamcodesoft.com/es/</loc><lastmod>2022-06-24T09:40:51+01:00</lastmod><priority>1.0</priority></url>
+
 <url><loc>https://www.dreamcodesoft.com/es/great-place-to-work</loc><lastmod>2022-08-01T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>https://www.dreamcodesoft.com/es/careers</loc><lastmod>2022-08-01T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>https://www.dreamcodesoft.com/es/careers/lider-de-desarrollo-java</loc><lastmod>2022-06-24T09:40:51+01:00</lastmod><priority>1.0</priority></url>
@@ -150,7 +163,7 @@
 
 <!--  English http -->
 
-<url><loc>http://www.dreamcodesoft.com/en/</loc><lastmod>2022-06-24T09:40:51+01:00</lastmod><priority>1.0</priority></url>
+
 <url><loc>http://www.dreamcodesoft.com/en/great-place-to-work</loc><lastmod>2022-08-01T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>http://www.dreamcodesoft.com/en/careers</loc><lastmod>2022-08-01T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>http://www.dreamcodesoft.com/en/careers/lider-de-desarrollo-java</loc><lastmod>2022-06-24T09:40:51+01:00</lastmod><priority>1.0</priority></url>
@@ -169,7 +182,6 @@
 
 <!--  Español http -->
 
-<url><loc>http://www.dreamcodesoft.com/es/</loc><lastmod>2022-06-24T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>http://www.dreamcodesoft.com/es/great-place-to-work</loc><lastmod>2022-08-01T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>http://www.dreamcodesoft.com/es/careers</loc><lastmod>2022-08-01T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>http://www.dreamcodesoft.com/es/careers/lider-de-desarrollo-java</loc><lastmod>2022-06-24T09:40:51+01:00</lastmod><priority>1.0</priority></url>
@@ -292,7 +304,7 @@
 
 <!--  Sin idioma http -->
 
-<url><loc>http://www.dreamcodesoft.com/</loc><lastmod>2022-06-24T09:40:51+01:00</lastmod><priority>1.0</priority></url>
+
 <url><loc>http://www.dreamcodesoft.com/great-place-to-work</loc><lastmod>2022-08-01T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>http://www.dreamcodesoft.com/careers</loc><lastmod>2022-08-01T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>http://www.dreamcodesoft.com/careers/lider-de-desarrollo-java</loc><lastmod>2022-06-24T09:40:51+01:00</lastmod><priority>1.0</priority></url>
@@ -362,7 +374,7 @@
 
 <!--  Sin idioma https -->
 
-<url><loc>https://www.dreamcodesoft.com/</loc><lastmod>2022-06-24T09:40:51+01:00</lastmod><priority>1.0</priority></url>
+
 <url><loc>https://www.dreamcodesoft.com/great-place-to-work</loc><lastmod>2022-08-01T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>https://www.dreamcodesoft.com/careers</loc><lastmod>2022-08-01T09:40:51+01:00</lastmod><priority>1.0</priority></url>
 <url><loc>https://www.dreamcodesoft.com/careers/lider-de-desarrollo-java</loc><lastmod>2022-06-24T09:40:51+01:00</lastmod><priority>1.0</priority></url>
