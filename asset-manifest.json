@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.47e97da6.css",
-    "main.js": "/static/js/main.1cffd84f.js",
+    "main.css": "/static/css/main.b239f0ef.css",
+    "main.js": "/static/js/main.eab14590.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
     "static/media/Brochure_DreamCode_English.pdf": "/static/media/Brochure_DreamCode_English.2b1fa622b9fa70b3de5f.pdf",
     "static/media/Brochure_DreamCode_Spanish.pdf": "/static/media/Brochure_DreamCode_Spanish.091884db37bccb859ba3.pdf",
@@ -84,12 +84,10 @@
     "static/media/tremendous-potential-behind-big-data-and-analytics-tools.jpg": "/static/media/tremendous-potential-behind-big-data-and-analytics-tools.5a461418fbee4d22e78a.jpg",
     "static/media/DevIcon.png": "/static/media/DevIcon.209fb9bf09329f07bac5.png",
     "static/media/1-una-cultura-que-prioriza-a-las-personas.jpg": "/static/media/1-una-cultura-que-prioriza-a-las-personas.b8b2470728b5bca1acdb.jpg",
-    "static/media/banner-home.jpg": "/static/media/banner-home.d599cb91b6f430ebb6ad.jpg",
     "static/media/No-code-tools-risks.jpg": "/static/media/No-code-tools-risks.5677a67ee3c698318406.jpg",
     "static/media/img-scrum-int.png": "/static/media/img-scrum-int.3100820714c3bb45df91.png",
     "static/media/API-driven-Architecture-simplifying-software-development.jpg": "/static/media/API-driven-Architecture-simplifying-software-development.63a8eb8d413a383fe835.jpg",
     "static/media/2022-and-the-technological-reach-of-digital-transformation.jpg": "/static/media/2022-and-the-technological-reach-of-digital-transformation.456c50ba80459e158d75.jpg",
-    "static/media/banner-home-planet.png": "/static/media/banner-home-planet.5ad0624d771b1918e335.png",
     "static/media/img-devops-int.png": "/static/media/img-devops-int.92b30585ec9a3f8103e5.png",
     "static/media/Icono-Database-Services.png": "/static/media/Icono-Database-Services.c67bd757fd8636ef5665.png",
     "static/media/sede-cali-3.jpg": "/static/media/sede-cali-3.b993d68066a44b8bb8e3.jpg",
@@ -173,12 +171,12 @@
     "static/media/circulos.svg": "/static/media/circulos.877c0c7d943ccb2713be9aaa4e92bdd1.svg",
     "static/media/Figura-blanca.svg": "/static/media/Figura-blanca.46dec4eb48961de63c9adc5002c79735.svg",
     "static/media/Fondo-blanco-experiencia.svg": "/static/media/Fondo-blanco-experiencia.50f2ab7ba04f09a49f81.svg",
-    "main.47e97da6.css.map": "/static/css/main.47e97da6.css.map",
-    "main.1cffd84f.js.map": "/static/js/main.1cffd84f.js.map",
+    "main.b239f0ef.css.map": "/static/css/main.b239f0ef.css.map",
+    "main.eab14590.js.map": "/static/js/main.eab14590.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47e97da6.css",
-    "static/js/main.1cffd84f.js"
+    "static/css/main.b239f0ef.css",
+    "static/js/main.eab14590.js"
   ]
 }
