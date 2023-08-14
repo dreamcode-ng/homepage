@@ -13,10 +13,70 @@
             <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/" />
 	</url>
 
-            <url>
+      <url>
 		<loc>http://www.dreamcodesoft.com/</loc>
 		<xhtml:link rel="alternate" hreflang="en" href="http://www.dreamcodesoft.com/en/" />
             <xhtml:link rel="alternate" hreflang="es" href="http://www.dreamcodesoft.com/es/" />
+	</url>
+
+      <url>
+		<loc>https://www.dreamcodesoft.com/blog</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/blog" />
+            <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/blog" />
+	</url>
+
+      <url>
+		<loc>http://www.dreamcodesoft.com/blog</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="http://www.dreamcodesoft.com/en/blog" />
+            <xhtml:link rel="alternate" hreflang="es" href="http://www.dreamcodesoft.com/es/blog" />
+	</url>
+
+      <url>
+		<loc>https://www.dreamcodesoft.com/services</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/services" />
+            <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/services" />
+	</url>
+
+      <url>
+		<loc>http://www.dreamcodesoft.com/services</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="http://www.dreamcodesoft.com/en/services" />
+            <xhtml:link rel="alternate" hreflang="es" href="http://www.dreamcodesoft.com/es/services" />
+	</url>
+
+            <url>
+		<loc>https://www.dreamcodesoft.com/about</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/about" />
+            <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/about" />
+	</url>
+
+      <url>
+		<loc>http://www.dreamcodesoft.com/about</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="http://www.dreamcodesoft.com/en/about" />
+            <xhtml:link rel="alternate" hreflang="es" href="http://www.dreamcodesoft.com/es/about" />
+	</url>
+
+            <url>
+		<loc>https://www.dreamcodesoft.com/contact</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/contact" />
+            <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/contact" />
+	</url>
+
+      <url>
+		<loc>http://www.dreamcodesoft.com/contact</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="http://www.dreamcodesoft.com/en/contact" />
+            <xhtml:link rel="alternate" hreflang="es" href="http://www.dreamcodesoft.com/es/contact" />
+	</url>
+
+             <url>
+		<loc>https://www.dreamcodesoft.com/dreamcoders</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/dreamcoders" />
+            <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/dreamcoders" />
+	</url>
+
+      <url>
+		<loc>http://www.dreamcodesoft.com/dreamcoders</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="http://www.dreamcodesoft.com/en/dreamcoders" />
+            <xhtml:link rel="alternate" hreflang="es" href="http://www.dreamcodesoft.com/es/dreamcoders" />
 	</url>
 
 <!--  English https -->
