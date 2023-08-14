@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b239f0ef.css",
-    "main.js": "/static/js/main.eab14590.js",
+    "main.css": "/static/css/main.5cccb4ce.css",
+    "main.js": "/static/js/main.ab7ca262.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
     "static/media/Brochure_DreamCode_English.pdf": "/static/media/Brochure_DreamCode_English.2b1fa622b9fa70b3de5f.pdf",
     "static/media/Brochure_DreamCode_Spanish.pdf": "/static/media/Brochure_DreamCode_Spanish.091884db37bccb859ba3.pdf",
@@ -31,19 +31,16 @@
     "static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.jpg": "/static/media/APIs-as-business-bridges-to-better-business-to-customer-relationships.7bb3ee8622e06224ce24.jpg",
     "static/media/lean-programming-a-convenient-software-development-practice-inherited-from-the-business-world.jpg": "/static/media/lean-programming-a-convenient-software-development-practice-inherited-from-the-business-world.2055343362da12a4d4f9.jpg",
     "static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.jpg": "/static/media/5G-the-beginning-of-the-era-of-augmented-reality-and-underlying-technologies.3886b287f5fd24b71450.jpg",
-    "static/media/slider2-figura-3.svg": "/static/media/slider2-figura-3.e3efdbc803544d1e7133e44c4787fa4d.svg",
     "static/media/ui-ux-crucial-for-development-high-value-web-applications.jpg": "/static/media/ui-ux-crucial-for-development-high-value-web-applications.fdd7e820543a0625701a.jpg",
     "static/media/horacio-team.png": "/static/media/horacio-team.dc4bbc4745a8c2ce9f01.png",
     "static/media/the-growing-need-for-cloud-systems.jpg": "/static/media/the-growing-need-for-cloud-systems.ea24cb862e398312c85c.jpg",
     "static/media/serverless-architecture-cloud-computing-business-web-development.jpg": "/static/media/serverless-architecture-cloud-computing-business-web-development.c1bf17a2bce9ed1d589f.jpg",
     "static/media/remote-working-in-software-development.jpg": "/static/media/remote-working-in-software-development.fbefa5771c098d4420eb.jpg",
-    "static/media/slider2-figura-1.svg": "/static/media/slider2-figura-1.22089ea28616d5360ffdfdb51acec2d9.svg",
     "static/media/banner-careers.jpg": "/static/media/banner-careers.5aee8ba1ce81fbb01bf6.jpg",
     "static/media/technical-documentation-in-software-development-and-its-models.jpg": "/static/media/technical-documentation-in-software-development-and-its-models.148399e62a5083634c9e.jpg",
     "static/media/themify.svg?-fvbane": "/static/media/themify.f0fc8c798eac5636249c.svg",
     "static/media/user-experience-UX-as-cornerstone-for-application-development.jpg": "/static/media/user-experience-UX-as-cornerstone-for-application-development.48e5c9704774f83a275b.jpg",
     "static/media/leonardo-team.png": "/static/media/leonardo-team.f829a23a3a7415ae99b8.png",
-    "static/media/slider2-figura-2.svg": "/static/media/slider2-figura-2.932515e42ae9d88a10851e45471a787f.svg",
     "static/media/five-responsive-web-design-approaches-that-enhance-business-branding.jpg": "/static/media/five-responsive-web-design-approaches-that-enhance-business-branding.cb0fd09c32ed58ffeb2d.jpg",
     "static/media/jonathan-team.png": "/static/media/jonathan-team.52e97c355e8826fac5dd.png",
     "static/media/the-most-common-approaches-in-which-high-level-enterprise-solutions-are-most-relevant.jpg": "/static/media/the-most-common-approaches-in-which-high-level-enterprise-solutions-are-most-relevant.d43a128a7e83c66413dc.jpg",
@@ -171,12 +168,12 @@
     "static/media/circulos.svg": "/static/media/circulos.877c0c7d943ccb2713be9aaa4e92bdd1.svg",
     "static/media/Figura-blanca.svg": "/static/media/Figura-blanca.46dec4eb48961de63c9adc5002c79735.svg",
     "static/media/Fondo-blanco-experiencia.svg": "/static/media/Fondo-blanco-experiencia.50f2ab7ba04f09a49f81.svg",
-    "main.b239f0ef.css.map": "/static/css/main.b239f0ef.css.map",
-    "main.eab14590.js.map": "/static/js/main.eab14590.js.map",
+    "main.5cccb4ce.css.map": "/static/css/main.5cccb4ce.css.map",
+    "main.ab7ca262.js.map": "/static/js/main.ab7ca262.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b239f0ef.css",
-    "static/js/main.eab14590.js"
+    "static/css/main.5cccb4ce.css",
+    "static/js/main.ab7ca262.js"
   ]
 }
