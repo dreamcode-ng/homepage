@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.425d7d3b.css",
-    "main.js": "/static/js/main.c9e5da43.js",
+    "main.css": "/static/css/main.e04a193f.css",
+    "main.js": "/static/js/main.90f0cabf.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
     "static/media/Brochure_DreamCode_English.pdf": "/static/media/Brochure_DreamCode_English.2b1fa622b9fa70b3de5f.pdf",
     "static/media/Brochure_DreamCode_Spanish.pdf": "/static/media/Brochure_DreamCode_Spanish.091884db37bccb859ba3.pdf",
@@ -83,6 +83,7 @@
     "static/media/1-una-cultura-que-prioriza-a-las-personas.jpg": "/static/media/1-una-cultura-que-prioriza-a-las-personas.b8b2470728b5bca1acdb.jpg",
     "static/media/No-code-tools-risks.jpg": "/static/media/No-code-tools-risks.5677a67ee3c698318406.jpg",
     "static/media/img-scrum-int.png": "/static/media/img-scrum-int.3100820714c3bb45df91.png",
+    "static/media/slider2-figura-1.svg": "/static/media/slider2-figura-1.fcf72f2498c63875d4d8a36d9f109e2f.svg",
     "static/media/API-driven-Architecture-simplifying-software-development.jpg": "/static/media/API-driven-Architecture-simplifying-software-development.63a8eb8d413a383fe835.jpg",
     "static/media/2022-and-the-technological-reach-of-digital-transformation.jpg": "/static/media/2022-and-the-technological-reach-of-digital-transformation.456c50ba80459e158d75.jpg",
     "static/media/img-devops-int.png": "/static/media/img-devops-int.92b30585ec9a3f8103e5.png",
@@ -90,6 +91,8 @@
     "static/media/sede-cali-3.jpg": "/static/media/sede-cali-3.b993d68066a44b8bb8e3.jpg",
     "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.0239b22511e2cbe0741a.woff",
     "static/media/sede-san-francisco-2.jpeg": "/static/media/sede-san-francisco-2.6ed69a7927d3f2fc60e5.jpeg",
+    "static/media/slider2-figura-2.svg": "/static/media/slider2-figura-2.74e2cba64f8d5792d5bb63c40b831a35.svg",
+    "static/media/slider2-figura-3.svg": "/static/media/slider2-figura-3.30150d036506c4c2ae04865b62353a0d.svg",
     "static/media/what-to-do-before-the-little-supply-of-technological-talent.jpg": "/static/media/what-to-do-before-the-little-supply-of-technological-talent.2d11e0039848ff938b39.jpg",
     "static/media/Icono-Web-and-Mobile-App.png": "/static/media/Icono-Web-and-Mobile-App.8804214e6946d1bc3573.png",
     "static/media/3-reconocer-el-talento-de-nuestro-equipo.jpg": "/static/media/3-reconocer-el-talento-de-nuestro-equipo.7378bad6753c69b5d70a.jpg",
@@ -168,12 +171,12 @@
     "static/media/circulos.svg": "/static/media/circulos.877c0c7d943ccb2713be9aaa4e92bdd1.svg",
     "static/media/Figura-blanca.svg": "/static/media/Figura-blanca.46dec4eb48961de63c9adc5002c79735.svg",
     "static/media/Fondo-blanco-experiencia.svg": "/static/media/Fondo-blanco-experiencia.50f2ab7ba04f09a49f81.svg",
-    "main.425d7d3b.css.map": "/static/css/main.425d7d3b.css.map",
-    "main.c9e5da43.js.map": "/static/js/main.c9e5da43.js.map",
+    "main.e04a193f.css.map": "/static/css/main.e04a193f.css.map",
+    "main.90f0cabf.js.map": "/static/js/main.90f0cabf.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.425d7d3b.css",
-    "static/js/main.c9e5da43.js"
+    "static/css/main.e04a193f.css",
+    "static/js/main.90f0cabf.js"
   ]
 }
