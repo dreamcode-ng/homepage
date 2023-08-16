@@ -61,10 +61,24 @@ const getPostsEN = () => {
                 }
 
     //console.log("<url><loc>http://www.dreamcodesoft.com/blog/" + post.url + "</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>")
-    //console.log("<url><loc>http://www.dreamcodesoft.com/blog/" + post.url + "</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>")
-        console.log('EN: ', postlistEN.length);
-        
+    //console.log("<url><loc>http://www.dreamcodesoft.com/blog/" + post.url + "</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>")        
     //console.log("EN - fecha: " + post.date + " Id: " + post.id  +  " Url: " + post.url)
+    console.log('ES: ', postlistEN.length);
+/*
+console.log( "<url><loc>https://www.dreamcodesoft.com/" + 
+post.url + "</loc><xhtml:link rel='alternate' hreflang='en' href='https://www.dreamcodesoft.com/en/" + 
+post.url + "' /><xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/es/" + 
+post.url + "' /><xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/" + 
+post.url + "' /></url><url><loc>https://www.dreamcodesoft.com/es/" + 
+post.url + "</loc><xhtml:link rel='alternate' hreflang='en' href='https://www.dreamcodesoft.com/en/" + 
+post.url + "' /><xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/es/" + 
+post.url + "' /><xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/" + 
+post.url + "' /></url><url><loc>https://www.dreamcodesoft.com/en/" + 
+post.url + "</loc><xhtml:link rel='alternate' hreflang='en' href='https://www.dreamcodesoft.com/en/" + 
+post.url + "' /><xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/es/" + 
+post.url + "' /><xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/" + 
+post.url + "' /></url>")*/
+
 
                 postlistEN.push(post)
                 if (i === files.length - 1) {
