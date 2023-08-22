@@ -2,6 +2,5 @@
   RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -f [OR]
   RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -d
   RewriteRule ^ - [L]
-  Redirect 301 /404
 
   RewriteRule ^ /index.html [L]
