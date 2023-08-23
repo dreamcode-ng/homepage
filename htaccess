@@ -2,5 +2,6 @@
   RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -f [OR]
   RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -d
   RewriteRule ^ - [L]
-
+  Redirect 301 /blog
+  RewriteRule ^(.*)$ /blog/$1 [R=301,L]
   RewriteRule ^ /index.html [L]
