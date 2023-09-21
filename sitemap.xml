@@ -151,7 +151,7 @@
 		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/careers" />
 	</url>
 
-	<!-- careers profile -->
+<!-- careers profile -->
 	<!-- careers profile ingeniero-de-automatizacion-->
 	<url>
 		<loc>https://www.dreamcodesoft.com/careers/ingeniero-de-automatizacion</loc>
@@ -1198,5 +1198,44 @@
 	<xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/es/how-profitable-is-AI-assisted-app-development-for-companies' />
 	<xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/how-profitable-is-AI-assisted-app-development-for-companies' />
 </url>
+
+<url>
+	<loc>https://www.dreamcodesoft.com/native-apps-vs-progressive-apps-choosing-the-best-one-for-your-technology-initiative</loc>
+	<xhtml:link rel='alternate' hreflang='en' href='https://www.dreamcodesoft.com/en/native-apps-vs-progressive-apps-choosing-the-best-one-for-your-technology-initiative' />
+	<xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/es/native-apps-vs-progressive-apps-choosing-the-best-one-for-your-technology-initiative' />
+	<xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/native-apps-vs-progressive-apps-choosing-the-best-one-for-your-technology-initiative' />
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/es/native-apps-vs-progressive-apps-choosing-the-best-one-for-your-technology-initiative</loc>
+	<xhtml:link rel='alternate' hreflang='en' href='https://www.dreamcodesoft.com/en/native-apps-vs-progressive-apps-choosing-the-best-one-for-your-technology-initiative' />
+	<xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/es/native-apps-vs-progressive-apps-choosing-the-best-one-for-your-technology-initiative' />
+	<xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/native-apps-vs-progressive-apps-choosing-the-best-one-for-your-technology-initiative' />
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/en/native-apps-vs-progressive-apps-choosing-the-best-one-for-your-technology-initiative</loc>
+	<xhtml:link rel='alternate' hreflang='en' href='https://www.dreamcodesoft.com/en/native-apps-vs-progressive-apps-choosing-the-best-one-for-your-technology-initiative' />
+	<xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/es/native-apps-vs-progressive-apps-choosing-the-best-one-for-your-technology-initiative' />
+	<xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/native-apps-vs-progressive-apps-choosing-the-best-one-for-your-technology-initiative' />
+</url>
+
+<url>
+	<loc>https://www.dreamcodesoft.com/data-centers-and-the-benefits-of-deploying-one-on-your-business</loc>
+	<xhtml:link rel='alternate' hreflang='en' href='https://www.dreamcodesoft.com/en/data-centers-and-the-benefits-of-deploying-one-on-your-business' />
+	<xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/es/data-centers-and-the-benefits-of-deploying-one-on-your-business' />
+	<xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/data-centers-and-the-benefits-of-deploying-one-on-your-business' />
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/es/data-centers-and-the-benefits-of-deploying-one-on-your-business</loc>
+	<xhtml:link rel='alternate' hreflang='en' href='https://www.dreamcodesoft.com/en/data-centers-and-the-benefits-of-deploying-one-on-your-business' />
+	<xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/es/data-centers-and-the-benefits-of-deploying-one-on-your-business' />
+	<xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/data-centers-and-the-benefits-of-deploying-one-on-your-business' />
+</url>
+<url>
+	<loc>https://www.dreamcodesoft.com/en/data-centers-and-the-benefits-of-deploying-one-on-your-business</loc>
+	<xhtml:link rel='alternate' hreflang='en' href='https://www.dreamcodesoft.com/en/data-centers-and-the-benefits-of-deploying-one-on-your-business' />
+	<xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/es/data-centers-and-the-benefits-of-deploying-one-on-your-business' />
+	<xhtml:link rel='alternate' hreflang='es' href='https://www.dreamcodesoft.com/data-centers-and-the-benefits-of-deploying-one-on-your-business' />
+</url>
+
 
 </urlset>

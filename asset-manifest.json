@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.db62dbdd.css",
-    "main.js": "/static/js/main.59d6926e.js",
+    "main.js": "/static/js/main.66249fd2.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
     "static/media/Brochure_DreamCode_English.pdf": "/static/media/Brochure_DreamCode_English.2b1fa622b9fa70b3de5f.pdf",
     "static/media/Brochure_DreamCode_Spanish.pdf": "/static/media/Brochure_DreamCode_Spanish.091884db37bccb859ba3.pdf",
     "static/media/how-profitable-is-AI-assisted-app-development-for-companies.jpg": "/static/media/how-profitable-is-AI-assisted-app-development-for-companies.f563e2199077a7172734.jpg",
     "static/media/contributions-superapps-do-to-the-business-world.jpg": "/static/media/contributions-superapps-do-to-the-business-world.6d0ad17c01f814b2ae8b.jpg",
+    "static/media/data-centers-and-the-benefits-of-deploying-one-on-your-business.jpg": "/static/media/data-centers-and-the-benefits-of-deploying-one-on-your-business.c52d975987e8620e7663.jpg",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.19246336eb35c8d4fb59.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.278446d862aaeffb3f59.svg",
     "static/media/portada.png": "/static/media/portada.f9c467e91d5886f57002.png",
@@ -80,6 +81,7 @@
     "static/media/fondo-nuestra-experiencia.jpg": "/static/media/fondo-nuestra-experiencia.670c4eab5f0a3dbe3643.jpg",
     "static/media/tremendous-potential-behind-big-data-and-analytics-tools.jpg": "/static/media/tremendous-potential-behind-big-data-and-analytics-tools.5a461418fbee4d22e78a.jpg",
     "static/media/DevIcon.png": "/static/media/DevIcon.209fb9bf09329f07bac5.png",
+    "static/media/native-apps-vs-progressive-apps-choosing-the-best-one-for-your-technology-initiative.jpg": "/static/media/native-apps-vs-progressive-apps-choosing-the-best-one-for-your-technology-initiative.2617a32735bcf7edaecc.jpg",
     "static/media/1-una-cultura-que-prioriza-a-las-personas.jpg": "/static/media/1-una-cultura-que-prioriza-a-las-personas.b8b2470728b5bca1acdb.jpg",
     "static/media/No-code-tools-risks.jpg": "/static/media/No-code-tools-risks.5677a67ee3c698318406.jpg",
     "static/media/img-scrum-int.png": "/static/media/img-scrum-int.3100820714c3bb45df91.png",
@@ -172,11 +174,11 @@
     "static/media/Figura-blanca.svg": "/static/media/Figura-blanca.46dec4eb48961de63c9adc5002c79735.svg",
     "static/media/Fondo-blanco-experiencia.svg": "/static/media/Fondo-blanco-experiencia.50f2ab7ba04f09a49f81.svg",
     "main.db62dbdd.css.map": "/static/css/main.db62dbdd.css.map",
-    "main.59d6926e.js.map": "/static/js/main.59d6926e.js.map",
+    "main.66249fd2.js.map": "/static/js/main.66249fd2.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db62dbdd.css",
-    "static/js/main.59d6926e.js"
+    "static/js/main.66249fd2.js"
   ]
 }
