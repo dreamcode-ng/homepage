@@ -192,44 +192,24 @@
 		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/careers/desarrollador-java-senior" />
 	</url>
 
-		<!-- careers profile desarrollador-senior-backend-->
+		<!-- careers profile desarrollador-backend-->
 	<url>
-		<loc>https://www.dreamcodesoft.com/careers/desarrollador-senior-backend</loc>
-		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/careers/desarrollador-senior-backend" />
-        <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/careers/desarrollador-senior-backend" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/careers/desarrollador-senior-backend" />
+		<loc>https://www.dreamcodesoft.com/careers/desarrollador-backend</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/careers/desarrollador-backend" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/careers/desarrollador-backend" />
+		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/careers/desarrollador-backend" />
 	</url>
 	<url>
-		<loc>https://www.dreamcodesoft.com/es/careers/desarrollador-senior-backend</loc>
-		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/careers/desarrollador-senior-backend" />
-        <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/careers/desarrollador-senior-backend" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/careers/desarrollador-senior-backend" />
+		<loc>https://www.dreamcodesoft.com/es/careers/desarrollador-backend</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/careers/desarrollador-backend" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/careers/desarrollador-backend" />
+		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/careers/desarrollador-backend" />
 	</url>
     <url>
-		<loc>https://www.dreamcodesoft.com/en/careers/desarrollador-senior-backend</loc>
-		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/careers/desarrollador-senior-backend" />
-        <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/careers/desarrollador-senior-backend" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/careers/desarrollador-senior-backend" />
-	</url>
-
-		<!-- careers profile desarrollador-senior-frontend-->
-	<url>
-		<loc>https://www.dreamcodesoft.com/careers/desarrollador-senior-frontend</loc>
-		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/careers/desarrollador-senior-frontend" />
-        <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/careers/desarrollador-senior-frontend" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/careers/desarrollador-senior-frontend" />
-	</url>
-	<url>
-		<loc>https://www.dreamcodesoft.com/es/careers/desarrollador-senior-frontend</loc>
-		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/careers/desarrollador-senior-frontend" />
-        <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/careers/desarrollador-senior-frontend" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/careers/desarrollador-senior-frontend" />
-	</url>
-    <url>
-		<loc>https://www.dreamcodesoft.com/en/careers/desarrollador-senior-frontend</loc>
-		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/careers/desarrollador-senior-frontend" />
-        <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/careers/desarrollador-senior-frontend" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/careers/desarrollador-senior-frontend" />
+		<loc>https://www.dreamcodesoft.com/en/careers/desarrollador-backend</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/careers/desarrollador-backend" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/careers/desarrollador-backend" />
+		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/careers/desarrollador-backend" />
 	</url>
 
 		<!-- scrum -->
