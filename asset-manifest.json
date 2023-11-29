@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.41038afd.css",
-    "main.js": "/static/js/main.28be8be5.js",
+    "main.css": "/static/css/main.63ee4627.css",
+    "main.js": "/static/js/main.22e3f4b8.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
     "static/media/Brochure_DreamCode_English.pdf": "/static/media/Brochure_DreamCode_English.2b1fa622b9fa70b3de5f.pdf",
     "static/media/Brochure_DreamCode_Spanish.pdf": "/static/media/Brochure_DreamCode_Spanish.091884db37bccb859ba3.pdf",
-    "static/media/how-profitable-is-AI-assisted-app-development-for-companies.jpg": "/static/media/how-profitable-is-AI-assisted-app-development-for-companies.f563e2199077a7172734.jpg",
-    "static/media/contributions-superapps-do-to-the-business-world.jpg": "/static/media/contributions-superapps-do-to-the-business-world.6d0ad17c01f814b2ae8b.jpg",
-    "static/media/data-centers-and-the-benefits-of-deploying-one-on-your-business.jpg": "/static/media/data-centers-and-the-benefits-of-deploying-one-on-your-business.c52d975987e8620e7663.jpg",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.19246336eb35c8d4fb59.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.278446d862aaeffb3f59.svg",
+    "static/media/how-profitable-is-AI-assisted-app-development-for-companies.webp": "/static/media/how-profitable-is-AI-assisted-app-development-for-companies.82ae4a05f9186b71e294.webp",
     "static/media/portada.png": "/static/media/portada.f9c467e91d5886f57002.png",
-    "static/media/machine-learning-how-to-turn-it-into-a-competitive-leverage-for-your-company.jpg": "/static/media/machine-learning-how-to-turn-it-into-a-competitive-leverage-for-your-company.16c7ba27c79f94276b52.jpg",
+    "static/media/contributions-superapps-do-to-the-business-world.webp": "/static/media/contributions-superapps-do-to-the-business-world.5e58cfb96b606aa9b1ff.webp",
+    "static/media/machine-learning-how-to-turn-it-into-a-competitive-leverage-for-your-company.webp": "/static/media/machine-learning-how-to-turn-it-into-a-competitive-leverage-for-your-company.1185aad3bc70399c5b8c.webp",
+    "static/media/data-centers-and-the-benefits-of-deploying-one-on-your-business.webp": "/static/media/data-centers-and-the-benefits-of-deploying-one-on-your-business.352dff81341a0542bbd3.webp",
     "static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.jpg": "/static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.e7ae6550215124511538.jpg",
     "static/media/chatgpt-and-its-disruptive-entry-into-the-technology-industry-and-business.jpg": "/static/media/chatgpt-and-its-disruptive-entry-into-the-technology-industry-and-business.c35a0c742fc2c16cb08b.jpg",
     "static/media/simbolo-Innovadores.png": "/static/media/simbolo-Innovadores.4c55de533489fb12cf57.png",
@@ -173,12 +173,12 @@
     "static/media/circulos.svg": "/static/media/circulos.877c0c7d943ccb2713be9aaa4e92bdd1.svg",
     "static/media/Figura-blanca.svg": "/static/media/Figura-blanca.46dec4eb48961de63c9adc5002c79735.svg",
     "static/media/Fondo-blanco-experiencia.svg": "/static/media/Fondo-blanco-experiencia.50f2ab7ba04f09a49f81.svg",
-    "main.41038afd.css.map": "/static/css/main.41038afd.css.map",
-    "main.28be8be5.js.map": "/static/js/main.28be8be5.js.map",
+    "main.63ee4627.css.map": "/static/css/main.63ee4627.css.map",
+    "main.22e3f4b8.js.map": "/static/js/main.22e3f4b8.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41038afd.css",
-    "static/js/main.28be8be5.js"
+    "static/css/main.63ee4627.css",
+    "static/js/main.22e3f4b8.js"
   ]
 }
