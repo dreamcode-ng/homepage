@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.603e351c.css",
-    "main.js": "/static/js/main.e8e4d8ec.js",
+    "main.js": "/static/js/main.31bbcb5f.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
     "static/media/Brochure_DreamCode_English.pdf": "/static/media/Brochure_DreamCode_English.2b1fa622b9fa70b3de5f.pdf",
     "static/media/Brochure_DreamCode_Spanish.pdf": "/static/media/Brochure_DreamCode_Spanish.091884db37bccb859ba3.pdf",
+    "static/media/app-development-and-design-trends-that-will-prevail-in-2024.webp": "/static/media/app-development-and-design-trends-that-will-prevail-in-2024.83c5246c00472777fb71.webp",
+    "static/media/reactjs-or-reactnative-which-one-to-choose-for-your-project.webp": "/static/media/reactjs-or-reactnative-which-one-to-choose-for-your-project.d7aa788c0f8ae8f78fc6.webp",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.19246336eb35c8d4fb59.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.278446d862aaeffb3f59.svg",
     "static/media/how-profitable-is-AI-assisted-app-development-for-companies.webp": "/static/media/how-profitable-is-AI-assisted-app-development-for-companies.82ae4a05f9186b71e294.webp",
@@ -174,11 +176,11 @@
     "static/media/Figura-blanca.svg": "/static/media/Figura-blanca.46dec4eb48961de63c9adc5002c79735.svg",
     "static/media/Fondo-blanco-experiencia.svg": "/static/media/Fondo-blanco-experiencia.50f2ab7ba04f09a49f81.svg",
     "main.603e351c.css.map": "/static/css/main.603e351c.css.map",
-    "main.e8e4d8ec.js.map": "/static/js/main.e8e4d8ec.js.map",
+    "main.31bbcb5f.js.map": "/static/js/main.31bbcb5f.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.603e351c.css",
-    "static/js/main.e8e4d8ec.js"
+    "static/js/main.31bbcb5f.js"
   ]
 }
