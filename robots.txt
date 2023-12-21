@@ -9,6 +9,7 @@ Allow: /blog/*
 Allow: /careers/*
 Disallow: /blog-single
 Disallow: /author/*
+Disallow: /scrum
 Disellow: /static/*
 Disellow: /cdn-cgi/*
 Disellow: /jobs

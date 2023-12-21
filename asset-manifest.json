@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.603e351c.css",
-    "main.js": "/static/js/main.38d2d44b.js",
+    "main.js": "/static/js/main.0f8c8be6.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
     "static/media/Brochure_DreamCode_English.pdf": "/static/media/Brochure_DreamCode_English.2b1fa622b9fa70b3de5f.pdf",
     "static/media/Brochure_DreamCode_Spanish.pdf": "/static/media/Brochure_DreamCode_Spanish.091884db37bccb859ba3.pdf",
@@ -176,11 +176,11 @@
     "static/media/Figura-blanca.svg": "/static/media/Figura-blanca.46dec4eb48961de63c9adc5002c79735.svg",
     "static/media/Fondo-blanco-experiencia.svg": "/static/media/Fondo-blanco-experiencia.50f2ab7ba04f09a49f81.svg",
     "main.603e351c.css.map": "/static/css/main.603e351c.css.map",
-    "main.38d2d44b.js.map": "/static/js/main.38d2d44b.js.map",
+    "main.0f8c8be6.js.map": "/static/js/main.0f8c8be6.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.603e351c.css",
-    "static/js/main.38d2d44b.js"
+    "static/js/main.0f8c8be6.js"
   ]
 }
