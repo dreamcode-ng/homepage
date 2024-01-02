@@ -212,6 +212,26 @@
 		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/careers/desarrollador-backend" />
 	</url>
 
+			<!-- careers profile senior-database-administrator-->
+	<url>
+		<loc>https://www.dreamcodesoft.com/careers/senior-database-administrator</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/careers/senior-database-administrator" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/careers/senior-database-administrator" />
+		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/careers/senior-database-administrator" />
+	</url>
+	<url>
+		<loc>https://www.dreamcodesoft.com/es/careers/senior-database-administrator</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/careers/senior-database-administrator" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/careers/senior-database-administrator" />
+		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/careers/senior-database-administrator" />
+	</url>
+    <url>
+		<loc>https://www.dreamcodesoft.com/en/careers/senior-database-administrator</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/careers/senior-database-administrator" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/careers/senior-database-administrator" />
+		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/careers/senior-database-administrator" />
+	</url>
+
 		<!-- scrum -->
 
 	<url>
