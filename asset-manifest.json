@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.603e351c.css",
-    "main.js": "/static/js/main.e12b071c.js",
+    "main.js": "/static/js/main.6137085d.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
     "static/media/Brochure_DreamCode_English.pdf": "/static/media/Brochure_DreamCode_English.2b1fa622b9fa70b3de5f.pdf",
     "static/media/Brochure_DreamCode_Spanish.pdf": "/static/media/Brochure_DreamCode_Spanish.091884db37bccb859ba3.pdf",
@@ -13,6 +13,7 @@
     "static/media/portada.png": "/static/media/portada.f9c467e91d5886f57002.png",
     "static/media/contributions-superapps-do-to-the-business-world.webp": "/static/media/contributions-superapps-do-to-the-business-world.5e58cfb96b606aa9b1ff.webp",
     "static/media/machine-learning-how-to-turn-it-into-a-competitive-leverage-for-your-company.webp": "/static/media/machine-learning-how-to-turn-it-into-a-competitive-leverage-for-your-company.1185aad3bc70399c5b8c.webp",
+    "static/media/app-development-and-business-what-s-ahead-for-the-new-year.webp": "/static/media/app-development-and-business-what-s-ahead-for-the-new-year.580b6f88d6ea081f86f0.webp",
     "static/media/data-centers-and-the-benefits-of-deploying-one-on-your-business.webp": "/static/media/data-centers-and-the-benefits-of-deploying-one-on-your-business.352dff81341a0542bbd3.webp",
     "static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.jpg": "/static/media/5-digital-security-practices-to-develop-highly-reliable-software-apps.e7ae6550215124511538.jpg",
     "static/media/chatgpt-and-its-disruptive-entry-into-the-technology-industry-and-business.jpg": "/static/media/chatgpt-and-its-disruptive-entry-into-the-technology-industry-and-business.c35a0c742fc2c16cb08b.jpg",
@@ -176,11 +177,11 @@
     "static/media/Figura-blanca.svg": "/static/media/Figura-blanca.46dec4eb48961de63c9adc5002c79735.svg",
     "static/media/Fondo-blanco-experiencia.svg": "/static/media/Fondo-blanco-experiencia.50f2ab7ba04f09a49f81.svg",
     "main.603e351c.css.map": "/static/css/main.603e351c.css.map",
-    "main.e12b071c.js.map": "/static/js/main.e12b071c.js.map",
+    "main.6137085d.js.map": "/static/js/main.6137085d.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.603e351c.css",
-    "static/js/main.e12b071c.js"
+    "static/js/main.6137085d.js"
   ]
 }
