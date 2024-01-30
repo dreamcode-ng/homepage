@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.603e351c.css",
-    "main.js": "/static/js/main.6137085d.js",
+    "main.css": "/static/css/main.84361ee8.css",
+    "main.js": "/static/js/main.a3e17b15.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
     "static/media/Brochure_DreamCode_English.pdf": "/static/media/Brochure_DreamCode_English.2b1fa622b9fa70b3de5f.pdf",
     "static/media/Brochure_DreamCode_Spanish.pdf": "/static/media/Brochure_DreamCode_Spanish.091884db37bccb859ba3.pdf",
@@ -12,6 +12,7 @@
     "static/media/how-profitable-is-AI-assisted-app-development-for-companies.webp": "/static/media/how-profitable-is-AI-assisted-app-development-for-companies.82ae4a05f9186b71e294.webp",
     "static/media/portada.png": "/static/media/portada.f9c467e91d5886f57002.png",
     "static/media/contributions-superapps-do-to-the-business-world.webp": "/static/media/contributions-superapps-do-to-the-business-world.5e58cfb96b606aa9b1ff.webp",
+    "static/media/banner-DreamBlog.webp": "/static/media/banner-DreamBlog.43b0e3b2e04f6b2fc90f.webp",
     "static/media/machine-learning-how-to-turn-it-into-a-competitive-leverage-for-your-company.webp": "/static/media/machine-learning-how-to-turn-it-into-a-competitive-leverage-for-your-company.1185aad3bc70399c5b8c.webp",
     "static/media/app-development-and-business-what-s-ahead-for-the-new-year.webp": "/static/media/app-development-and-business-what-s-ahead-for-the-new-year.580b6f88d6ea081f86f0.webp",
     "static/media/data-centers-and-the-benefits-of-deploying-one-on-your-business.webp": "/static/media/data-centers-and-the-benefits-of-deploying-one-on-your-business.352dff81341a0542bbd3.webp",
@@ -101,7 +102,6 @@
     "static/media/what-to-do-before-the-little-supply-of-technological-talent.jpg": "/static/media/what-to-do-before-the-little-supply-of-technological-talent.2d11e0039848ff938b39.jpg",
     "static/media/Icono-Web-and-Mobile-App.png": "/static/media/Icono-Web-and-Mobile-App.8804214e6946d1bc3573.png",
     "static/media/3-reconocer-el-talento-de-nuestro-equipo.jpg": "/static/media/3-reconocer-el-talento-de-nuestro-equipo.7378bad6753c69b5d70a.jpg",
-    "static/media/blog-banner.jpg": "/static/media/blog-banner.8ac87b4030f3f838ca14.jpg",
     "static/media/foldable-devices-how-to-design-and-develop-their-applications.jpg": "/static/media/foldable-devices-how-to-design-and-develop-their-applications.611fb86d7d5748939126.jpg",
     "static/media/Icono-Consulting.png": "/static/media/Icono-Consulting.8c89a90e9609252ba22d.png",
     "static/media/fa-brands-400.woff": "/static/media/fa-brands-400.3696430def234662756a.woff",
@@ -162,6 +162,7 @@
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.95dbe63555424726ce0c.woff2",
     "static/media/estrellas.png": "/static/media/estrellas.bf85787fbe4975569c07.png",
     "static/media/SoftArchite.svg": "/static/media/SoftArchite.b1cbb728ae0a0bcffd3c1a8a122bcf2b.svg",
+    "static/media/figura_banner_blog_1.svg": "/static/media/figura_banner_blog_1.0f95090244646d46ccbacfb9376ca1bd.svg",
     "static/media/MicroServ.svg": "/static/media/MicroServ.e60ce34efc64cc3ceb45f058802e602e.svg",
     "static/media/DevOpsIcon.svg": "/static/media/DevOpsIcon.00fbf2002afce621f59eefbed16c609b.svg",
     "static/media/AgilSoft.svg": "/static/media/AgilSoft.41c55a424762880f2d811cb2f5498711.svg",
@@ -174,14 +175,18 @@
     "static/media/Figura-aguamarina.svg": "/static/media/Figura-aguamarina.fdd8a86b91c36bb21e8c930e0d0b6cc1.svg",
     "static/media/Linea-de-fondo.svg": "/static/media/Linea-de-fondo.ed6375c4a15dbda7630b6762219b8e29.svg",
     "static/media/circulos.svg": "/static/media/circulos.877c0c7d943ccb2713be9aaa4e92bdd1.svg",
+    "static/media/figura_banner_blog_4.svg": "/static/media/figura_banner_blog_4.021670c19ad770b3cefa2c859b495037.svg",
     "static/media/Figura-blanca.svg": "/static/media/Figura-blanca.46dec4eb48961de63c9adc5002c79735.svg",
+    "static/media/figura_banner_blog_2.svg": "/static/media/figura_banner_blog_2.f569385c7dc43aef232664b9793559d7.svg",
+    "static/media/figura_banner_blog_5.svg": "/static/media/figura_banner_blog_5.64cb6f3012a8f5eff211769aebd4a892.svg",
     "static/media/Fondo-blanco-experiencia.svg": "/static/media/Fondo-blanco-experiencia.50f2ab7ba04f09a49f81.svg",
-    "main.603e351c.css.map": "/static/css/main.603e351c.css.map",
-    "main.6137085d.js.map": "/static/js/main.6137085d.js.map",
+    "static/media/figura_banner_blog_3.svg": "/static/media/figura_banner_blog_3.221b7fa823086561abbc231b44b8c9d3.svg",
+    "main.84361ee8.css.map": "/static/css/main.84361ee8.css.map",
+    "main.a3e17b15.js.map": "/static/js/main.a3e17b15.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.603e351c.css",
-    "static/js/main.6137085d.js"
+    "static/css/main.84361ee8.css",
+    "static/js/main.a3e17b15.js"
   ]
 }
