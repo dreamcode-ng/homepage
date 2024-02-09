@@ -210,7 +210,7 @@ getPostsES(() => {
     getPostsEN(() => {
 
         const resultado = sizeEn === sizeEs ? 'Bien' : 'Error';
-        console.log('tamaño: ', resultado);
+        console.log('Coinciden: ', resultado);
 
 
     });
