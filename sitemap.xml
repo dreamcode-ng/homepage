@@ -46,6 +46,27 @@
 		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/services" />
 	</url>
 
+		<!-- Staff -->
+
+	<url>
+		<loc>https://www.dreamcodesoft.com/staff-augmentation</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/staff-augmentation" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/staff-augmentation" />
+		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/staff-augmentation" />
+	</url>
+	<url>
+		<loc>https://www.dreamcodesoft.com/es/staff-augmentation</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/staff-augmentation" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/staff-augmentation" />
+		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/staff-augmentation" />
+	</url>
+    <url>
+		<loc>https://www.dreamcodesoft.com/en/staff-augmentation</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/staff-augmentation" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/staff-augmentation" />
+		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/staff-augmentation" />
+	</url>
+
 	<!-- about -->
 
 	<url>
