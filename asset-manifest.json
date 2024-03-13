@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a1b4e4c9.css",
-    "main.js": "/static/js/main.daf2130d.js",
+    "main.css": "/static/css/main.90969030.css",
+    "main.js": "/static/js/main.8d2fda9e.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
     "static/media/Brochure_DreamCode_English.pdf": "/static/media/Brochure_DreamCode_English.2b1fa622b9fa70b3de5f.pdf",
     "static/media/Brochure_DreamCode_Spanish.pdf": "/static/media/Brochure_DreamCode_Spanish.091884db37bccb859ba3.pdf",
@@ -59,7 +59,6 @@
     "static/media/pros-and-cons-the-top-5-programming-languages-for-mobile-development.jpg": "/static/media/pros-and-cons-the-top-5-programming-languages-for-mobile-development.b8aec4b420fb7ab5fcad.jpg",
     "static/media/language-server-protocol-its-role-on-software-development-field.jpg": "/static/media/language-server-protocol-its-role-on-software-development-field.eebc480a10dfbb432fc9.jpg",
     "static/media/types-of-applications-in-the-cloud.jpg": "/static/media/types-of-applications-in-the-cloud.0da98181a1097093f73b.jpg",
-    "static/media/gptw-landing.jpg": "/static/media/gptw-landing.1982d82d004c054d9737.jpg",
     "static/media/agile-scrum-transformed-it-industry.jpg": "/static/media/agile-scrum-transformed-it-industry.594e0554e8ce96a232b5.jpg",
     "static/media/Dreamcode_2023_Certification_Badge.png": "/static/media/Dreamcode_2023_Certification_Badge.ebc57ba55ed60825be35.png",
     "static/media/CIO-director-of-technology-the-future-of-businesses.jpg": "/static/media/CIO-director-of-technology-the-future-of-businesses.d63f8fd9dcc3aa429664.jpg",
@@ -94,7 +93,6 @@
     "static/media/slider2-figura-1.svg": "/static/media/slider2-figura-1.fcf72f2498c63875d4d8a36d9f109e2f.svg",
     "static/media/API-driven-Architecture-simplifying-software-development.jpg": "/static/media/API-driven-Architecture-simplifying-software-development.63a8eb8d413a383fe835.jpg",
     "static/media/2022-and-the-technological-reach-of-digital-transformation.jpg": "/static/media/2022-and-the-technological-reach-of-digital-transformation.456c50ba80459e158d75.jpg",
-    "static/media/banner-talent.webp": "/static/media/banner-talent.e5e6cef21fb3ac0f2add.webp",
     "static/media/img-devops-int.png": "/static/media/img-devops-int.92b30585ec9a3f8103e5.png",
     "static/media/Icono-Database-Services.png": "/static/media/Icono-Database-Services.c67bd757fd8636ef5665.png",
     "static/media/sede-cali-3.jpg": "/static/media/sede-cali-3.b993d68066a44b8bb8e3.jpg",
@@ -170,21 +168,28 @@
     "static/media/estrellas.png": "/static/media/estrellas.bf85787fbe4975569c07.png",
     "static/media/figura_banner_blog_1.svg": "/static/media/figura_banner_blog_1.0f95090244646d46ccbacfb9376ca1bd.svg",
     "index.html": "/index.html",
+    "static/media/talent-innovation.svg": "/static/media/talent-innovation.7d706064672642cea2307b3a905d7664.svg",
     "static/media/circulos-2.svg": "/static/media/circulos-2.c0a52bb9cab8c213710cf8036ccf00eb.svg",
+    "static/media/talent-agile.svg": "/static/media/talent-agile.f3cc134bc348c152dc9a192aca880751.svg",
+    "static/media/talent-valor.svg": "/static/media/talent-valor.a2eb6b38973e03ce8edfc76894a86a46.svg",
     "static/media/Figura-aguamarina.svg": "/static/media/Figura-aguamarina.fdd8a86b91c36bb21e8c.svg",
     "static/media/Linea-de-fondo.svg": "/static/media/Linea-de-fondo.ed6375c4a15dbda7630b6762219b8e29.svg",
+    "static/media/talent-transformation.svg": "/static/media/talent-transformation.fb01c0db3c4c984ddafae7e1259edb76.svg",
     "static/media/circulos.svg": "/static/media/circulos.877c0c7d943ccb2713be9aaa4e92bdd1.svg",
+    "static/media/talent-adaptation.svg": "/static/media/talent-adaptation.e05a01030161c77ba45b6643c00cff5d.svg",
     "static/media/figura_banner_blog_4.svg": "/static/media/figura_banner_blog_4.021670c19ad770b3cefa2c859b495037.svg",
+    "static/media/talent-performance.svg": "/static/media/talent-performance.3e4b1477f4d4a5cb11f2c2d90d1ab645.svg",
     "static/media/Figura-blanca.svg": "/static/media/Figura-blanca.46dec4eb48961de63c9a.svg",
     "static/media/figura_banner_blog_2.svg": "/static/media/figura_banner_blog_2.f569385c7dc43aef232664b9793559d7.svg",
+    "static/media/talent-culture.svg": "/static/media/talent-culture.225535e5e2f306d03d48133c296ffdfc.svg",
     "static/media/figura_banner_blog_5.svg": "/static/media/figura_banner_blog_5.64cb6f3012a8f5eff211769aebd4a892.svg",
     "static/media/figura_banner_blog_3.svg": "/static/media/figura_banner_blog_3.221b7fa823086561abbc231b44b8c9d3.svg",
-    "main.a1b4e4c9.css.map": "/static/css/main.a1b4e4c9.css.map",
-    "main.daf2130d.js.map": "/static/js/main.daf2130d.js.map",
+    "main.90969030.css.map": "/static/css/main.90969030.css.map",
+    "main.8d2fda9e.js.map": "/static/js/main.8d2fda9e.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1b4e4c9.css",
-    "static/js/main.daf2130d.js"
+    "static/css/main.90969030.css",
+    "static/js/main.8d2fda9e.js"
   ]
 }
