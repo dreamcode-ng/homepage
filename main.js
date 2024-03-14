@@ -21,6 +21,12 @@ const getPostsEN = (callback) => {
         if (err) {
             return console.log("Failed to list contents of directory: " + err)
         }
+
+const archivos = files.filter(file => fs.statSync(path.join(dirPathEN, file)).isFile());
+    // Cuenta el número de archivos
+    const cantidadArchivos = archivos.length;
+    console.log('archivos EN: ',cantidadArchivos);
+
         files.forEach((file, i) => {
 
             let obj = {}
@@ -118,10 +124,18 @@ post.url + "' /></url>")*/
 //--------------------------Articulos en Español--------------------------//
 
 const getPostsES = (callback) => {
+
+   
     fs.readdir(dirPathES, (error, files) => {
         if (error) {
             return console.log("Failed to list contents of directory: " + error)
         }
+
+        const archivos = files.filter(file => fs.statSync(path.join(dirPathES, file)).isFile());
+    // Cuenta el número de archivos
+    const cantidadArchivos = archivos.length;
+    console.log('archivos ES: ',cantidadArchivos);
+
         files.forEach((file, i) => {
 
             let obj = {}
