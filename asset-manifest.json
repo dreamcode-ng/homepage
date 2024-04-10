@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.a0676626.css",
-    "main.js": "/static/js/main.e47049db.js",
+    "main.css": "/static/css/main.6303ba06.css",
+    "main.js": "/static/js/main.567b8de2.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
     "static/media/Brochure_DreamCode_English.pdf": "/static/media/Brochure_DreamCode_English.2b1fa622b9fa70b3de5f.pdf",
     "static/media/Brochure_DreamCode_Spanish.pdf": "/static/media/Brochure_DreamCode_Spanish.091884db37bccb859ba3.pdf",
-    "static/media/app-development-and-design-trends-that-will-prevail-in-2024.webp": "/static/media/app-development-and-design-trends-that-will-prevail-in-2024.83c5246c00472777fb71.webp",
-    "static/media/reactjs-or-reactnative-which-one-to-choose-for-your-project.webp": "/static/media/reactjs-or-reactnative-which-one-to-choose-for-your-project.d7aa788c0f8ae8f78fc6.webp",
+    "static/media/app-development-and-design-trends-that-will-prevail-in-2024.webp": "/static/media/app-development-and-design-trends-that-will-prevail-in-2024.08800c053b22f351c321.webp",
+    "static/media/reactjs-or-reactnative-which-one-to-choose-for-your-project.webp": "/static/media/reactjs-or-reactnative-which-one-to-choose-for-your-project.4ebf3ffd55ef307cabfa.webp",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.19246336eb35c8d4fb59.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.278446d862aaeffb3f59.svg",
     "static/media/how-profitable-is-AI-assisted-app-development-for-companies.webp": "/static/media/how-profitable-is-AI-assisted-app-development-for-companies.82ae4a05f9186b71e294.webp",
@@ -185,12 +185,12 @@
     "static/media/talent-culture.svg": "/static/media/talent-culture.225535e5e2f306d03d48133c296ffdfc.svg",
     "static/media/figura_banner_blog_5.svg": "/static/media/figura_banner_blog_5.64cb6f3012a8f5eff211769aebd4a892.svg",
     "static/media/figura_banner_blog_3.svg": "/static/media/figura_banner_blog_3.221b7fa823086561abbc231b44b8c9d3.svg",
-    "main.a0676626.css.map": "/static/css/main.a0676626.css.map",
-    "main.e47049db.js.map": "/static/js/main.e47049db.js.map",
+    "main.6303ba06.css.map": "/static/css/main.6303ba06.css.map",
+    "main.567b8de2.js.map": "/static/js/main.567b8de2.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0676626.css",
-    "static/js/main.e47049db.js"
+    "static/css/main.6303ba06.css",
+    "static/js/main.567b8de2.js"
   ]
 }
