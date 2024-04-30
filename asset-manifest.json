@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7c37042a.css",
-    "main.js": "/static/js/main.4273810d.js",
+    "main.js": "/static/js/main.55f8a36c.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
     "static/media/Brochure_DreamCode_English.pdf": "/static/media/Brochure_DreamCode_English.2b1fa622b9fa70b3de5f.pdf",
     "static/media/Brochure_DreamCode_Spanish.pdf": "/static/media/Brochure_DreamCode_Spanish.091884db37bccb859ba3.pdf",
@@ -61,7 +61,6 @@
     "static/media/types-of-applications-in-the-cloud.jpg": "/static/media/types-of-applications-in-the-cloud.0da98181a1097093f73b.jpg",
     "static/media/agile-scrum-transformed-it-industry.jpg": "/static/media/agile-scrum-transformed-it-industry.594e0554e8ce96a232b5.jpg",
     "static/media/it-outsourcing-in-latam-colombia-regional-powerhouse-in-the-technology-services-market.jpg": "/static/media/it-outsourcing-in-latam-colombia-regional-powerhouse-in-the-technology-services-market.a3c37fbd6684ae2405a7.jpg",
-    "static/media/Dreamcode_2023_Certification_Badge.png": "/static/media/Dreamcode_2023_Certification_Badge.ebc57ba55ed60825be35.png",
     "static/media/CIO-director-of-technology-the-future-of-businesses.jpg": "/static/media/CIO-director-of-technology-the-future-of-businesses.d63f8fd9dcc3aa429664.jpg",
     "static/media/5-un-entorno-de-trabajo-formidable.jpg": "/static/media/5-un-entorno-de-trabajo-formidable.ac413d747147e9a44ce2.jpg",
     "static/media/developing-applications-software-development-life-cycle-sldc.jpg": "/static/media/developing-applications-software-development-life-cycle-sldc.c1f43b52cca172ec779b.jpg",
@@ -190,11 +189,11 @@
     "static/media/figura_banner_blog_5.svg": "/static/media/figura_banner_blog_5.64cb6f3012a8f5eff211769aebd4a892.svg",
     "static/media/figura_banner_blog_3.svg": "/static/media/figura_banner_blog_3.221b7fa823086561abbc231b44b8c9d3.svg",
     "main.7c37042a.css.map": "/static/css/main.7c37042a.css.map",
-    "main.4273810d.js.map": "/static/js/main.4273810d.js.map",
+    "main.55f8a36c.js.map": "/static/js/main.55f8a36c.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c37042a.css",
-    "static/js/main.4273810d.js"
+    "static/js/main.55f8a36c.js"
   ]
 }
