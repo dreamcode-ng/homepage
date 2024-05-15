@@ -9,20 +9,20 @@
 		<loc>https://www.dreamcodesoft.com</loc>
 		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/" />
 	</url>
 	<url>
 		<loc>https://www.dreamcodesoft.com/es</loc>
 		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/" />
 	</url>
 
     <url>
 		<loc>https://www.dreamcodesoft.com/en</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/" />
 	</url>
 
 	<!-- Services -->
@@ -31,19 +31,19 @@
 		<loc>https://www.dreamcodesoft.com/services</loc>
 		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/services" />
         <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/services" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/services" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/services" />
 	</url>
 	<url>
 		<loc>https://www.dreamcodesoft.com/es/services</loc>
 		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/services" />
         <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/services" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/services" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/services" />
 	</url>
     <url>
 		<loc>https://www.dreamcodesoft.com/en/services</loc>
 		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/services" />
         <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/services" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/services" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/services" />
 	</url>
 
 			<!-- Staff -->
@@ -52,19 +52,19 @@
 		<loc>https://www.dreamcodesoft.com/staff-augmentation</loc>
 		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/staff-augmentation" />
         <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/staff-augmentation" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/staff-augmentation" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/staff-augmentation" />
 	</url>
 	<url>
 		<loc>https://www.dreamcodesoft.com/es/staff-augmentation</loc>
 		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/staff-augmentation" />
         <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/staff-augmentation" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/staff-augmentation" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/staff-augmentation" />
 	</url>
     <url>
 		<loc>https://www.dreamcodesoft.com/en/staff-augmentation</loc>
 		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/staff-augmentation" />
         <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/staff-augmentation" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/staff-augmentation" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/staff-augmentation" />
 	</url>
 
 	<!-- about -->
@@ -73,19 +73,19 @@
 		<loc>https://www.dreamcodesoft.com/about</loc>
 		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/about" />
         <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/about" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/about" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/about" />
 	</url>
 	<url>
 		<loc>https://www.dreamcodesoft.com/es/about</loc>
 		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/about" />
         <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/about" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/about" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/about" />
 	</url>
     <url>
 		<loc>https://www.dreamcodesoft.com/en/about</loc>
 		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/about" />
         <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/about" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/about" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/about" />
 	</url>
 
 	<!-- contact -->
@@ -94,19 +94,19 @@
 		<loc>https://www.dreamcodesoft.com/contact</loc>
 		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/contact" />
         <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/contact" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/contact" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/contact" />
 	</url>
 	<url>
 		<loc>https://www.dreamcodesoft.com/es/contact</loc>
 		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/contact" />
         <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/contact" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/contact" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/contact" />
 	</url>
     <url>
 		<loc>https://www.dreamcodesoft.com/en/contact</loc>
 		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/contact" />
         <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/contact" />
-		<xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/contact" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/contact" />
 	</url>
 
 	<!-- dreamcoders -->
