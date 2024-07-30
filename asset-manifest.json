@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7cbd8867.css",
-    "main.js": "/static/js/main.ab4f9784.js",
+    "main.css": "/static/css/main.b7bc86e9.css",
+    "main.js": "/static/js/main.730caeee.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
     "static/media/Brochure_DreamCode_English.pdf": "/static/media/Brochure_DreamCode_English.2b1fa622b9fa70b3de5f.pdf",
     "static/media/Brochure_DreamCode_Spanish.pdf": "/static/media/Brochure_DreamCode_Spanish.091884db37bccb859ba3.pdf",
@@ -103,7 +103,6 @@
     "static/media/what-to-do-before-the-little-supply-of-technological-talent.jpg": "/static/media/what-to-do-before-the-little-supply-of-technological-talent.2d11e0039848ff938b39.jpg",
     "static/media/Icono-Web-and-Mobile-App.png": "/static/media/Icono-Web-and-Mobile-App.8804214e6946d1bc3573.png",
     "static/media/3-reconocer-el-talento-de-nuestro-equipo.jpg": "/static/media/3-reconocer-el-talento-de-nuestro-equipo.7378bad6753c69b5d70a.jpg",
-    "static/media/home-staff.webp": "/static/media/home-staff.2bbe3d68acaa9fd8c33f.webp",
     "static/media/foldable-devices-how-to-design-and-develop-their-applications.jpg": "/static/media/foldable-devices-how-to-design-and-develop-their-applications.611fb86d7d5748939126.jpg",
     "static/media/Icono-Consulting.png": "/static/media/Icono-Consulting.8c89a90e9609252ba22d.png",
     "static/media/fa-brands-400.woff": "/static/media/fa-brands-400.3696430def234662756a.woff",
@@ -118,7 +117,6 @@
     "static/media/Dreamcoder-Juan.png": "/static/media/Dreamcoder-Juan.075efff941c6c9068ded.png",
     "static/media/Dreamcoder-Ered.png": "/static/media/Dreamcoder-Ered.5e400f0a626329ff03a5.png",
     "static/media/figura-1.svg": "/static/media/figura-1.3a27910e6a4adaaeea08f2635b48eb2e.svg",
-    "static/media/logo-global-networks.png": "/static/media/logo-global-networks.3f7f2df5b4620a6ec567.png",
     "static/media/sede-cali-1.jpg": "/static/media/sede-cali-1.b6794db940667e177c36.jpg",
     "static/media/sede-san-francisco-3.jpeg": "/static/media/sede-san-francisco-3.6d160185dddcd5efbb7e.jpeg",
     "static/media/Dreamcoder-Eliana.png": "/static/media/Dreamcoder-Eliana.341c876fbc9d9df0cf20.png",
@@ -151,8 +149,9 @@
     "static/media/img-benefits-training.jpg": "/static/media/img-benefits-training.63ebc0f364cdf8916914.jpg",
     "static/media/img-benefits-integration-spaces.jpg": "/static/media/img-benefits-integration-spaces.42cb8f96a1e934b122d3.jpg",
     "static/media/certification-great-place-to-work.png": "/static/media/certification-great-place-to-work.0932c3718ac4c7a11932.png",
+    "static/media/home-staff.webp": "/static/media/home-staff.28a1aeb74bfe064e0a7c.webp",
+    "static/media/logo-global-networks.png": "/static/media/logo-global-networks.4762044e9f9510580665.png",
     "static/media/DreamCoders-Roberth.jpg": "/static/media/DreamCoders-Roberth.d2e4f2384ff748d89eb0.jpg",
-    "static/media/logo-square-trade.png": "/static/media/logo-square-trade.a30f48493045f6aaebe3.png",
     "static/media/DreamCoders-Lina.jpg": "/static/media/DreamCoders-Lina.359d9efa1249904fc66d.jpg",
     "static/media/simbolo-Motivados.png": "/static/media/simbolo-Motivados.6ab8506902a4be65914f.png",
     "static/media/sprint_planning.jpg": "/static/media/sprint_planning.9b109f274d4dc3480107.jpg",
@@ -166,8 +165,10 @@
     "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.95352b573931aa75b5b6.woff",
     "static/media/logo-blue.png": "/static/media/logo-blue.ae264d13acb7c52ff8f6.png",
     "static/media/img-benefits-gift-for-your-son.jpg": "/static/media/img-benefits-gift-for-your-son.f1c0b6f00fbbf12aa66a.jpg",
+    "static/media/logo-falabella.png": "/static/media/logo-falabella.a4ece89323f913462fde.png",
     "static/media/img-benefits-kit.jpg": "/static/media/img-benefits-kit.b66b0bde1076e1fcf972.jpg",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.95dbe63555424726ce0c.woff2",
+    "static/media/logo-phonecheck.png": "/static/media/logo-phonecheck.e808342d98a02dbe1871.png",
     "static/media/estrellas.png": "/static/media/estrellas.bf85787fbe4975569c07.png",
     "index.html": "/index.html",
     "static/media/figura_banner_blog_1.svg": "/static/media/figura_banner_blog_1.0f95090244646d46ccbacfb9376ca1bd.svg",
@@ -187,12 +188,12 @@
     "static/media/talent-culture.svg": "/static/media/talent-culture.225535e5e2f306d03d48133c296ffdfc.svg",
     "static/media/figura_banner_blog_5.svg": "/static/media/figura_banner_blog_5.64cb6f3012a8f5eff211769aebd4a892.svg",
     "static/media/figura_banner_blog_3.svg": "/static/media/figura_banner_blog_3.221b7fa823086561abbc231b44b8c9d3.svg",
-    "main.7cbd8867.css.map": "/static/css/main.7cbd8867.css.map",
-    "main.ab4f9784.js.map": "/static/js/main.ab4f9784.js.map",
+    "main.b7bc86e9.css.map": "/static/css/main.b7bc86e9.css.map",
+    "main.730caeee.js.map": "/static/js/main.730caeee.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cbd8867.css",
-    "static/js/main.ab4f9784.js"
+    "static/css/main.b7bc86e9.css",
+    "static/js/main.730caeee.js"
   ]
 }
