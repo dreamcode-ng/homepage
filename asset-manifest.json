@@ -1,8 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.71669e99.css",
-    "main.js": "/static/js/main.b4218adc.js",
+    "main.js": "/static/js/main.cb708055.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
+    "static/media/sede-bogota-3.jpg": "/static/media/sede-bogota-3.8168c56e85c9d1293035.jpg",
+    "static/media/sede-bogota-2.jpg": "/static/media/sede-bogota-2.84aab76a93f7215d56c2.jpg",
     "static/media/Brochure_DreamCode_English.pdf": "/static/media/Brochure_DreamCode_English.2b1fa622b9fa70b3de5f.pdf",
     "static/media/Brochure_DreamCode_Spanish.pdf": "/static/media/Brochure_DreamCode_Spanish.091884db37bccb859ba3.pdf",
     "static/media/app-development-and-design-trends-that-will-prevail-in-2024.webp": "/static/media/app-development-and-design-trends-that-will-prevail-in-2024.08800c053b22f351c321.webp",
@@ -10,6 +12,7 @@
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.19246336eb35c8d4fb59.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.278446d862aaeffb3f59.svg",
     "static/media/how-profitable-is-AI-assisted-app-development-for-companies.webp": "/static/media/how-profitable-is-AI-assisted-app-development-for-companies.82ae4a05f9186b71e294.webp",
+    "static/media/sede-bogota-1.png": "/static/media/sede-bogota-1.9834421504333ee5b568.png",
     "static/media/portada.png": "/static/media/portada.f9c467e91d5886f57002.png",
     "static/media/contributions-superapps-do-to-the-business-world.webp": "/static/media/contributions-superapps-do-to-the-business-world.5e58cfb96b606aa9b1ff.webp",
     "static/media/banner-DreamBlog.webp": "/static/media/banner-DreamBlog.43b0e3b2e04f6b2fc90f.webp",
@@ -189,11 +192,11 @@
     "static/media/figura_banner_blog_5.svg": "/static/media/figura_banner_blog_5.64cb6f3012a8f5eff211769aebd4a892.svg",
     "static/media/figura_banner_blog_3.svg": "/static/media/figura_banner_blog_3.221b7fa823086561abbc231b44b8c9d3.svg",
     "main.71669e99.css.map": "/static/css/main.71669e99.css.map",
-    "main.b4218adc.js.map": "/static/js/main.b4218adc.js.map",
+    "main.cb708055.js.map": "/static/js/main.cb708055.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.71669e99.css",
-    "static/js/main.b4218adc.js"
+    "static/js/main.cb708055.js"
   ]
 }
