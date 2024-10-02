@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fcf2e08a.css",
-    "main.js": "/static/js/main.10eced88.js",
+    "main.css": "/static/css/main.03bcce5e.css",
+    "main.js": "/static/js/main.06379f17.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
     "static/media/Brochure_DreamCode_English.pdf": "/static/media/Brochure_DreamCode_English.2b1fa622b9fa70b3de5f.pdf",
     "static/media/Brochure_DreamCode_Spanish.pdf": "/static/media/Brochure_DreamCode_Spanish.091884db37bccb859ba3.pdf",
@@ -128,16 +128,12 @@
     "static/media/themify.woff?-fvbane": "/static/media/themify.29b39089170885ae2967.woff",
     "static/media/video_bg.png": "/static/media/video_bg.ebf1bfe33bd41072780b.png",
     "static/media/figura-2.svg": "/static/media/figura-2.1db0933694a053816cb60ec790106bef.svg",
-    "static/media/Futura.ttf": "/static/media/Futura.71d20cae1da6df8d2a23.ttf",
     "static/media/fortalezas.jpg": "/static/media/fortalezas.7bbf31506b24b4c76f29.jpg",
     "static/media/folder-father.webp": "/static/media/folder-father.68baebf06014a52c953b.webp",
     "static/media/folder-interna.webp": "/static/media/folder-interna.34744078ac6ad10cfd76.webp",
     "static/media/simbolo-Humanos.png": "/static/media/simbolo-Humanos.14ddb04e3e21ac3a460a.png",
     "static/media/fa-regular-400.eot": "/static/media/fa-regular-400.dd9a12163ec6ab0d1bf1.eot",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.b532fab9650d3b7c90a0.ttf",
-    "static/media/FuturaExtraBlackfont.ttf": "/static/media/FuturaExtraBlackfont.bf8e35c1b65d5258aedc.ttf",
-    "static/media/FuturaBoldfont.ttf": "/static/media/FuturaBoldfont.7bfa561462fd51bcc460.ttf",
-    "static/media/FuturaMediumbt.ttf": "/static/media/FuturaMediumbt.4e762c29ef7b44ca51cb.ttf",
     "static/media/sprint_retrospectiva.jpg": "/static/media/sprint_retrospectiva.ab5f2104ad8e969c535c.jpg",
     "static/media/sprint_review.jpg": "/static/media/sprint_review.cdcb99dc6c6b5df5d98b.jpg",
     "static/media/certification-great-place-to-work.png": "/static/media/certification-great-place-to-work.0932c3718ac4c7a11932.png",
@@ -170,12 +166,12 @@
     "static/media/talent-culture.svg": "/static/media/talent-culture.225535e5e2f306d03d48133c296ffdfc.svg",
     "static/media/figura_banner_blog_5.svg": "/static/media/figura_banner_blog_5.64cb6f3012a8f5eff211769aebd4a892.svg",
     "static/media/figura_banner_blog_3.svg": "/static/media/figura_banner_blog_3.221b7fa823086561abbc231b44b8c9d3.svg",
-    "main.fcf2e08a.css.map": "/static/css/main.fcf2e08a.css.map",
-    "main.10eced88.js.map": "/static/js/main.10eced88.js.map",
+    "main.03bcce5e.css.map": "/static/css/main.03bcce5e.css.map",
+    "main.06379f17.js.map": "/static/js/main.06379f17.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcf2e08a.css",
-    "static/js/main.10eced88.js"
+    "static/css/main.03bcce5e.css",
+    "static/js/main.06379f17.js"
   ]
 }
