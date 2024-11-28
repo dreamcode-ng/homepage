@@ -9,7 +9,7 @@ Allow: /blog/*
 Allow: /careers/*
 Disallow: /blog-single
 Disallow: /author/*
-Disallow: /static/*
+Disallow: /path/to/*
 Disallow: /cdn-cgi/*
 Disallow: /jobs
 Disallow: /index.php
