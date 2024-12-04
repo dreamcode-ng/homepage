@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.b264473e.css",
-    "main.js": "/static/js/main.653dedb2.js",
+    "main.js": "/static/js/main.a63bfcdb.js",
     "static/css/138.8eef2559.chunk.css": "/static/css/138.8eef2559.chunk.css",
     "static/js/138.813ccea2.chunk.js": "/static/js/138.813ccea2.chunk.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
     "static/js/915.c46bbe55.chunk.js": "/static/js/915.c46bbe55.chunk.js",
-    "static/media/Brochure_DreamCode_English.pdf": "/static/media/Brochure_DreamCode_English.2b1fa622b9fa70b3de5f.pdf",
-    "static/media/Brochure_DreamCode_Spanish.pdf": "/static/media/Brochure_DreamCode_Spanish.091884db37bccb859ba3.pdf",
+    "static/media/Brochure_DreamCode_Spanish.pdf": "/static/media/Brochure_DreamCode_Spanish.a346fdfbcf7daf19c344.pdf",
+    "static/media/Brochure_DreamCode_English.pdf": "/static/media/Brochure_DreamCode_English.8d9f4caca0df5065dd34.pdf",
     "static/media/app-development-and-design-trends-that-will-prevail-in-2024.webp": "/static/media/app-development-and-design-trends-that-will-prevail-in-2024.08800c053b22f351c321.webp",
     "static/media/reactjs-or-reactnative-which-one-to-choose-for-your-project.webp": "/static/media/reactjs-or-reactnative-which-one-to-choose-for-your-project.4ebf3ffd55ef307cabfa.webp",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.19246336eb35c8d4fb59.svg",
@@ -170,7 +170,7 @@
     "static/media/figura_banner_blog_5.svg": "/static/media/figura_banner_blog_5.64cb6f3012a8f5eff211769aebd4a892.svg",
     "static/media/figura_banner_blog_3.svg": "/static/media/figura_banner_blog_3.221b7fa823086561abbc231b44b8c9d3.svg",
     "main.b264473e.css.map": "/static/css/main.b264473e.css.map",
-    "main.653dedb2.js.map": "/static/js/main.653dedb2.js.map",
+    "main.a63bfcdb.js.map": "/static/js/main.a63bfcdb.js.map",
     "138.8eef2559.chunk.css.map": "/static/css/138.8eef2559.chunk.css.map",
     "138.813ccea2.chunk.js.map": "/static/js/138.813ccea2.chunk.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map",
@@ -178,6 +178,6 @@
   },
   "entrypoints": [
     "static/css/main.b264473e.css",
-    "static/js/main.653dedb2.js"
+    "static/js/main.a63bfcdb.js"
   ]
 }
