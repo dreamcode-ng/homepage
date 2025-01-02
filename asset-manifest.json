@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.b264473e.css",
-    "main.js": "/static/js/main.747fc345.js",
+    "main.css": "/static/css/main.8e2718ef.css",
+    "main.js": "/static/js/main.0d196b8d.js",
     "static/css/138.8eef2559.chunk.css": "/static/css/138.8eef2559.chunk.css",
     "static/js/138.813ccea2.chunk.js": "/static/js/138.813ccea2.chunk.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
     "static/js/915.c46bbe55.chunk.js": "/static/js/915.c46bbe55.chunk.js",
     "static/media/Brochure_DreamCode_Spanish.pdf": "/static/media/Brochure_DreamCode_Spanish.a346fdfbcf7daf19c344.pdf",
+    "static/media/banner-stories-customers-DreamCode.png": "/static/media/banner-stories-customers-DreamCode.67ed1a0632c33f602b2e.png",
     "static/media/Brochure_DreamCode_English.pdf": "/static/media/Brochure_DreamCode_English.8d9f4caca0df5065dd34.pdf",
     "static/media/app-development-and-design-trends-that-will-prevail-in-2024.webp": "/static/media/app-development-and-design-trends-that-will-prevail-in-2024.08800c053b22f351c321.webp",
     "static/media/reactjs-or-reactnative-which-one-to-choose-for-your-project.webp": "/static/media/reactjs-or-reactnative-which-one-to-choose-for-your-project.4ebf3ffd55ef307cabfa.webp",
@@ -145,15 +146,22 @@
     "static/media/simbolo-Motivados.png": "/static/media/simbolo-Motivados.6ab8506902a4be65914f.png",
     "static/media/sprint_planning.jpg": "/static/media/sprint_planning.9b109f274d4dc3480107.jpg",
     "static/media/simbolo-Agiles.png": "/static/media/simbolo-Agiles.aec10d9ce37a38c5d4ce.png",
+    "static/media/Sequoia.png": "/static/media/Sequoia.a217be88b778bca0868c.png",
+    "static/media/Squaretrade.png": "/static/media/Squaretrade.463703b736aee9d247bb.png",
+    "static/media/Seguros Bolivar.png": "/static/media/Seguros Bolivar.10f8b18dcba83d5c02df.png",
     "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.95352b573931aa75b5b6.woff",
     "static/media/logo-blue.png": "/static/media/logo-blue.ae264d13acb7c52ff8f6.png",
     "static/media/logo-falabella.png": "/static/media/logo-falabella.a4ece89323f913462fde.png",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.95dbe63555424726ce0c.woff2",
+    "static/media/sequoia_logo.svg": "/static/media/sequoia_logo.695ab9cd894d8a329d61.svg",
     "static/media/logo-phonecheck.png": "/static/media/logo-phonecheck.e808342d98a02dbe1871.png",
     "static/media/estrellas.png": "/static/media/estrellas.bf85787fbe4975569c07.png",
+    "static/media/segurosbolivar_logo.svg": "/static/media/segurosbolivar_logo.78bccfee112182daa843.svg",
+    "static/media/squaretrade_logo.svg": "/static/media/squaretrade_logo.153c4e84d2aff51e3dea.svg",
     "static/media/figura_banner_blog_1.svg": "/static/media/figura_banner_blog_1.0f95090244646d46ccbacfb9376ca1bd.svg",
     "index.html": "/index.html",
     "static/media/talent-innovation.svg": "/static/media/talent-innovation.7d706064672642cea2307b3a905d7664.svg",
+    "static/media/target_logo.svg": "/static/media/target_logo.91ee39862f2bb533e545.svg",
     "static/media/circulos-2.svg": "/static/media/circulos-2.c0a52bb9cab8c213710cf8036ccf00eb.svg",
     "static/media/talent-agile.svg": "/static/media/talent-agile.f3cc134bc348c152dc9a192aca880751.svg",
     "static/media/talent-valor.svg": "/static/media/talent-valor.a2eb6b38973e03ce8edfc76894a86a46.svg",
@@ -169,15 +177,15 @@
     "static/media/talent-culture.svg": "/static/media/talent-culture.225535e5e2f306d03d48133c296ffdfc.svg",
     "static/media/figura_banner_blog_5.svg": "/static/media/figura_banner_blog_5.64cb6f3012a8f5eff211769aebd4a892.svg",
     "static/media/figura_banner_blog_3.svg": "/static/media/figura_banner_blog_3.221b7fa823086561abbc231b44b8c9d3.svg",
-    "main.b264473e.css.map": "/static/css/main.b264473e.css.map",
-    "main.747fc345.js.map": "/static/js/main.747fc345.js.map",
+    "main.8e2718ef.css.map": "/static/css/main.8e2718ef.css.map",
+    "main.0d196b8d.js.map": "/static/js/main.0d196b8d.js.map",
     "138.8eef2559.chunk.css.map": "/static/css/138.8eef2559.chunk.css.map",
     "138.813ccea2.chunk.js.map": "/static/js/138.813ccea2.chunk.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map",
     "915.c46bbe55.chunk.js.map": "/static/js/915.c46bbe55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b264473e.css",
-    "static/js/main.747fc345.js"
+    "static/css/main.8e2718ef.css",
+    "static/js/main.0d196b8d.js"
   ]
 }
