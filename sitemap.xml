@@ -109,6 +109,27 @@
 		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/contact" />
 	</url>
 
+		<!-- customer-stories -->
+
+	<url>
+		<loc>https://www.dreamcodesoft.com/customer-stories</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/customer-stories" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/customer-stories" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/customer-stories" />
+	</url>
+	<url>
+		<loc>https://www.dreamcodesoft.com/es/customer-stories</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/customer-stories" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/customer-stories" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/customer-stories" />
+	</url>
+    <url>
+		<loc>https://www.dreamcodesoft.com/en/customer-stories</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.dreamcodesoft.com/en/customer-stories" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.dreamcodesoft.com/es/customer-stories" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://www.dreamcodesoft.com/customer-stories" />
+	</url>
+
 	<!-- dreamcoders -->
 
 	<url>
