@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a53ce339.css",
-    "main.js": "/static/js/main.98de29d5.js",
+    "main.js": "/static/js/main.326b6fd6.js",
     "static/css/138.8eef2559.chunk.css": "/static/css/138.8eef2559.chunk.css",
     "static/js/138.813ccea2.chunk.js": "/static/js/138.813ccea2.chunk.js",
     "static/js/787.8b5cac3e.chunk.js": "/static/js/787.8b5cac3e.chunk.js",
@@ -159,8 +159,8 @@
     "static/media/segurosbolivar_logo.svg": "/static/media/segurosbolivar_logo.78bccfee112182daa843.svg",
     "static/media/squaretrade_logo.svg": "/static/media/squaretrade_logo.153c4e84d2aff51e3dea.svg",
     "static/media/figura_banner_blog_1.svg": "/static/media/figura_banner_blog_1.0f95090244646d46ccbacfb9376ca1bd.svg",
-    "index.html": "/index.html",
     "static/media/talent-innovation.svg": "/static/media/talent-innovation.7d706064672642cea2307b3a905d7664.svg",
+    "index.html": "/index.html",
     "static/media/target_logo.svg": "/static/media/target_logo.91ee39862f2bb533e545.svg",
     "static/media/circulos-2.svg": "/static/media/circulos-2.c0a52bb9cab8c213710cf8036ccf00eb.svg",
     "static/media/talent-agile.svg": "/static/media/talent-agile.f3cc134bc348c152dc9a192aca880751.svg",
@@ -178,7 +178,7 @@
     "static/media/figura_banner_blog_5.svg": "/static/media/figura_banner_blog_5.64cb6f3012a8f5eff211769aebd4a892.svg",
     "static/media/figura_banner_blog_3.svg": "/static/media/figura_banner_blog_3.221b7fa823086561abbc231b44b8c9d3.svg",
     "main.a53ce339.css.map": "/static/css/main.a53ce339.css.map",
-    "main.98de29d5.js.map": "/static/js/main.98de29d5.js.map",
+    "main.326b6fd6.js.map": "/static/js/main.326b6fd6.js.map",
     "138.8eef2559.chunk.css.map": "/static/css/138.8eef2559.chunk.css.map",
     "138.813ccea2.chunk.js.map": "/static/js/138.813ccea2.chunk.js.map",
     "787.8b5cac3e.chunk.js.map": "/static/js/787.8b5cac3e.chunk.js.map",
@@ -186,6 +186,6 @@
   },
   "entrypoints": [
     "static/css/main.a53ce339.css",
-    "static/js/main.98de29d5.js"
+    "static/js/main.326b6fd6.js"
   ]
 }
